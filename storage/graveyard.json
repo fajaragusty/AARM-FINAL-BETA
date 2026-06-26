@@ -1,0 +1,292 @@
+{
+    "UUU|PUT|1|RSI_60_80|BULLISH|RANGING": {
+        "buried_at": "2026-06-23 21:36:10",
+        "pattern": "UUU",
+        "direction": "PUT",
+        "duration": 1,
+        "samples": 21,
+        "wr": 33.33,
+        "score": 26.48,
+        "status": "GRAVEYARD"
+    },
+    "DUD|CALL|2|RSI_20_40|BEARISH|RANGING": {
+        "buried_at": "2026-06-23 21:36:10",
+        "pattern": "DUD",
+        "direction": "CALL",
+        "duration": 2,
+        "samples": 22,
+        "wr": 36.36,
+        "score": 28.75,
+        "status": "GRAVEYARD"
+    },
+    "DUD|CALL|5|RSI_20_40|BEARISH|RANGING": {
+        "buried_at": "2026-06-23 21:36:10",
+        "pattern": "DUD",
+        "direction": "CALL",
+        "duration": 5,
+        "samples": 22,
+        "wr": 36.36,
+        "score": 28.75,
+        "status": "GRAVEYARD"
+    },
+    "DUD|CALL|3|RSI_20_40|BEARISH|RANGING": {
+        "buried_at": "2026-06-23 21:36:10",
+        "pattern": "DUD",
+        "direction": "CALL",
+        "duration": 3,
+        "samples": 22,
+        "wr": 40.91,
+        "score": 31.94,
+        "status": "GRAVEYARD"
+    },
+    "DUD|CALL|4|RSI_20_40|BEARISH|RANGING": {
+        "buried_at": "2026-06-23 21:36:10",
+        "pattern": "DUD",
+        "direction": "CALL",
+        "duration": 4,
+        "samples": 22,
+        "wr": 40.91,
+        "score": 31.94,
+        "status": "GRAVEYARD"
+    },
+    "UUU|CALL|2|RSI_60_80|BULLISH|RANGING": {
+        "buried_at": "2026-06-23 21:36:10",
+        "pattern": "UUU",
+        "direction": "CALL",
+        "duration": 2,
+        "samples": 21,
+        "wr": 42.86,
+        "score": 33.15,
+        "status": "GRAVEYARD"
+    },
+    "UUU|CALL|5|RSI_60_80|BULLISH|RANGING": {
+        "buried_at": "2026-06-23 21:36:10",
+        "pattern": "UUU",
+        "direction": "CALL",
+        "duration": 5,
+        "samples": 21,
+        "wr": 42.86,
+        "score": 33.15,
+        "status": "GRAVEYARD"
+    },
+    "DUD|CALL|1|RSI_20_40|BEARISH|RANGING": {
+        "buried_at": "2026-06-23 21:36:10",
+        "pattern": "DUD",
+        "direction": "CALL",
+        "duration": 1,
+        "samples": 22,
+        "wr": 45.45,
+        "score": 35.12,
+        "status": "GRAVEYARD"
+    },
+    "UUU|CALL|3|RSI_60_80|BULLISH|RANGING": {
+        "buried_at": "2026-06-23 21:36:10",
+        "pattern": "UUU",
+        "direction": "CALL",
+        "duration": 3,
+        "samples": 21,
+        "wr": 47.62,
+        "score": 36.48,
+        "status": "GRAVEYARD"
+    },
+    "UUU|CALL|4|RSI_60_80|BULLISH|RANGING": {
+        "buried_at": "2026-06-23 21:36:10",
+        "pattern": "UUU",
+        "direction": "CALL",
+        "duration": 4,
+        "samples": 21,
+        "wr": 47.62,
+        "score": 36.48,
+        "status": "GRAVEYARD"
+    },
+    "UUU|PUT|3|RSI_60_80|BULLISH|RANGING": {
+        "buried_at": "2026-06-23 21:36:10",
+        "pattern": "UUU",
+        "direction": "PUT",
+        "duration": 3,
+        "samples": 21,
+        "wr": 52.38,
+        "score": 39.82,
+        "status": "GRAVEYARD"
+    },
+    "UUU|PUT|4|RSI_60_80|BULLISH|RANGING": {
+        "buried_at": "2026-06-23 21:36:10",
+        "pattern": "UUU",
+        "direction": "PUT",
+        "duration": 4,
+        "samples": 21,
+        "wr": 52.38,
+        "score": 39.82,
+        "status": "GRAVEYARD"
+    },
+    "DDU|CALL|1|RSI_40_60|BULLISH|RANGING": {
+        "buried_at": "2026-06-23 21:36:10",
+        "pattern": "DDU",
+        "direction": "CALL",
+        "duration": 1,
+        "samples": 88,
+        "wr": 38.64,
+        "score": 40.25,
+        "status": "GRAVEYARD"
+    },
+    "DDU|CALL|2|RSI_40_60|BULLISH|RANGING": {
+        "buried_at": "2026-06-23 21:36:10",
+        "pattern": "DDU",
+        "direction": "CALL",
+        "duration": 2,
+        "samples": 88,
+        "wr": 38.64,
+        "score": 40.25,
+        "status": "GRAVEYARD"
+    },
+    "UDD|CALL|3|RSI_40_60|BULLISH|RANGING": {
+        "buried_at": "2026-06-23 21:36:10",
+        "pattern": "UDD",
+        "direction": "CALL",
+        "duration": 3,
+        "samples": 100,
+        "wr": 37,
+        "score": 40.9,
+        "status": "GRAVEYARD"
+    },
+    "DUD|PUT|1|RSI_20_40|BEARISH|RANGING": {
+        "buried_at": "2026-06-23 21:36:10",
+        "pattern": "DUD",
+        "direction": "PUT",
+        "duration": 1,
+        "samples": 22,
+        "wr": 54.55,
+        "score": 41.49,
+        "status": "GRAVEYARD"
+    },
+    "DDU|CALL|5|RSI_40_60|BULLISH|RANGING": {
+        "buried_at": "2026-06-23 21:36:10",
+        "pattern": "DDU",
+        "direction": "CALL",
+        "duration": 5,
+        "samples": 88,
+        "wr": 42.05,
+        "score": 42.64,
+        "status": "GRAVEYARD"
+    },
+    "UUU|PUT|2|RSI_60_80|BULLISH|RANGING": {
+        "buried_at": "2026-06-23 21:36:10",
+        "pattern": "UUU",
+        "direction": "PUT",
+        "duration": 2,
+        "samples": 21,
+        "wr": 57.14,
+        "score": 43.15,
+        "status": "GRAVEYARD"
+    },
+    "UUU|PUT|5|RSI_60_80|BULLISH|RANGING": {
+        "buried_at": "2026-06-23 21:36:10",
+        "pattern": "UUU",
+        "direction": "PUT",
+        "duration": 5,
+        "samples": 21,
+        "wr": 57.14,
+        "score": 43.15,
+        "status": "GRAVEYARD"
+    },
+    "DUU|PUT|5|RSI_40_60|BULLISH|RANGING": {
+        "buried_at": "2026-06-23 21:36:10",
+        "pattern": "DUU",
+        "direction": "PUT",
+        "duration": 5,
+        "samples": 86,
+        "wr": 44.19,
+        "score": 43.83,
+        "status": "GRAVEYARD"
+    },
+    "DDU|CALL|3|RSI_40_60|BULLISH|RANGING": {
+        "buried_at": "2026-06-23 21:36:10",
+        "pattern": "DDU",
+        "direction": "CALL",
+        "duration": 3,
+        "samples": 88,
+        "wr": 44.32,
+        "score": 44.22,
+        "status": "GRAVEYARD"
+    },
+    "DDU|CALL|4|RSI_40_60|BULLISH|RANGING": {
+        "buried_at": "2026-06-23 21:36:10",
+        "pattern": "DDU",
+        "direction": "CALL",
+        "duration": 4,
+        "samples": 88,
+        "wr": 44.32,
+        "score": 44.22,
+        "status": "GRAVEYARD"
+    },
+    "DUU|CALL|4|RSI_40_60|BEARISH|RANGING": {
+        "buried_at": "2026-06-23 21:36:10",
+        "pattern": "DUU",
+        "direction": "CALL",
+        "duration": 4,
+        "samples": 106,
+        "wr": 40.57,
+        "score": 44.3,
+        "status": "GRAVEYARD"
+    },
+    "UDD|CALL|2|RSI_40_60|BULLISH|RANGING": {
+        "buried_at": "2026-06-23 21:36:10",
+        "pattern": "UDD",
+        "direction": "CALL",
+        "duration": 2,
+        "samples": 100,
+        "wr": 42,
+        "score": 44.4,
+        "status": "GRAVEYARD"
+    },
+    "DUD|PUT|3|RSI_20_40|BEARISH|RANGING": {
+        "buried_at": "2026-06-23 21:36:10",
+        "pattern": "DUD",
+        "direction": "PUT",
+        "duration": 3,
+        "samples": 22,
+        "wr": 59.09,
+        "score": 44.66,
+        "status": "GRAVEYARD"
+    },
+    "DUD|PUT|4|RSI_20_40|BEARISH|RANGING": {
+        "buried_at": "2026-06-23 21:36:10",
+        "pattern": "DUD",
+        "direction": "PUT",
+        "duration": 4,
+        "samples": 22,
+        "wr": 59.09,
+        "score": 44.66,
+        "status": "GRAVEYARD"
+    },
+    "UDD|CALL|3|RSI_40_60|BEARISH|RANGING": {
+        "buried_at": "2026-06-23 21:36:10",
+        "pattern": "UDD",
+        "direction": "CALL",
+        "duration": 3,
+        "samples": 98,
+        "wr": 42.86,
+        "score": 44.7,
+        "status": "GRAVEYARD"
+    },
+    "DUD|CALL|4|RSI_40_60|BULLISH|RANGING": {
+        "buried_at": "2026-06-23 21:36:10",
+        "pattern": "DUD",
+        "direction": "CALL",
+        "duration": 4,
+        "samples": 108,
+        "wr": 40.74,
+        "score": 44.72,
+        "status": "GRAVEYARD"
+    },
+    "DUD|PUT|4|RSI_40_60|BEARISH|RANGING": {
+        "buried_at": "2026-06-23 21:36:10",
+        "pattern": "DUD",
+        "direction": "PUT",
+        "duration": 4,
+        "samples": 102,
+        "wr": 42.16,
+        "score": 44.81,
+        "status": "GRAVEYARD"
+    }
+}

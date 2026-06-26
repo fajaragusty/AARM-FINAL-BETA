@@ -1,0 +1,210 @@
+[
+    {
+        "datetime": "2026-06-25 20:58:12",
+        "dna_id": "59c959e6c45ab87204c216df0f323aef",
+        "fitness": 0,
+        "confidence": 51,
+        "trust": 0,
+        "life_stage": "NEW",
+        "execution": {
+            "direction": "PUT",
+            "duration": 3,
+            "expected_wr": 58.57
+        }
+    },
+    {
+        "datetime": "2026-06-25 21:03:03",
+        "dna_id": "59c959e6c45ab87204c216df0f323aef",
+        "fitness": 62.35,
+        "confidence": 67.35,
+        "trust": 57.83,
+        "life_stage": "LEARNING",
+        "execution": {
+            "direction": "PUT",
+            "duration": 3,
+            "expected_wr": 67.35
+        }
+    },
+    {
+        "datetime": "2026-06-25 21:17:35",
+        "dna_id": "59c959e6c45ab87204c216df0f323aef",
+        "fitness": 37.31,
+        "confidence": 52.06,
+        "trust": 57.83,
+        "life_stage": "NEW",
+        "execution": {
+            "direction": "WAIT",
+            "duration": 3,
+            "expected_wr": 52.06
+        }
+    },
+    {
+        "datetime": "2026-06-25 21:18:55",
+        "dna_id": "59c959e6c45ab87204c216df0f323aef",
+        "fitness": 37.31,
+        "confidence": 52.06,
+        "trust": 57.83,
+        "life_stage": "NEW",
+        "execution": {
+            "direction": "WAIT",
+            "duration": 3,
+            "expected_wr": 52.06
+        }
+    },
+    {
+        "datetime": "2026-06-25 21:20:37",
+        "dna_id": "59c959e6c45ab87204c216df0f323aef",
+        "fitness": 37.31,
+        "confidence": 52.06,
+        "trust": 57.83,
+        "life_stage": "NEW",
+        "execution": {
+            "direction": "WAIT",
+            "duration": 3,
+            "expected_wr": 52.06
+        }
+    },
+    {
+        "datetime": "2026-06-25 21:21:30",
+        "dna_id": "59c959e6c45ab87204c216df0f323aef",
+        "fitness": 37.31,
+        "confidence": 52.06,
+        "trust": 57.83,
+        "life_stage": "NEW",
+        "execution": {
+            "direction": "WAIT",
+            "duration": 3,
+            "expected_wr": 52.06
+        }
+    },
+    {
+        "datetime": "2026-06-25 21:21:50",
+        "dna_id": "59c959e6c45ab87204c216df0f323aef",
+        "fitness": 37.31,
+        "confidence": 52.06,
+        "trust": 57.83,
+        "life_stage": "NEW",
+        "execution": {
+            "direction": "WAIT",
+            "duration": 3,
+            "expected_wr": 52.06
+        }
+    },
+    {
+        "datetime": "2026-06-25 21:24:02",
+        "dna_id": "59c959e6c45ab87204c216df0f323aef",
+        "fitness": 37.31,
+        "confidence": 52.06,
+        "trust": 57.83,
+        "life_stage": "NEW",
+        "execution": {
+            "direction": "WAIT",
+            "duration": 3,
+            "expected_wr": 52.06
+        }
+    },
+    {
+        "datetime": "2026-06-25 21:24:04",
+        "dna_id": "59c959e6c45ab87204c216df0f323aef",
+        "fitness": 37.31,
+        "confidence": 52.06,
+        "trust": 57.83,
+        "life_stage": "NEW",
+        "execution": {
+            "direction": "WAIT",
+            "duration": 3,
+            "expected_wr": 52.06
+        }
+    },
+    {
+        "datetime": "2026-06-25 21:42:09",
+        "dna_id": "4241a8acec6401134f1b6c9bba33109d",
+        "fitness": 37.63,
+        "confidence": 51.41,
+        "trust": 57.83,
+        "life_stage": "NEW",
+        "execution": {
+            "direction": "WAIT",
+            "duration": 3,
+            "expected_wr": 51.41
+        }
+    },
+    {
+        "datetime": "2026-06-25 21:55:00",
+        "dna_id": "f0de1e6dcd6855f34b6e6c6053ed285c",
+        "fitness": 100,
+        "confidence": 51.41,
+        "trust": 57.83,
+        "life_stage": "MASTER",
+        "execution": {
+            "direction": "WAIT",
+            "duration": 3,
+            "expected_wr": 51.41
+        }
+    },
+    {
+        "datetime": "2026-06-25 21:55:21",
+        "dna_id": "60cd583680d7f160e2c2f5673855648e",
+        "fitness": 100,
+        "confidence": 51.41,
+        "trust": 57.83,
+        "life_stage": "MASTER",
+        "execution": {
+            "direction": "WAIT",
+            "duration": 3,
+            "expected_wr": 51.41
+        }
+    },
+    {
+        "datetime": "2026-06-25 21:57:27",
+        "dna_id": "69e9fe26200c3f9ba25c232d9aa55471",
+        "fitness": 55.2,
+        "confidence": 51.29,
+        "trust": 57.83,
+        "life_stage": "LEARNING",
+        "execution": {
+            "direction": "WAIT",
+            "duration": 3,
+            "expected_wr": 51.29
+        }
+    },
+    {
+        "datetime": "2026-06-25 21:57:37",
+        "dna_id": "4ff1dcf8ea147e1ce0a09b0568935f13",
+        "fitness": 55.2,
+        "confidence": 51.29,
+        "trust": 57.83,
+        "life_stage": "LEARNING",
+        "execution": {
+            "direction": "WAIT",
+            "duration": 3,
+            "expected_wr": 51.29
+        }
+    },
+    {
+        "datetime": "2026-06-25 22:02:52",
+        "dna_id": "1fb1331a6457967cd02765f6f3d40912",
+        "fitness": 55.2,
+        "confidence": 59.29,
+        "trust": 57.83,
+        "life_stage": "LEARNING",
+        "execution": {
+            "direction": "WAIT",
+            "duration": 3,
+            "expected_wr": 59.29
+        }
+    },
+    {
+        "datetime": "2026-06-25 22:05:03",
+        "dna_id": "61ac6463097eaa194c0763a00b2da34a",
+        "fitness": 55.2,
+        "confidence": 59.29,
+        "trust": 57.83,
+        "life_stage": "LEARNING",
+        "execution": {
+            "direction": "WAIT",
+            "duration": 3,
+            "expected_wr": 59.29
+        }
+    }
+]

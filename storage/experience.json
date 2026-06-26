@@ -1,0 +1,50 @@
+{
+    "UUU": {
+        "win": 133,
+        "loss": 118,
+        "total": 251,
+        "trust": 52.99
+    },
+    "UUD": {
+        "win": 123,
+        "loss": 125,
+        "total": 248,
+        "trust": 49.6
+    },
+    "UDD": {
+        "win": 144,
+        "loss": 105,
+        "total": 249,
+        "trust": 57.83
+    },
+    "DDU": {
+        "win": 132,
+        "loss": 118,
+        "total": 250,
+        "trust": 52.8
+    },
+    "DUD": {
+        "win": 151,
+        "loss": 124,
+        "total": 275,
+        "trust": 54.91
+    },
+    "UDU": {
+        "win": 130,
+        "loss": 142,
+        "total": 272,
+        "trust": 47.79
+    },
+    "DDD": {
+        "win": 129,
+        "loss": 132,
+        "total": 261,
+        "trust": 49.43
+    },
+    "DUU": {
+        "win": 115,
+        "loss": 130,
+        "total": 245,
+        "trust": 46.94
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "time": "2026-06-23 21:44:23",
+    "call_votes": 6,
+    "put_votes": 1,
+    "decision": "FOLLOW_CALL",
+    "confidence": 85.71,
+    "reasons": [
+        "Pattern Brain CALL",
+        "Digit Brain PUT",
+        "High Confidence",
+        "Lifecycle ACTIVE"
+    ]
+}

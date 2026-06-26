@@ -1,0 +1,722 @@
+{
+    "16": {
+        "last2": 16,
+        "avg_score": 45.2,
+        "best_score": 59.61,
+        "strong_durations": 0,
+        "consistency_score": 40.48,
+        "rank": "WEAK"
+    },
+    "23": {
+        "last2": 23,
+        "avg_score": 44.07,
+        "best_score": 58.98,
+        "strong_durations": 0,
+        "consistency_score": 39.73,
+        "rank": "WEAK"
+    },
+    "81": {
+        "last2": 81,
+        "avg_score": 41.3,
+        "best_score": 62.97,
+        "strong_durations": 0,
+        "consistency_score": 39.54,
+        "rank": "WEAK"
+    },
+    "56": {
+        "last2": 56,
+        "avg_score": 41.6,
+        "best_score": 60.69,
+        "strong_durations": 0,
+        "consistency_score": 39.01,
+        "rank": "WEAK"
+    },
+    "76": {
+        "last2": 76,
+        "avg_score": 42.2,
+        "best_score": 59.7,
+        "strong_durations": 0,
+        "consistency_score": 39.01,
+        "rank": "WEAK"
+    },
+    "41": {
+        "last2": 41,
+        "avg_score": 43.7,
+        "best_score": 56.98,
+        "strong_durations": 0,
+        "consistency_score": 38.94,
+        "rank": "WEAK"
+    },
+    "07": {
+        "last2": "07",
+        "avg_score": 44,
+        "best_score": 55.67,
+        "strong_durations": 0,
+        "consistency_score": 38.7,
+        "rank": "WEAK"
+    },
+    "52": {
+        "last2": 52,
+        "avg_score": 43.77,
+        "best_score": 55.67,
+        "strong_durations": 0,
+        "consistency_score": 38.59,
+        "rank": "WEAK"
+    },
+    "78": {
+        "last2": 78,
+        "avg_score": 41.3,
+        "best_score": 59.63,
+        "strong_durations": 0,
+        "consistency_score": 38.54,
+        "rank": "WEAK"
+    },
+    "58": {
+        "last2": 58,
+        "avg_score": 44.3,
+        "best_score": 54.46,
+        "strong_durations": 0,
+        "consistency_score": 38.49,
+        "rank": "WEAK"
+    },
+    "12": {
+        "last2": 12,
+        "avg_score": 42.22,
+        "best_score": 57.9,
+        "strong_durations": 0,
+        "consistency_score": 38.48,
+        "rank": "WEAK"
+    },
+    "51": {
+        "last2": 51,
+        "avg_score": 44.07,
+        "best_score": 54.46,
+        "strong_durations": 0,
+        "consistency_score": 38.37,
+        "rank": "WEAK"
+    },
+    "65": {
+        "last2": 65,
+        "avg_score": 46.4,
+        "best_score": 50.08,
+        "strong_durations": 0,
+        "consistency_score": 38.22,
+        "rank": "WEAK"
+    },
+    "55": {
+        "last2": 55,
+        "avg_score": 42.53,
+        "best_score": 56.26,
+        "strong_durations": 0,
+        "consistency_score": 38.14,
+        "rank": "WEAK"
+    },
+    "74": {
+        "last2": 74,
+        "avg_score": 41,
+        "best_score": 58.5,
+        "strong_durations": 0,
+        "consistency_score": 38.05,
+        "rank": "WEAK"
+    },
+    "95": {
+        "last2": 95,
+        "avg_score": 44,
+        "best_score": 53.33,
+        "strong_durations": 0,
+        "consistency_score": 38,
+        "rank": "WEAK"
+    },
+    "63": {
+        "last2": 63,
+        "avg_score": 39.5,
+        "best_score": 60.5,
+        "strong_durations": 0,
+        "consistency_score": 37.9,
+        "rank": "WEAK"
+    },
+    "33": {
+        "last2": 33,
+        "avg_score": 42.84,
+        "best_score": 54.77,
+        "strong_durations": 0,
+        "consistency_score": 37.85,
+        "rank": "WEAK"
+    },
+    "05": {
+        "last2": "05",
+        "avg_score": 44.6,
+        "best_score": 51.17,
+        "strong_durations": 0,
+        "consistency_score": 37.65,
+        "rank": "WEAK"
+    },
+    "89": {
+        "last2": 89,
+        "avg_score": 40.1,
+        "best_score": 58.63,
+        "strong_durations": 0,
+        "consistency_score": 37.64,
+        "rank": "WEAK"
+    },
+    "88": {
+        "last2": 88,
+        "avg_score": 43.15,
+        "best_score": 53.4,
+        "strong_durations": 0,
+        "consistency_score": 37.6,
+        "rank": "WEAK"
+    },
+    "06": {
+        "last2": "06",
+        "avg_score": 40.7,
+        "best_score": 57.28,
+        "strong_durations": 0,
+        "consistency_score": 37.53,
+        "rank": "WEAK"
+    },
+    "85": {
+        "last2": 85,
+        "avg_score": 43.7,
+        "best_score": 52.15,
+        "strong_durations": 0,
+        "consistency_score": 37.5,
+        "rank": "WEAK"
+    },
+    "71": {
+        "last2": 71,
+        "avg_score": 43.7,
+        "best_score": 52.15,
+        "strong_durations": 0,
+        "consistency_score": 37.5,
+        "rank": "WEAK"
+    },
+    "49": {
+        "last2": 49,
+        "avg_score": 41.6,
+        "best_score": 55.6,
+        "strong_durations": 0,
+        "consistency_score": 37.48,
+        "rank": "WEAK"
+    },
+    "79": {
+        "last2": 79,
+        "avg_score": 42.8,
+        "best_score": 53.57,
+        "strong_durations": 0,
+        "consistency_score": 37.47,
+        "rank": "WEAK"
+    },
+    "26": {
+        "last2": 26,
+        "avg_score": 42.8,
+        "best_score": 53.57,
+        "strong_durations": 0,
+        "consistency_score": 37.47,
+        "rank": "WEAK"
+    },
+    "13": {
+        "last2": 13,
+        "avg_score": 42.2,
+        "best_score": 53.87,
+        "strong_durations": 0,
+        "consistency_score": 37.26,
+        "rank": "WEAK"
+    },
+    "53": {
+        "last2": 53,
+        "avg_score": 43.1,
+        "best_score": 52.17,
+        "strong_durations": 0,
+        "consistency_score": 37.2,
+        "rank": "WEAK"
+    },
+    "99": {
+        "last2": 99,
+        "avg_score": 41.91,
+        "best_score": 53.87,
+        "strong_durations": 0,
+        "consistency_score": 37.12,
+        "rank": "WEAK"
+    },
+    "96": {
+        "last2": 96,
+        "avg_score": 39.8,
+        "best_score": 57.3,
+        "strong_durations": 0,
+        "consistency_score": 37.09,
+        "rank": "WEAK"
+    },
+    "24": {
+        "last2": 24,
+        "avg_score": 43.4,
+        "best_score": 50.9,
+        "strong_durations": 0,
+        "consistency_score": 36.97,
+        "rank": "WEAK"
+    },
+    "73": {
+        "last2": 73,
+        "avg_score": 42.5,
+        "best_score": 52.3,
+        "strong_durations": 0,
+        "consistency_score": 36.94,
+        "rank": "WEAK"
+    },
+    "42": {
+        "last2": 42,
+        "avg_score": 42.5,
+        "best_score": 52.3,
+        "strong_durations": 0,
+        "consistency_score": 36.94,
+        "rank": "WEAK"
+    },
+    "31": {
+        "last2": 31,
+        "avg_score": 41.9,
+        "best_score": 52.55,
+        "strong_durations": 0,
+        "consistency_score": 36.72,
+        "rank": "WEAK"
+    },
+    "08": {
+        "last2": "08",
+        "avg_score": 44,
+        "best_score": 48.67,
+        "strong_durations": 0,
+        "consistency_score": 36.6,
+        "rank": "WEAK"
+    },
+    "36": {
+        "last2": 36,
+        "avg_score": 41.6,
+        "best_score": 52.55,
+        "strong_durations": 0,
+        "consistency_score": 36.57,
+        "rank": "WEAK"
+    },
+    "64": {
+        "last2": 64,
+        "avg_score": 41.3,
+        "best_score": 52.97,
+        "strong_durations": 0,
+        "consistency_score": 36.54,
+        "rank": "WEAK"
+    },
+    "35": {
+        "last2": 35,
+        "avg_score": 41.3,
+        "best_score": 52.97,
+        "strong_durations": 0,
+        "consistency_score": 36.54,
+        "rank": "WEAK"
+    },
+    "62": {
+        "last2": 62,
+        "avg_score": 40.7,
+        "best_score": 53.59,
+        "strong_durations": 0,
+        "consistency_score": 36.43,
+        "rank": "WEAK"
+    },
+    "32": {
+        "last2": 32,
+        "avg_score": 40.7,
+        "best_score": 53.59,
+        "strong_durations": 0,
+        "consistency_score": 36.43,
+        "rank": "WEAK"
+    },
+    "28": {
+        "last2": 28,
+        "avg_score": 43.1,
+        "best_score": 49.58,
+        "strong_durations": 0,
+        "consistency_score": 36.42,
+        "rank": "WEAK"
+    },
+    "27": {
+        "last2": 27,
+        "avg_score": 40.1,
+        "best_score": 54.51,
+        "strong_durations": 0,
+        "consistency_score": 36.4,
+        "rank": "WEAK"
+    },
+    "57": {
+        "last2": 57,
+        "avg_score": 42.2,
+        "best_score": 50.95,
+        "strong_durations": 0,
+        "consistency_score": 36.39,
+        "rank": "WEAK"
+    },
+    "83": {
+        "last2": 83,
+        "avg_score": 42.2,
+        "best_score": 50.95,
+        "strong_durations": 0,
+        "consistency_score": 36.39,
+        "rank": "WEAK"
+    },
+    "29": {
+        "last2": 29,
+        "avg_score": 42.2,
+        "best_score": 50.95,
+        "strong_durations": 0,
+        "consistency_score": 36.39,
+        "rank": "WEAK"
+    },
+    "39": {
+        "last2": 39,
+        "avg_score": 40.97,
+        "best_score": 52.97,
+        "strong_durations": 0,
+        "consistency_score": 36.38,
+        "rank": "WEAK"
+    },
+    "25": {
+        "last2": 25,
+        "avg_score": 43.4,
+        "best_score": 48.4,
+        "strong_durations": 0,
+        "consistency_score": 36.22,
+        "rank": "WEAK"
+    },
+    "97": {
+        "last2": 97,
+        "avg_score": 41.6,
+        "best_score": 51.15,
+        "strong_durations": 0,
+        "consistency_score": 36.15,
+        "rank": "WEAK"
+    },
+    "75": {
+        "last2": 75,
+        "avg_score": 42.5,
+        "best_score": 49.5,
+        "strong_durations": 0,
+        "consistency_score": 36.1,
+        "rank": "WEAK"
+    },
+    "82": {
+        "last2": 82,
+        "avg_score": 42.5,
+        "best_score": 49.5,
+        "strong_durations": 0,
+        "consistency_score": 36.1,
+        "rank": "WEAK"
+    },
+    "03": {
+        "last2": "03",
+        "avg_score": 42.22,
+        "best_score": 49.5,
+        "strong_durations": 0,
+        "consistency_score": 35.96,
+        "rank": "WEAK"
+    },
+    "91": {
+        "last2": 91,
+        "avg_score": 41,
+        "best_score": 51.5,
+        "strong_durations": 0,
+        "consistency_score": 35.95,
+        "rank": "WEAK"
+    },
+    "34": {
+        "last2": 34,
+        "avg_score": 41,
+        "best_score": 51.5,
+        "strong_durations": 0,
+        "consistency_score": 35.95,
+        "rank": "WEAK"
+    },
+    "14": {
+        "last2": 14,
+        "avg_score": 41,
+        "best_score": 51.5,
+        "strong_durations": 0,
+        "consistency_score": 35.95,
+        "rank": "WEAK"
+    },
+    "46": {
+        "last2": 46,
+        "avg_score": 43.46,
+        "best_score": 47.32,
+        "strong_durations": 0,
+        "consistency_score": 35.93,
+        "rank": "WEAK"
+    },
+    "84": {
+        "last2": 84,
+        "avg_score": 39.2,
+        "best_score": 54.2,
+        "strong_durations": 0,
+        "consistency_score": 35.86,
+        "rank": "WEAK"
+    },
+    "45": {
+        "last2": 45,
+        "avg_score": 39.2,
+        "best_score": 54.2,
+        "strong_durations": 0,
+        "consistency_score": 35.86,
+        "rank": "WEAK"
+    },
+    "92": {
+        "last2": 92,
+        "avg_score": 40.4,
+        "best_score": 52.07,
+        "strong_durations": 0,
+        "consistency_score": 35.82,
+        "rank": "WEAK"
+    },
+    "02": {
+        "last2": "02",
+        "avg_score": 41.9,
+        "best_score": 49.51,
+        "strong_durations": 0,
+        "consistency_score": 35.8,
+        "rank": "WEAK"
+    },
+    "69": {
+        "last2": 69,
+        "avg_score": 41.9,
+        "best_score": 49.51,
+        "strong_durations": 0,
+        "consistency_score": 35.8,
+        "rank": "WEAK"
+    },
+    "01": {
+        "last2": "01",
+        "avg_score": 41.9,
+        "best_score": 49.51,
+        "strong_durations": 0,
+        "consistency_score": 35.8,
+        "rank": "WEAK"
+    },
+    "04": {
+        "last2": "04",
+        "avg_score": 39.8,
+        "best_score": 52.93,
+        "strong_durations": 0,
+        "consistency_score": 35.78,
+        "rank": "WEAK"
+    },
+    "68": {
+        "last2": 68,
+        "avg_score": 40.65,
+        "best_score": 51.5,
+        "strong_durations": 0,
+        "consistency_score": 35.78,
+        "rank": "WEAK"
+    },
+    "54": {
+        "last2": 54,
+        "avg_score": 41.3,
+        "best_score": 49.63,
+        "strong_durations": 0,
+        "consistency_score": 35.54,
+        "rank": "WEAK"
+    },
+    "98": {
+        "last2": 98,
+        "avg_score": 42.2,
+        "best_score": 48.03,
+        "strong_durations": 0,
+        "consistency_score": 35.51,
+        "rank": "WEAK"
+    },
+    "15": {
+        "last2": 15,
+        "avg_score": 41.6,
+        "best_score": 47.96,
+        "strong_durations": 0,
+        "consistency_score": 35.19,
+        "rank": "WEAK"
+    },
+    "43": {
+        "last2": 43,
+        "avg_score": 41.6,
+        "best_score": 47.96,
+        "strong_durations": 0,
+        "consistency_score": 35.19,
+        "rank": "WEAK"
+    },
+    "59": {
+        "last2": 59,
+        "avg_score": 41.6,
+        "best_score": 47.96,
+        "strong_durations": 0,
+        "consistency_score": 35.19,
+        "rank": "WEAK"
+    },
+    "93": {
+        "last2": 93,
+        "avg_score": 40.1,
+        "best_score": 50.4,
+        "strong_durations": 0,
+        "consistency_score": 35.17,
+        "rank": "WEAK"
+    },
+    "19": {
+        "last2": 19,
+        "avg_score": 40.1,
+        "best_score": 50.4,
+        "strong_durations": 0,
+        "consistency_score": 35.17,
+        "rank": "WEAK"
+    },
+    "44": {
+        "last2": 44,
+        "avg_score": 40.1,
+        "best_score": 50.4,
+        "strong_durations": 0,
+        "consistency_score": 35.17,
+        "rank": "WEAK"
+    },
+    "77": {
+        "last2": 77,
+        "avg_score": 40.33,
+        "best_score": 49.91,
+        "strong_durations": 0,
+        "consistency_score": 35.14,
+        "rank": "WEAK"
+    },
+    "67": {
+        "last2": 67,
+        "avg_score": 42.22,
+        "best_score": 46.7,
+        "strong_durations": 0,
+        "consistency_score": 35.12,
+        "rank": "WEAK"
+    },
+    "11": {
+        "last2": 11,
+        "avg_score": 41.28,
+        "best_score": 47.96,
+        "strong_durations": 0,
+        "consistency_score": 35.03,
+        "rank": "WEAK"
+    },
+    "09": {
+        "last2": "09",
+        "avg_score": 41.28,
+        "best_score": 47.96,
+        "strong_durations": 0,
+        "consistency_score": 35.03,
+        "rank": "WEAK"
+    },
+    "94": {
+        "last2": 94,
+        "avg_score": 41,
+        "best_score": 48,
+        "strong_durations": 0,
+        "consistency_score": 34.9,
+        "rank": "WEAK"
+    },
+    "18": {
+        "last2": 18,
+        "avg_score": 41.9,
+        "best_score": 46.46,
+        "strong_durations": 0,
+        "consistency_score": 34.89,
+        "rank": "WEAK"
+    },
+    "22": {
+        "last2": 22,
+        "avg_score": 40.4,
+        "best_score": 48.18,
+        "strong_durations": 0,
+        "consistency_score": 34.65,
+        "rank": "WEAK"
+    },
+    "61": {
+        "last2": 61,
+        "avg_score": 42.2,
+        "best_score": 45.12,
+        "strong_durations": 0,
+        "consistency_score": 34.64,
+        "rank": "WEAK"
+    },
+    "87": {
+        "last2": 87,
+        "avg_score": 39.8,
+        "best_score": 48.55,
+        "strong_durations": 0,
+        "consistency_score": 34.47,
+        "rank": "WEAK"
+    },
+    "21": {
+        "last2": 21,
+        "avg_score": 39.8,
+        "best_score": 48.55,
+        "strong_durations": 0,
+        "consistency_score": 34.47,
+        "rank": "WEAK"
+    },
+    "72": {
+        "last2": 72,
+        "avg_score": 39.8,
+        "best_score": 48.55,
+        "strong_durations": 0,
+        "consistency_score": 34.47,
+        "rank": "WEAK"
+    },
+    "38": {
+        "last2": 38,
+        "avg_score": 40.01,
+        "best_score": 48.18,
+        "strong_durations": 0,
+        "consistency_score": 34.46,
+        "rank": "WEAK"
+    },
+    "86": {
+        "last2": 86,
+        "avg_score": 40.7,
+        "best_score": 46.22,
+        "strong_durations": 0,
+        "consistency_score": 34.22,
+        "rank": "WEAK"
+    },
+    "47": {
+        "last2": 47,
+        "avg_score": 41.9,
+        "best_score": 43.42,
+        "strong_durations": 0,
+        "consistency_score": 33.98,
+        "rank": "WEAK"
+    },
+    "48": {
+        "last2": 48,
+        "avg_score": 40.1,
+        "best_score": 46.27,
+        "strong_durations": 0,
+        "consistency_score": 33.93,
+        "rank": "WEAK"
+    },
+    "66": {
+        "last2": 66,
+        "avg_score": 40.1,
+        "best_score": 46.27,
+        "strong_durations": 0,
+        "consistency_score": 33.93,
+        "rank": "WEAK"
+    },
+    "37": {
+        "last2": 37,
+        "avg_score": 38.9,
+        "best_score": 46.98,
+        "strong_durations": 0,
+        "consistency_score": 33.54,
+        "rank": "WEAK"
+    },
+    "17": {
+        "last2": 17,
+        "avg_score": 40.4,
+        "best_score": 44.29,
+        "strong_durations": 0,
+        "consistency_score": 33.49,
+        "rank": "WEAK"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "timestamp": "2026-06-23 22:50:24",
+    "decision": "FOLLOW_CALL",
+    "confidence": 63.82,
+    "confidence_level": "MEDIUM",
+    "pattern_key": "UNKNOWN",
+    "pattern_direction": "UNKNOWN",
+    "pattern_score": 0,
+    "digit_key": "UNKNOWN",
+    "digit_direction": "UNKNOWN",
+    "digit_score": 0,
+    "reasons": [
+        "Decision = FOLLOW_CALL",
+        "Confidence = 63.82%",
+        "Pattern Brain: UNKNOWN",
+        "Pattern Direction: UNKNOWN",
+        "Pattern Score: 0",
+        "Digit Brain: UNKNOWN",
+        "Digit Direction: UNKNOWN",
+        "Digit Score: 0",
+        "Pattern dan Digit SEARAH",
+        "Consensus mendukung CALL",
+        "Confidence Level: MEDIUM"
+    ]
+}

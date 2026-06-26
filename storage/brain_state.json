@@ -1,0 +1,13 @@
+{
+    "time": 1782320145,
+    "current_pattern": "UDD",
+    "current_digit": "5",
+    "pattern_vote": "PUT",
+    "pattern_score": 53.56,
+    "pattern_key": "TOP10_AGGREGATED",
+    "digit_vote": "CALL",
+    "digit_score": 51.08,
+    "digit_key": "TOP10_AGGREGATED",
+    "consensus": "CONFLICT",
+    "confidence": 52.32
+}

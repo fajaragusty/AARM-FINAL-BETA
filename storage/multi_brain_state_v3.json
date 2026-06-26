@@ -1,0 +1,14 @@
+{
+    "time": "2026-06-23 21:47:03",
+    "call_weight": 78.4,
+    "put_weight": 74.09,
+    "delta": 4.310000000000002,
+    "decision": "WAIT",
+    "confidence": 51.41,
+    "confidence_multiplier": 1.2,
+    "lifecycle_multiplier": 1.15,
+    "reasons": [
+        "Pattern CALL 56.81",
+        "Digit PUT 53.69"
+    ]
+}

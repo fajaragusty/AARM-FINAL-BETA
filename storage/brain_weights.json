@@ -1,0 +1,14 @@
+{
+    "PATTERN": {
+        "wr": 100,
+        "sample": 1,
+        "weight": 1,
+        "updated_at": "2026-06-24 21:10:46"
+    },
+    "DIGIT": {
+        "wr": 0,
+        "sample": 1,
+        "weight": 1,
+        "updated_at": "2026-06-24 21:10:46"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "time": "2026-06-23 22:08:46",
+    "call_weight": 56.81,
+    "put_weight": 32.21,
+    "delta": 24.6,
+    "confidence": 63.82,
+    "decision": "FOLLOW_CALL",
+    "brains": [
+        {
+            "brain": "PATTERN",
+            "vote": "CALL",
+            "score": 56.81,
+            "status": "ACTIVE",
+            "weight": 1,
+            "final": 56.81
+        },
+        {
+            "brain": "DIGIT",
+            "vote": "PUT",
+            "score": 53.69,
+            "status": "UNPROVEN",
+            "weight": 0.6,
+            "final": 32.21
+        }
+    ]
+}

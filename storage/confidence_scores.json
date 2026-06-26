@@ -1,0 +1,1442 @@
+{
+    "UDD|PUT|3|RSI_40_60|BULLISH|RANGING": {
+        "score": 59.1,
+        "wr": 63,
+        "samples": 100,
+        "confidence_factor": 1,
+        "confidence_score": 59.1,
+        "confidence_level": "HIGH"
+    },
+    "DUD|PUT|4|RSI_40_60|BULLISH|RANGING": {
+        "score": 57.68,
+        "wr": 59.26,
+        "samples": 108,
+        "confidence_factor": 1,
+        "confidence_score": 57.68,
+        "confidence_level": "HIGH"
+    },
+    "DDD|PUT|5|RSI_40_60|BEARISH|RANGING": {
+        "score": 57.2,
+        "wr": 53.85,
+        "samples": 130,
+        "confidence_factor": 1,
+        "confidence_score": 57.2,
+        "confidence_level": "HIGH"
+    },
+    "UUU|CALL|4|RSI_40_60|BULLISH|RANGING": {
+        "score": 57.03,
+        "wr": 58.33,
+        "samples": 108,
+        "confidence_factor": 1,
+        "confidence_score": 57.03,
+        "confidence_level": "HIGH"
+    },
+    "DUU|PUT|4|RSI_40_60|BEARISH|RANGING": {
+        "score": 56.84,
+        "wr": 58.49,
+        "samples": 106,
+        "confidence_factor": 1,
+        "confidence_score": 56.84,
+        "confidence_level": "HIGH"
+    },
+    "DDU|CALL|2|RSI_40_60|BEARISH|RANGING": {
+        "score": 56.81,
+        "wr": 57.8,
+        "samples": 109,
+        "confidence_factor": 1,
+        "confidence_score": 56.81,
+        "confidence_level": "HIGH"
+    },
+    "DUD|PUT|3|RSI_40_60|BULLISH|RANGING": {
+        "score": 56.39,
+        "wr": 57.41,
+        "samples": 108,
+        "confidence_factor": 1,
+        "confidence_score": 56.39,
+        "confidence_level": "HIGH"
+    },
+    "UUD|CALL|1|RSI_40_60|BULLISH|RANGING": {
+        "score": 56.19,
+        "wr": 57.55,
+        "samples": 106,
+        "confidence_factor": 1,
+        "confidence_score": 56.19,
+        "confidence_level": "HIGH"
+    },
+    "DDD|CALL|3|RSI_40_60|BEARISH|RANGING": {
+        "score": 56.12,
+        "wr": 52.31,
+        "samples": 130,
+        "confidence_factor": 1,
+        "confidence_score": 56.12,
+        "confidence_level": "HIGH"
+    },
+    "DDD|PUT|2|RSI_40_60|BEARISH|RANGING": {
+        "score": 56.12,
+        "wr": 52.31,
+        "samples": 130,
+        "confidence_factor": 1,
+        "confidence_score": 56.12,
+        "confidence_level": "HIGH"
+    },
+    "DUD|CALL|4|RSI_40_60|BEARISH|RANGING": {
+        "score": 55.79,
+        "wr": 57.84,
+        "samples": 102,
+        "confidence_factor": 1,
+        "confidence_score": 55.79,
+        "confidence_level": "HIGH"
+    },
+    "UDD|PUT|2|RSI_40_60|BULLISH|RANGING": {
+        "score": 55.6,
+        "wr": 58,
+        "samples": 100,
+        "confidence_factor": 1,
+        "confidence_score": 55.6,
+        "confidence_level": "HIGH"
+    },
+    "DUU|PUT|3|RSI_40_60|BEARISH|RANGING": {
+        "score": 55.52,
+        "wr": 56.6,
+        "samples": 106,
+        "confidence_factor": 1,
+        "confidence_score": 55.52,
+        "confidence_level": "HIGH"
+    },
+    "UUU|CALL|3|RSI_40_60|BULLISH|RANGING": {
+        "score": 55.09,
+        "wr": 55.56,
+        "samples": 108,
+        "confidence_factor": 1,
+        "confidence_score": 55.09,
+        "confidence_level": "HIGH"
+    },
+    "DDD|PUT|4|RSI_40_60|BEARISH|RANGING": {
+        "score": 55.04,
+        "wr": 50.77,
+        "samples": 130,
+        "confidence_factor": 1,
+        "confidence_score": 55.04,
+        "confidence_level": "HIGH"
+    },
+    "UUD|CALL|2|RSI_40_60|BULLISH|RANGING": {
+        "score": 54.86,
+        "wr": 55.66,
+        "samples": 106,
+        "confidence_factor": 1,
+        "confidence_score": 54.86,
+        "confidence_level": "MEDIUM"
+    },
+    "DDD|PUT|1|RSI_40_60|BEARISH|RANGING": {
+        "score": 54.5,
+        "wr": 50,
+        "samples": 130,
+        "confidence_factor": 1,
+        "confidence_score": 54.5,
+        "confidence_level": "MEDIUM"
+    },
+    "DUD|PUT|5|RSI_40_60|BULLISH|RANGING": {
+        "score": 54.44,
+        "wr": 54.63,
+        "samples": 108,
+        "confidence_factor": 1,
+        "confidence_score": 54.44,
+        "confidence_level": "MEDIUM"
+    },
+    "DDU|CALL|5|RSI_40_60|BEARISH|RANGING": {
+        "score": 54.24,
+        "wr": 54.13,
+        "samples": 109,
+        "confidence_factor": 1,
+        "confidence_score": 54.24,
+        "confidence_level": "MEDIUM"
+    },
+    "DDD|CALL|1|RSI_40_60|BEARISH|RANGING": {
+        "score": 53.96,
+        "wr": 49.23,
+        "samples": 130,
+        "confidence_factor": 1,
+        "confidence_score": 53.96,
+        "confidence_level": "MEDIUM"
+    },
+    "DDD|CALL|4|RSI_40_60|BEARISH|RANGING": {
+        "score": 53.96,
+        "wr": 49.23,
+        "samples": 130,
+        "confidence_factor": 1,
+        "confidence_score": 53.96,
+        "confidence_level": "MEDIUM"
+    },
+    "DUD|PUT|2|RSI_40_60|BULLISH|RANGING": {
+        "score": 53.79,
+        "wr": 53.7,
+        "samples": 108,
+        "confidence_factor": 1,
+        "confidence_score": 53.79,
+        "confidence_level": "MEDIUM"
+    },
+    "UDU|CALL|3|RSI_40_60|BULLISH|RANGING": {
+        "score": 53.68,
+        "wr": 52.68,
+        "samples": 112,
+        "confidence_factor": 1,
+        "confidence_score": 53.68,
+        "confidence_level": "MEDIUM"
+    },
+    "UDD|PUT|3|RSI_40_60|BEARISH|RANGING": {
+        "score": 54.7,
+        "wr": 57.14,
+        "samples": 98,
+        "confidence_factor": 0.98,
+        "confidence_score": 53.61,
+        "confidence_level": "MEDIUM"
+    },
+    "DDU|CALL|1|RSI_40_60|BEARISH|RANGING": {
+        "score": 53.6,
+        "wr": 53.21,
+        "samples": 109,
+        "confidence_factor": 1,
+        "confidence_score": 53.6,
+        "confidence_level": "MEDIUM"
+    },
+    "DUU|PUT|5|RSI_40_60|BEARISH|RANGING": {
+        "score": 53.54,
+        "wr": 53.77,
+        "samples": 106,
+        "confidence_factor": 1,
+        "confidence_score": 53.54,
+        "confidence_level": "MEDIUM"
+    },
+    "UUU|CALL|5|RSI_40_60|BULLISH|RANGING": {
+        "score": 53.15,
+        "wr": 52.78,
+        "samples": 108,
+        "confidence_factor": 1,
+        "confidence_score": 53.15,
+        "confidence_level": "MEDIUM"
+    },
+    "UDU|CALL|2|RSI_40_60|BULLISH|RANGING": {
+        "score": 53.05,
+        "wr": 51.79,
+        "samples": 112,
+        "confidence_factor": 1,
+        "confidence_score": 53.05,
+        "confidence_level": "MEDIUM"
+    },
+    "DUD|CALL|5|RSI_40_60|BEARISH|RANGING": {
+        "score": 53.04,
+        "wr": 53.92,
+        "samples": 102,
+        "confidence_factor": 1,
+        "confidence_score": 53.04,
+        "confidence_level": "MEDIUM"
+    },
+    "DDU|CALL|4|RSI_40_60|BEARISH|RANGING": {
+        "score": 52.95,
+        "wr": 52.29,
+        "samples": 109,
+        "confidence_factor": 1,
+        "confidence_score": 52.95,
+        "confidence_level": "MEDIUM"
+    },
+    "UDD|PUT|1|RSI_40_60|BEARISH|RANGING": {
+        "score": 53.98,
+        "wr": 56.12,
+        "samples": 98,
+        "confidence_factor": 0.98,
+        "confidence_score": 52.9,
+        "confidence_level": "MEDIUM"
+    },
+    "DDD|PUT|3|RSI_40_60|BEARISH|RANGING": {
+        "score": 52.88,
+        "wr": 47.69,
+        "samples": 130,
+        "confidence_factor": 1,
+        "confidence_score": 52.88,
+        "confidence_level": "MEDIUM"
+    },
+    "DUD|PUT|1|RSI_40_60|BULLISH|RANGING": {
+        "score": 52.5,
+        "wr": 51.85,
+        "samples": 108,
+        "confidence_factor": 1,
+        "confidence_score": 52.5,
+        "confidence_level": "MEDIUM"
+    },
+    "DUD|CALL|2|RSI_40_60|BEARISH|RANGING": {
+        "score": 52.36,
+        "wr": 52.94,
+        "samples": 102,
+        "confidence_factor": 1,
+        "confidence_score": 52.36,
+        "confidence_level": "MEDIUM"
+    },
+    "DDD|CALL|2|RSI_40_60|BEARISH|RANGING": {
+        "score": 52.34,
+        "wr": 46.92,
+        "samples": 130,
+        "confidence_factor": 1,
+        "confidence_score": 52.34,
+        "confidence_level": "MEDIUM"
+    },
+    "DDU|CALL|3|RSI_40_60|BEARISH|RANGING": {
+        "score": 52.32,
+        "wr": 51.38,
+        "samples": 109,
+        "confidence_factor": 1,
+        "confidence_score": 52.32,
+        "confidence_level": "MEDIUM"
+    },
+    "UUD|CALL|3|RSI_40_60|BULLISH|RANGING": {
+        "score": 52.22,
+        "wr": 51.89,
+        "samples": 106,
+        "confidence_factor": 1,
+        "confidence_score": 52.22,
+        "confidence_level": "MEDIUM"
+    },
+    "DUU|PUT|2|RSI_40_60|BEARISH|RANGING": {
+        "score": 52.22,
+        "wr": 51.89,
+        "samples": 106,
+        "confidence_factor": 1,
+        "confidence_score": 52.22,
+        "confidence_level": "MEDIUM"
+    },
+    "UDD|PUT|5|RSI_40_60|BULLISH|RANGING": {
+        "score": 52.1,
+        "wr": 53,
+        "samples": 100,
+        "confidence_factor": 1,
+        "confidence_score": 52.1,
+        "confidence_level": "MEDIUM"
+    },
+    "UUU|CALL|1|RSI_40_60|BULLISH|RANGING": {
+        "score": 51.85,
+        "wr": 50.93,
+        "samples": 108,
+        "confidence_factor": 1,
+        "confidence_score": 51.85,
+        "confidence_level": "MEDIUM"
+    },
+    "DDD|CALL|5|RSI_40_60|BEARISH|RANGING": {
+        "score": 51.81,
+        "wr": 46.15,
+        "samples": 130,
+        "confidence_factor": 1,
+        "confidence_score": 51.81,
+        "confidence_level": "MEDIUM"
+    },
+    "UDU|CALL|1|RSI_40_60|BULLISH|RANGING": {
+        "score": 51.8,
+        "wr": 50,
+        "samples": 112,
+        "confidence_factor": 1,
+        "confidence_score": 51.8,
+        "confidence_level": "MEDIUM"
+    },
+    "UDU|CALL|4|RSI_40_60|BULLISH|RANGING": {
+        "score": 51.8,
+        "wr": 50,
+        "samples": 112,
+        "confidence_factor": 1,
+        "confidence_score": 51.8,
+        "confidence_level": "MEDIUM"
+    },
+    "UDU|CALL|5|RSI_40_60|BULLISH|RANGING": {
+        "score": 51.8,
+        "wr": 50,
+        "samples": 112,
+        "confidence_factor": 1,
+        "confidence_score": 51.8,
+        "confidence_level": "MEDIUM"
+    },
+    "UDU|PUT|4|RSI_40_60|BULLISH|RANGING": {
+        "score": 51.8,
+        "wr": 50,
+        "samples": 112,
+        "confidence_factor": 1,
+        "confidence_score": 51.8,
+        "confidence_level": "MEDIUM"
+    },
+    "UDU|PUT|5|RSI_40_60|BULLISH|RANGING": {
+        "score": 51.8,
+        "wr": 50,
+        "samples": 112,
+        "confidence_factor": 1,
+        "confidence_score": 51.8,
+        "confidence_level": "MEDIUM"
+    },
+    "DUD|PUT|3|RSI_40_60|BEARISH|RANGING": {
+        "score": 51.67,
+        "wr": 51.96,
+        "samples": 102,
+        "confidence_factor": 1,
+        "confidence_score": 51.67,
+        "confidence_level": "MEDIUM"
+    },
+    "UUD|CALL|4|RSI_40_60|BULLISH|RANGING": {
+        "score": 51.56,
+        "wr": 50.94,
+        "samples": 106,
+        "confidence_factor": 1,
+        "confidence_score": 51.56,
+        "confidence_level": "MEDIUM"
+    },
+    "UDU|PUT|1|RSI_40_60|BEARISH|RANGING": {
+        "score": 52.8,
+        "wr": 54.64,
+        "samples": 97,
+        "confidence_factor": 0.97,
+        "confidence_score": 51.22,
+        "confidence_level": "MEDIUM"
+    },
+    "UUU|PUT|2|RSI_40_60|BULLISH|RANGING": {
+        "score": 51.2,
+        "wr": 50,
+        "samples": 108,
+        "confidence_factor": 1,
+        "confidence_score": 51.2,
+        "confidence_level": "MEDIUM"
+    },
+    "UDU|PUT|1|RSI_40_60|BULLISH|RANGING": {
+        "score": 51.18,
+        "wr": 49.11,
+        "samples": 112,
+        "confidence_factor": 1,
+        "confidence_score": 51.18,
+        "confidence_level": "MEDIUM"
+    },
+    "DUD|CALL|1|RSI_40_60|BEARISH|RANGING": {
+        "score": 50.99,
+        "wr": 50.98,
+        "samples": 102,
+        "confidence_factor": 1,
+        "confidence_score": 50.99,
+        "confidence_level": "MEDIUM"
+    },
+    "UUD|CALL|5|RSI_40_60|BULLISH|RANGING": {
+        "score": 50.9,
+        "wr": 50,
+        "samples": 106,
+        "confidence_factor": 1,
+        "confidence_score": 50.9,
+        "confidence_level": "MEDIUM"
+    },
+    "UUD|PUT|5|RSI_40_60|BULLISH|RANGING": {
+        "score": 50.9,
+        "wr": 50,
+        "samples": 106,
+        "confidence_factor": 1,
+        "confidence_score": 50.9,
+        "confidence_level": "MEDIUM"
+    },
+    "DUU|CALL|1|RSI_40_60|BEARISH|RANGING": {
+        "score": 50.9,
+        "wr": 50,
+        "samples": 106,
+        "confidence_factor": 1,
+        "confidence_score": 50.9,
+        "confidence_level": "MEDIUM"
+    },
+    "DUU|PUT|1|RSI_40_60|BEARISH|RANGING": {
+        "score": 50.9,
+        "wr": 50,
+        "samples": 106,
+        "confidence_factor": 1,
+        "confidence_score": 50.9,
+        "confidence_level": "MEDIUM"
+    },
+    "UDD|PUT|4|RSI_40_60|BULLISH|RANGING": {
+        "score": 50.7,
+        "wr": 51,
+        "samples": 100,
+        "confidence_factor": 1,
+        "confidence_score": 50.7,
+        "confidence_level": "MEDIUM"
+    },
+    "UUU|CALL|2|RSI_40_60|BULLISH|RANGING": {
+        "score": 50.55,
+        "wr": 49.07,
+        "samples": 108,
+        "confidence_factor": 1,
+        "confidence_score": 50.55,
+        "confidence_level": "MEDIUM"
+    },
+    "UDU|PUT|5|RSI_40_60|BEARISH|RANGING": {
+        "score": 52.08,
+        "wr": 53.61,
+        "samples": 97,
+        "confidence_factor": 0.97,
+        "confidence_score": 50.52,
+        "confidence_level": "MEDIUM"
+    },
+    "DDU|PUT|3|RSI_40_60|BEARISH|RANGING": {
+        "score": 50.38,
+        "wr": 48.62,
+        "samples": 109,
+        "confidence_factor": 1,
+        "confidence_score": 50.38,
+        "confidence_level": "MEDIUM"
+    },
+    "UUD|PUT|4|RSI_40_60|BULLISH|RANGING": {
+        "score": 50.24,
+        "wr": 49.06,
+        "samples": 106,
+        "confidence_factor": 1,
+        "confidence_score": 50.24,
+        "confidence_level": "MEDIUM"
+    },
+    "UDD|PUT|2|RSI_40_60|BEARISH|RANGING": {
+        "score": 51.13,
+        "wr": 52.04,
+        "samples": 98,
+        "confidence_factor": 0.98,
+        "confidence_score": 50.11,
+        "confidence_level": "MEDIUM"
+    },
+    "UDD|PUT|4|RSI_40_60|BEARISH|RANGING": {
+        "score": 51.13,
+        "wr": 52.04,
+        "samples": 98,
+        "confidence_factor": 0.98,
+        "confidence_score": 50.11,
+        "confidence_level": "MEDIUM"
+    },
+    "UDD|CALL|1|RSI_40_60|BULLISH|RANGING": {
+        "score": 50,
+        "wr": 50,
+        "samples": 100,
+        "confidence_factor": 1,
+        "confidence_score": 50,
+        "confidence_level": "MEDIUM"
+    },
+    "UDU|PUT|2|RSI_40_60|BULLISH|RANGING": {
+        "score": 49.92,
+        "wr": 47.32,
+        "samples": 112,
+        "confidence_factor": 1,
+        "confidence_score": 49.92,
+        "confidence_level": "MEDIUM"
+    },
+    "UDU|PUT|3|RSI_40_60|BULLISH|RANGING": {
+        "score": 49.92,
+        "wr": 47.32,
+        "samples": 112,
+        "confidence_factor": 1,
+        "confidence_score": 49.92,
+        "confidence_level": "MEDIUM"
+    },
+    "UDU|PUT|3|RSI_40_60|BEARISH|RANGING": {
+        "score": 51.36,
+        "wr": 52.58,
+        "samples": 97,
+        "confidence_factor": 0.97,
+        "confidence_score": 49.82,
+        "confidence_level": "MEDIUM"
+    },
+    "UDU|PUT|4|RSI_40_60|BEARISH|RANGING": {
+        "score": 51.36,
+        "wr": 52.58,
+        "samples": 97,
+        "confidence_factor": 0.97,
+        "confidence_score": 49.82,
+        "confidence_level": "MEDIUM"
+    },
+    "DDU|PUT|4|RSI_40_60|BEARISH|RANGING": {
+        "score": 49.75,
+        "wr": 47.71,
+        "samples": 109,
+        "confidence_factor": 1,
+        "confidence_score": 49.75,
+        "confidence_level": "MEDIUM"
+    },
+    "DUD|PUT|1|RSI_40_60|BEARISH|RANGING": {
+        "score": 49.61,
+        "wr": 49.02,
+        "samples": 102,
+        "confidence_factor": 1,
+        "confidence_score": 49.61,
+        "confidence_level": "MEDIUM"
+    },
+    "DDU|PUT|1|RSI_40_60|BULLISH|RANGING": {
+        "score": 56.15,
+        "wr": 61.36,
+        "samples": 88,
+        "confidence_factor": 0.88,
+        "confidence_score": 49.41,
+        "confidence_level": "MEDIUM"
+    },
+    "DDU|PUT|2|RSI_40_60|BULLISH|RANGING": {
+        "score": 56.15,
+        "wr": 61.36,
+        "samples": 88,
+        "confidence_factor": 0.88,
+        "confidence_score": 49.41,
+        "confidence_level": "MEDIUM"
+    },
+    "UDD|CALL|4|RSI_40_60|BULLISH|RANGING": {
+        "score": 49.3,
+        "wr": 49,
+        "samples": 100,
+        "confidence_factor": 1,
+        "confidence_score": 49.3,
+        "confidence_level": "MEDIUM"
+    },
+    "UDD|PUT|1|RSI_40_60|BULLISH|RANGING": {
+        "score": 49.3,
+        "wr": 49,
+        "samples": 100,
+        "confidence_factor": 1,
+        "confidence_score": 49.3,
+        "confidence_level": "MEDIUM"
+    },
+    "DUD|CALL|1|RSI_40_60|BULLISH|RANGING": {
+        "score": 49.25,
+        "wr": 47.22,
+        "samples": 108,
+        "confidence_factor": 1,
+        "confidence_score": 49.25,
+        "confidence_level": "MEDIUM"
+    },
+    "UUU|PUT|1|RSI_40_60|BULLISH|RANGING": {
+        "score": 49.25,
+        "wr": 47.22,
+        "samples": 108,
+        "confidence_factor": 1,
+        "confidence_score": 49.25,
+        "confidence_level": "MEDIUM"
+    },
+    "UUU|PUT|5|RSI_40_60|BULLISH|RANGING": {
+        "score": 49.25,
+        "wr": 47.22,
+        "samples": 108,
+        "confidence_factor": 1,
+        "confidence_score": 49.25,
+        "confidence_level": "MEDIUM"
+    },
+    "DDU|PUT|1|RSI_40_60|BEARISH|RANGING": {
+        "score": 49.1,
+        "wr": 46.79,
+        "samples": 109,
+        "confidence_factor": 1,
+        "confidence_score": 49.1,
+        "confidence_level": "MEDIUM"
+    },
+    "DUD|CALL|3|RSI_40_60|BEARISH|RANGING": {
+        "score": 48.93,
+        "wr": 48.04,
+        "samples": 102,
+        "confidence_factor": 1,
+        "confidence_score": 48.93,
+        "confidence_level": "MEDIUM"
+    },
+    "UUD|PUT|3|RSI_40_60|BULLISH|RANGING": {
+        "score": 48.92,
+        "wr": 47.17,
+        "samples": 106,
+        "confidence_factor": 1,
+        "confidence_score": 48.92,
+        "confidence_level": "MEDIUM"
+    },
+    "DUU|CALL|2|RSI_40_60|BEARISH|RANGING": {
+        "score": 48.92,
+        "wr": 47.17,
+        "samples": 106,
+        "confidence_factor": 1,
+        "confidence_score": 48.92,
+        "confidence_level": "MEDIUM"
+    },
+    "UDD|CALL|5|RSI_40_60|BEARISH|RANGING": {
+        "score": 49.7,
+        "wr": 50,
+        "samples": 98,
+        "confidence_factor": 0.98,
+        "confidence_score": 48.71,
+        "confidence_level": "MEDIUM"
+    },
+    "UDD|PUT|5|RSI_40_60|BEARISH|RANGING": {
+        "score": 49.7,
+        "wr": 50,
+        "samples": 98,
+        "confidence_factor": 0.98,
+        "confidence_score": 48.71,
+        "confidence_level": "MEDIUM"
+    },
+    "DUD|CALL|2|RSI_40_60|BULLISH|RANGING": {
+        "score": 48.61,
+        "wr": 46.3,
+        "samples": 108,
+        "confidence_factor": 1,
+        "confidence_score": 48.61,
+        "confidence_level": "MEDIUM"
+    },
+    "UUU|CALL|3|RSI_40_60|BEARISH|RANGING": {
+        "score": 51.09,
+        "wr": 52.63,
+        "samples": 95,
+        "confidence_factor": 0.95,
+        "confidence_score": 48.54,
+        "confidence_level": "MEDIUM"
+    },
+    "UUU|CALL|5|RSI_40_60|BEARISH|RANGING": {
+        "score": 51.09,
+        "wr": 52.63,
+        "samples": 95,
+        "confidence_factor": 0.95,
+        "confidence_score": 48.54,
+        "confidence_level": "MEDIUM"
+    },
+    "UUU|PUT|2|RSI_40_60|BEARISH|RANGING": {
+        "score": 51.09,
+        "wr": 52.63,
+        "samples": 95,
+        "confidence_factor": 0.95,
+        "confidence_score": 48.54,
+        "confidence_level": "MEDIUM"
+    },
+    "DDU|PUT|5|RSI_40_60|BEARISH|RANGING": {
+        "score": 48.46,
+        "wr": 45.87,
+        "samples": 109,
+        "confidence_factor": 1,
+        "confidence_score": 48.46,
+        "confidence_level": "MEDIUM"
+    },
+    "UDU|CALL|2|RSI_40_60|BEARISH|RANGING": {
+        "score": 49.91,
+        "wr": 50.52,
+        "samples": 97,
+        "confidence_factor": 0.97,
+        "confidence_score": 48.41,
+        "confidence_level": "MEDIUM"
+    },
+    "DUU|CALL|5|RSI_40_60|BEARISH|RANGING": {
+        "score": 48.26,
+        "wr": 46.23,
+        "samples": 106,
+        "confidence_factor": 1,
+        "confidence_score": 48.26,
+        "confidence_level": "MEDIUM"
+    },
+    "DUD|PUT|2|RSI_40_60|BEARISH|RANGING": {
+        "score": 48.24,
+        "wr": 47.06,
+        "samples": 102,
+        "confidence_factor": 1,
+        "confidence_score": 48.24,
+        "confidence_level": "MEDIUM"
+    },
+    "DUD|CALL|5|RSI_40_60|BULLISH|RANGING": {
+        "score": 47.96,
+        "wr": 45.37,
+        "samples": 108,
+        "confidence_factor": 1,
+        "confidence_score": 47.96,
+        "confidence_level": "MEDIUM"
+    },
+    "UDD|CALL|5|RSI_40_60|BULLISH|RANGING": {
+        "score": 47.9,
+        "wr": 47,
+        "samples": 100,
+        "confidence_factor": 1,
+        "confidence_score": 47.9,
+        "confidence_level": "MEDIUM"
+    },
+    "UDU|PUT|2|RSI_40_60|BEARISH|RANGING": {
+        "score": 49.19,
+        "wr": 49.48,
+        "samples": 97,
+        "confidence_factor": 0.97,
+        "confidence_score": 47.71,
+        "confidence_level": "MEDIUM"
+    },
+    "DUD|PUT|5|RSI_40_60|BEARISH|RANGING": {
+        "score": 47.56,
+        "wr": 46.08,
+        "samples": 102,
+        "confidence_factor": 1,
+        "confidence_score": 47.56,
+        "confidence_level": "MEDIUM"
+    },
+    "DDU|PUT|5|RSI_40_60|BULLISH|RANGING": {
+        "score": 53.77,
+        "wr": 57.95,
+        "samples": 88,
+        "confidence_factor": 0.88,
+        "confidence_score": 47.32,
+        "confidence_level": "MEDIUM"
+    },
+    "UUU|PUT|3|RSI_40_60|BULLISH|RANGING": {
+        "score": 47.31,
+        "wr": 44.44,
+        "samples": 108,
+        "confidence_factor": 1,
+        "confidence_score": 47.31,
+        "confidence_level": "MEDIUM"
+    },
+    "UDD|CALL|4|RSI_40_60|BEARISH|RANGING": {
+        "score": 48.27,
+        "wr": 47.96,
+        "samples": 98,
+        "confidence_factor": 0.98,
+        "confidence_score": 47.3,
+        "confidence_level": "MEDIUM"
+    },
+    "UUU|CALL|1|RSI_40_60|BEARISH|RANGING": {
+        "score": 49.62,
+        "wr": 50.53,
+        "samples": 95,
+        "confidence_factor": 0.95,
+        "confidence_score": 47.14,
+        "confidence_level": "MEDIUM"
+    },
+    "UUU|CALL|4|RSI_40_60|BEARISH|RANGING": {
+        "score": 49.62,
+        "wr": 50.53,
+        "samples": 95,
+        "confidence_factor": 0.95,
+        "confidence_score": 47.14,
+        "confidence_level": "MEDIUM"
+    },
+    "UUD|PUT|2|RSI_40_60|BULLISH|RANGING": {
+        "score": 46.94,
+        "wr": 44.34,
+        "samples": 106,
+        "confidence_factor": 1,
+        "confidence_score": 46.94,
+        "confidence_level": "MEDIUM"
+    },
+    "UDD|CALL|2|RSI_40_60|BEARISH|RANGING": {
+        "score": 47.56,
+        "wr": 46.94,
+        "samples": 98,
+        "confidence_factor": 0.98,
+        "confidence_score": 46.61,
+        "confidence_level": "MEDIUM"
+    },
+    "UUU|PUT|1|RSI_40_60|BEARISH|RANGING": {
+        "score": 48.88,
+        "wr": 49.47,
+        "samples": 95,
+        "confidence_factor": 0.95,
+        "confidence_score": 46.44,
+        "confidence_level": "MEDIUM"
+    },
+    "UUU|PUT|4|RSI_40_60|BEARISH|RANGING": {
+        "score": 48.88,
+        "wr": 49.47,
+        "samples": 95,
+        "confidence_factor": 0.95,
+        "confidence_score": 46.44,
+        "confidence_level": "MEDIUM"
+    },
+    "UDU|CALL|3|RSI_40_60|BEARISH|RANGING": {
+        "score": 47.74,
+        "wr": 47.42,
+        "samples": 97,
+        "confidence_factor": 0.97,
+        "confidence_score": 46.31,
+        "confidence_level": "MEDIUM"
+    },
+    "UDU|CALL|4|RSI_40_60|BEARISH|RANGING": {
+        "score": 47.74,
+        "wr": 47.42,
+        "samples": 97,
+        "confidence_factor": 0.97,
+        "confidence_score": 46.31,
+        "confidence_level": "MEDIUM"
+    },
+    "DUU|CALL|3|RSI_40_60|BEARISH|RANGING": {
+        "score": 46.28,
+        "wr": 43.4,
+        "samples": 106,
+        "confidence_factor": 1,
+        "confidence_score": 46.28,
+        "confidence_level": "MEDIUM"
+    },
+    "DUD|CALL|3|RSI_40_60|BULLISH|RANGING": {
+        "score": 46.01,
+        "wr": 42.59,
+        "samples": 108,
+        "confidence_factor": 1,
+        "confidence_score": 46.01,
+        "confidence_level": "MEDIUM"
+    },
+    "DDU|PUT|3|RSI_40_60|BULLISH|RANGING": {
+        "score": 52.18,
+        "wr": 55.68,
+        "samples": 88,
+        "confidence_factor": 0.88,
+        "confidence_score": 45.92,
+        "confidence_level": "MEDIUM"
+    },
+    "DDU|PUT|4|RSI_40_60|BULLISH|RANGING": {
+        "score": 52.18,
+        "wr": 55.68,
+        "samples": 88,
+        "confidence_factor": 0.88,
+        "confidence_score": 45.92,
+        "confidence_level": "MEDIUM"
+    },
+    "DDU|PUT|2|RSI_40_60|BEARISH|RANGING": {
+        "score": 45.89,
+        "wr": 42.2,
+        "samples": 109,
+        "confidence_factor": 1,
+        "confidence_score": 45.89,
+        "confidence_level": "MEDIUM"
+    },
+    "UUD|PUT|1|RSI_40_60|BULLISH|RANGING": {
+        "score": 45.62,
+        "wr": 42.45,
+        "samples": 106,
+        "confidence_factor": 1,
+        "confidence_score": 45.62,
+        "confidence_level": "MEDIUM"
+    },
+    "UDU|CALL|5|RSI_40_60|BEARISH|RANGING": {
+        "score": 47.02,
+        "wr": 46.39,
+        "samples": 97,
+        "confidence_factor": 0.97,
+        "confidence_score": 45.61,
+        "confidence_level": "MEDIUM"
+    },
+    "UUU|PUT|4|RSI_40_60|BULLISH|RANGING": {
+        "score": 45.37,
+        "wr": 41.67,
+        "samples": 108,
+        "confidence_factor": 1,
+        "confidence_score": 45.37,
+        "confidence_level": "MEDIUM"
+    },
+    "UUU|CALL|2|RSI_40_60|BEARISH|RANGING": {
+        "score": 47.41,
+        "wr": 47.37,
+        "samples": 95,
+        "confidence_factor": 0.95,
+        "confidence_score": 45.04,
+        "confidence_level": "MEDIUM"
+    },
+    "UUU|PUT|3|RSI_40_60|BEARISH|RANGING": {
+        "score": 47.41,
+        "wr": 47.37,
+        "samples": 95,
+        "confidence_factor": 0.95,
+        "confidence_score": 45.04,
+        "confidence_level": "MEDIUM"
+    },
+    "UUU|PUT|5|RSI_40_60|BEARISH|RANGING": {
+        "score": 47.41,
+        "wr": 47.37,
+        "samples": 95,
+        "confidence_factor": 0.95,
+        "confidence_score": 45.04,
+        "confidence_level": "MEDIUM"
+    },
+    "UDU|CALL|1|RSI_40_60|BEARISH|RANGING": {
+        "score": 46.3,
+        "wr": 45.36,
+        "samples": 97,
+        "confidence_factor": 0.97,
+        "confidence_score": 44.91,
+        "confidence_level": "LOW"
+    },
+    "DUD|PUT|4|RSI_40_60|BEARISH|RANGING": {
+        "score": 44.81,
+        "wr": 42.16,
+        "samples": 102,
+        "confidence_factor": 1,
+        "confidence_score": 44.81,
+        "confidence_level": "LOW"
+    },
+    "DUD|CALL|4|RSI_40_60|BULLISH|RANGING": {
+        "score": 44.72,
+        "wr": 40.74,
+        "samples": 108,
+        "confidence_factor": 1,
+        "confidence_score": 44.72,
+        "confidence_level": "LOW"
+    },
+    "DUU|CALL|5|RSI_40_60|BULLISH|RANGING": {
+        "score": 51.97,
+        "wr": 55.81,
+        "samples": 86,
+        "confidence_factor": 0.86,
+        "confidence_score": 44.69,
+        "confidence_level": "LOW"
+    },
+    "UDD|CALL|1|RSI_40_60|BEARISH|RANGING": {
+        "score": 45.42,
+        "wr": 43.88,
+        "samples": 98,
+        "confidence_factor": 0.98,
+        "confidence_score": 44.51,
+        "confidence_level": "LOW"
+    },
+    "UDD|CALL|2|RSI_40_60|BULLISH|RANGING": {
+        "score": 44.4,
+        "wr": 42,
+        "samples": 100,
+        "confidence_factor": 1,
+        "confidence_score": 44.4,
+        "confidence_level": "LOW"
+    },
+    "DUU|CALL|4|RSI_40_60|BEARISH|RANGING": {
+        "score": 44.3,
+        "wr": 40.57,
+        "samples": 106,
+        "confidence_factor": 1,
+        "confidence_score": 44.3,
+        "confidence_level": "LOW"
+    },
+    "UDD|CALL|3|RSI_40_60|BEARISH|RANGING": {
+        "score": 44.7,
+        "wr": 42.86,
+        "samples": 98,
+        "confidence_factor": 0.98,
+        "confidence_score": 43.81,
+        "confidence_level": "LOW"
+    },
+    "DDD|CALL|5|RSI_40_60|BULLISH|RANGING": {
+        "score": 50.06,
+        "wr": 52.87,
+        "samples": 87,
+        "confidence_factor": 0.87,
+        "confidence_score": 43.55,
+        "confidence_level": "LOW"
+    },
+    "DDD|PUT|1|RSI_40_60|BULLISH|RANGING": {
+        "score": 50.06,
+        "wr": 52.87,
+        "samples": 87,
+        "confidence_factor": 0.87,
+        "confidence_score": 43.55,
+        "confidence_level": "LOW"
+    },
+    "DUU|CALL|2|RSI_40_60|BULLISH|RANGING": {
+        "score": 50.34,
+        "wr": 53.49,
+        "samples": 86,
+        "confidence_factor": 0.86,
+        "confidence_score": 43.29,
+        "confidence_level": "LOW"
+    },
+    "DUU|CALL|4|RSI_40_60|BULLISH|RANGING": {
+        "score": 50.34,
+        "wr": 53.49,
+        "samples": 86,
+        "confidence_factor": 0.86,
+        "confidence_score": 43.29,
+        "confidence_level": "LOW"
+    },
+    "DDD|CALL|3|RSI_40_60|BULLISH|RANGING": {
+        "score": 49.25,
+        "wr": 51.72,
+        "samples": 87,
+        "confidence_factor": 0.87,
+        "confidence_score": 42.85,
+        "confidence_level": "LOW"
+    },
+    "DDD|PUT|4|RSI_40_60|BULLISH|RANGING": {
+        "score": 49.25,
+        "wr": 51.72,
+        "samples": 87,
+        "confidence_factor": 0.87,
+        "confidence_score": 42.85,
+        "confidence_level": "LOW"
+    },
+    "DUU|CALL|3|RSI_40_60|BULLISH|RANGING": {
+        "score": 49.53,
+        "wr": 52.33,
+        "samples": 86,
+        "confidence_factor": 0.86,
+        "confidence_score": 42.6,
+        "confidence_level": "LOW"
+    },
+    "UUD|CALL|1|RSI_40_60|BEARISH|RANGING": {
+        "score": 49.81,
+        "wr": 52.94,
+        "samples": 85,
+        "confidence_factor": 0.85,
+        "confidence_score": 42.34,
+        "confidence_level": "LOW"
+    },
+    "UUD|CALL|2|RSI_40_60|BEARISH|RANGING": {
+        "score": 48.98,
+        "wr": 51.76,
+        "samples": 85,
+        "confidence_factor": 0.85,
+        "confidence_score": 41.63,
+        "confidence_level": "LOW"
+    },
+    "UUD|PUT|3|RSI_40_60|BEARISH|RANGING": {
+        "score": 48.98,
+        "wr": 51.76,
+        "samples": 85,
+        "confidence_factor": 0.85,
+        "confidence_score": 41.63,
+        "confidence_level": "LOW"
+    },
+    "UUD|PUT|5|RSI_40_60|BEARISH|RANGING": {
+        "score": 48.98,
+        "wr": 51.76,
+        "samples": 85,
+        "confidence_factor": 0.85,
+        "confidence_score": 41.63,
+        "confidence_level": "LOW"
+    },
+    "DDD|CALL|2|RSI_40_60|BULLISH|RANGING": {
+        "score": 47.65,
+        "wr": 49.43,
+        "samples": 87,
+        "confidence_factor": 0.87,
+        "confidence_score": 41.46,
+        "confidence_level": "LOW"
+    },
+    "DUU|CALL|1|RSI_40_60|BULLISH|RANGING": {
+        "score": 47.9,
+        "wr": 50,
+        "samples": 86,
+        "confidence_factor": 0.86,
+        "confidence_score": 41.19,
+        "confidence_level": "LOW"
+    },
+    "DUU|PUT|1|RSI_40_60|BULLISH|RANGING": {
+        "score": 47.9,
+        "wr": 50,
+        "samples": 86,
+        "confidence_factor": 0.86,
+        "confidence_score": 41.19,
+        "confidence_level": "LOW"
+    },
+    "UUD|PUT|4|RSI_40_60|BEARISH|RANGING": {
+        "score": 48.16,
+        "wr": 50.59,
+        "samples": 85,
+        "confidence_factor": 0.85,
+        "confidence_score": 40.94,
+        "confidence_level": "LOW"
+    },
+    "UDD|CALL|3|RSI_40_60|BULLISH|RANGING": {
+        "score": 40.9,
+        "wr": 37,
+        "samples": 100,
+        "confidence_factor": 1,
+        "confidence_score": 40.9,
+        "confidence_level": "LOW"
+    },
+    "DDD|CALL|4|RSI_40_60|BULLISH|RANGING": {
+        "score": 46.85,
+        "wr": 48.28,
+        "samples": 87,
+        "confidence_factor": 0.87,
+        "confidence_score": 40.76,
+        "confidence_level": "LOW"
+    },
+    "DDD|PUT|2|RSI_40_60|BULLISH|RANGING": {
+        "score": 46.85,
+        "wr": 48.28,
+        "samples": 87,
+        "confidence_factor": 0.87,
+        "confidence_score": 40.76,
+        "confidence_level": "LOW"
+    },
+    "DDD|PUT|3|RSI_40_60|BULLISH|RANGING": {
+        "score": 46.85,
+        "wr": 48.28,
+        "samples": 87,
+        "confidence_factor": 0.87,
+        "confidence_score": 40.76,
+        "confidence_level": "LOW"
+    },
+    "UUD|CALL|4|RSI_40_60|BEARISH|RANGING": {
+        "score": 47.34,
+        "wr": 49.41,
+        "samples": 85,
+        "confidence_factor": 0.85,
+        "confidence_score": 40.24,
+        "confidence_level": "LOW"
+    },
+    "DDD|CALL|1|RSI_40_60|BULLISH|RANGING": {
+        "score": 46.04,
+        "wr": 47.13,
+        "samples": 87,
+        "confidence_factor": 0.87,
+        "confidence_score": 40.05,
+        "confidence_level": "LOW"
+    },
+    "DDD|PUT|5|RSI_40_60|BULLISH|RANGING": {
+        "score": 46.04,
+        "wr": 47.13,
+        "samples": 87,
+        "confidence_factor": 0.87,
+        "confidence_score": 40.05,
+        "confidence_level": "LOW"
+    },
+    "DUU|PUT|3|RSI_40_60|BULLISH|RANGING": {
+        "score": 46.27,
+        "wr": 47.67,
+        "samples": 86,
+        "confidence_factor": 0.86,
+        "confidence_score": 39.79,
+        "confidence_level": "LOW"
+    },
+    "UUD|CALL|3|RSI_40_60|BEARISH|RANGING": {
+        "score": 46.52,
+        "wr": 48.24,
+        "samples": 85,
+        "confidence_factor": 0.85,
+        "confidence_score": 39.54,
+        "confidence_level": "LOW"
+    },
+    "UUD|CALL|5|RSI_40_60|BEARISH|RANGING": {
+        "score": 46.52,
+        "wr": 48.24,
+        "samples": 85,
+        "confidence_factor": 0.85,
+        "confidence_score": 39.54,
+        "confidence_level": "LOW"
+    },
+    "UUD|PUT|2|RSI_40_60|BEARISH|RANGING": {
+        "score": 46.52,
+        "wr": 48.24,
+        "samples": 85,
+        "confidence_factor": 0.85,
+        "confidence_score": 39.54,
+        "confidence_level": "LOW"
+    },
+    "DUU|PUT|2|RSI_40_60|BULLISH|RANGING": {
+        "score": 45.46,
+        "wr": 46.51,
+        "samples": 86,
+        "confidence_factor": 0.86,
+        "confidence_score": 39.1,
+        "confidence_level": "LOW"
+    },
+    "DUU|PUT|4|RSI_40_60|BULLISH|RANGING": {
+        "score": 45.46,
+        "wr": 46.51,
+        "samples": 86,
+        "confidence_factor": 0.86,
+        "confidence_score": 39.1,
+        "confidence_level": "LOW"
+    },
+    "DDU|CALL|3|RSI_40_60|BULLISH|RANGING": {
+        "score": 44.22,
+        "wr": 44.32,
+        "samples": 88,
+        "confidence_factor": 0.88,
+        "confidence_score": 38.91,
+        "confidence_level": "LOW"
+    },
+    "DDU|CALL|4|RSI_40_60|BULLISH|RANGING": {
+        "score": 44.22,
+        "wr": 44.32,
+        "samples": 88,
+        "confidence_factor": 0.88,
+        "confidence_score": 38.91,
+        "confidence_level": "LOW"
+    },
+    "UUD|PUT|1|RSI_40_60|BEARISH|RANGING": {
+        "score": 45.69,
+        "wr": 47.06,
+        "samples": 85,
+        "confidence_factor": 0.85,
+        "confidence_score": 38.84,
+        "confidence_level": "LOW"
+    },
+    "DUU|PUT|5|RSI_40_60|BULLISH|RANGING": {
+        "score": 43.83,
+        "wr": 44.19,
+        "samples": 86,
+        "confidence_factor": 0.86,
+        "confidence_score": 37.69,
+        "confidence_level": "LOW"
+    },
+    "DDU|CALL|5|RSI_40_60|BULLISH|RANGING": {
+        "score": 42.64,
+        "wr": 42.05,
+        "samples": 88,
+        "confidence_factor": 0.88,
+        "confidence_score": 37.52,
+        "confidence_level": "LOW"
+    },
+    "DDU|CALL|1|RSI_40_60|BULLISH|RANGING": {
+        "score": 40.25,
+        "wr": 38.64,
+        "samples": 88,
+        "confidence_factor": 0.88,
+        "confidence_score": 35.42,
+        "confidence_level": "LOW"
+    },
+    "DDU|CALL|2|RSI_40_60|BULLISH|RANGING": {
+        "score": 40.25,
+        "wr": 38.64,
+        "samples": 88,
+        "confidence_factor": 0.88,
+        "confidence_score": 35.42,
+        "confidence_level": "LOW"
+    },
+    "DUD|PUT|2|RSI_20_40|BEARISH|RANGING": {
+        "score": 47.85,
+        "wr": 63.64,
+        "samples": 22,
+        "confidence_factor": 0.22,
+        "confidence_score": 10.53,
+        "confidence_level": "VERY_LOW"
+    },
+    "DUD|PUT|5|RSI_20_40|BEARISH|RANGING": {
+        "score": 47.85,
+        "wr": 63.64,
+        "samples": 22,
+        "confidence_factor": 0.22,
+        "confidence_score": 10.53,
+        "confidence_level": "VERY_LOW"
+    },
+    "UUU|CALL|1|RSI_60_80|BULLISH|RANGING": {
+        "score": 49.82,
+        "wr": 66.67,
+        "samples": 21,
+        "confidence_factor": 0.21,
+        "confidence_score": 10.46,
+        "confidence_level": "VERY_LOW"
+    },
+    "DUD|PUT|3|RSI_20_40|BEARISH|RANGING": {
+        "score": 44.66,
+        "wr": 59.09,
+        "samples": 22,
+        "confidence_factor": 0.22,
+        "confidence_score": 9.83,
+        "confidence_level": "VERY_LOW"
+    },
+    "DUD|PUT|4|RSI_20_40|BEARISH|RANGING": {
+        "score": 44.66,
+        "wr": 59.09,
+        "samples": 22,
+        "confidence_factor": 0.22,
+        "confidence_score": 9.83,
+        "confidence_level": "VERY_LOW"
+    },
+    "DUD|PUT|1|RSI_20_40|BEARISH|RANGING": {
+        "score": 41.49,
+        "wr": 54.55,
+        "samples": 22,
+        "confidence_factor": 0.22,
+        "confidence_score": 9.13,
+        "confidence_level": "VERY_LOW"
+    },
+    "UUU|PUT|2|RSI_60_80|BULLISH|RANGING": {
+        "score": 43.15,
+        "wr": 57.14,
+        "samples": 21,
+        "confidence_factor": 0.21,
+        "confidence_score": 9.06,
+        "confidence_level": "VERY_LOW"
+    },
+    "UUU|PUT|5|RSI_60_80|BULLISH|RANGING": {
+        "score": 43.15,
+        "wr": 57.14,
+        "samples": 21,
+        "confidence_factor": 0.21,
+        "confidence_score": 9.06,
+        "confidence_level": "VERY_LOW"
+    },
+    "UUU|PUT|3|RSI_60_80|BULLISH|RANGING": {
+        "score": 39.82,
+        "wr": 52.38,
+        "samples": 21,
+        "confidence_factor": 0.21,
+        "confidence_score": 8.36,
+        "confidence_level": "VERY_LOW"
+    },
+    "UUU|PUT|4|RSI_60_80|BULLISH|RANGING": {
+        "score": 39.82,
+        "wr": 52.38,
+        "samples": 21,
+        "confidence_factor": 0.21,
+        "confidence_score": 8.36,
+        "confidence_level": "VERY_LOW"
+    },
+    "DUD|CALL|1|RSI_20_40|BEARISH|RANGING": {
+        "score": 35.12,
+        "wr": 45.45,
+        "samples": 22,
+        "confidence_factor": 0.22,
+        "confidence_score": 7.73,
+        "confidence_level": "VERY_LOW"
+    },
+    "UUU|CALL|3|RSI_60_80|BULLISH|RANGING": {
+        "score": 36.48,
+        "wr": 47.62,
+        "samples": 21,
+        "confidence_factor": 0.21,
+        "confidence_score": 7.66,
+        "confidence_level": "VERY_LOW"
+    },
+    "UUU|CALL|4|RSI_60_80|BULLISH|RANGING": {
+        "score": 36.48,
+        "wr": 47.62,
+        "samples": 21,
+        "confidence_factor": 0.21,
+        "confidence_score": 7.66,
+        "confidence_level": "VERY_LOW"
+    },
+    "DUD|CALL|3|RSI_20_40|BEARISH|RANGING": {
+        "score": 31.94,
+        "wr": 40.91,
+        "samples": 22,
+        "confidence_factor": 0.22,
+        "confidence_score": 7.03,
+        "confidence_level": "VERY_LOW"
+    },
+    "DUD|CALL|4|RSI_20_40|BEARISH|RANGING": {
+        "score": 31.94,
+        "wr": 40.91,
+        "samples": 22,
+        "confidence_factor": 0.22,
+        "confidence_score": 7.03,
+        "confidence_level": "VERY_LOW"
+    },
+    "UUU|CALL|2|RSI_60_80|BULLISH|RANGING": {
+        "score": 33.15,
+        "wr": 42.86,
+        "samples": 21,
+        "confidence_factor": 0.21,
+        "confidence_score": 6.96,
+        "confidence_level": "VERY_LOW"
+    },
+    "UUU|CALL|5|RSI_60_80|BULLISH|RANGING": {
+        "score": 33.15,
+        "wr": 42.86,
+        "samples": 21,
+        "confidence_factor": 0.21,
+        "confidence_score": 6.96,
+        "confidence_level": "VERY_LOW"
+    },
+    "DUD|CALL|2|RSI_20_40|BEARISH|RANGING": {
+        "score": 28.75,
+        "wr": 36.36,
+        "samples": 22,
+        "confidence_factor": 0.22,
+        "confidence_score": 6.33,
+        "confidence_level": "VERY_LOW"
+    },
+    "DUD|CALL|5|RSI_20_40|BEARISH|RANGING": {
+        "score": 28.75,
+        "wr": 36.36,
+        "samples": 22,
+        "confidence_factor": 0.22,
+        "confidence_score": 6.33,
+        "confidence_level": "VERY_LOW"
+    },
+    "UUU|PUT|1|RSI_60_80|BULLISH|RANGING": {
+        "score": 26.48,
+        "wr": 33.33,
+        "samples": 21,
+        "confidence_factor": 0.21,
+        "confidence_score": 5.56,
+        "confidence_level": "VERY_LOW"
+    }
+}

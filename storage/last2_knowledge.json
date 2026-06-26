@@ -1,0 +1,8102 @@
+{
+    "LAST2_81|PUT|2": {
+        "last2": "81",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 17,
+        "loss": 4,
+        "samples": 21,
+        "wr": 80.95
+    },
+    "LAST2_81|PUT|3": {
+        "last2": "81",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 17,
+        "loss": 4,
+        "samples": 21,
+        "wr": 80.95
+    },
+    "LAST2_63|PUT|1": {
+        "last2": "63",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 12,
+        "loss": 3,
+        "samples": 15,
+        "wr": 80
+    },
+    "LAST2_56|PUT|2": {
+        "last2": "56",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 17,
+        "loss": 5,
+        "samples": 22,
+        "wr": 77.27
+    },
+    "LAST2_89|PUT|1": {
+        "last2": "89",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 13,
+        "loss": 4,
+        "samples": 17,
+        "wr": 76.47
+    },
+    "LAST2_78|PUT|1": {
+        "last2": "78",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 16,
+        "loss": 5,
+        "samples": 21,
+        "wr": 76.19
+    },
+    "LAST2_78|PUT|5": {
+        "last2": "78",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 16,
+        "loss": 5,
+        "samples": 21,
+        "wr": 76.19
+    },
+    "LAST2_76|CALL|1": {
+        "last2": "76",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 18,
+        "loss": 6,
+        "samples": 24,
+        "wr": 75
+    },
+    "LAST2_76|CALL|2": {
+        "last2": "76",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 18,
+        "loss": 6,
+        "samples": 24,
+        "wr": 75
+    },
+    "LAST2_76|CALL|3": {
+        "last2": "76",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 18,
+        "loss": 6,
+        "samples": 24,
+        "wr": 75
+    },
+    "LAST2_96|CALL|1": {
+        "last2": "96",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 12,
+        "loss": 4,
+        "samples": 16,
+        "wr": 75
+    },
+    "LAST2_74|PUT|4": {
+        "last2": "74",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 15,
+        "loss": 5,
+        "samples": 20,
+        "wr": 75
+    },
+    "LAST2_06|CALL|2": {
+        "last2": "06",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 14,
+        "loss": 5,
+        "samples": 19,
+        "wr": 73.68
+    },
+    "LAST2_63|PUT|4": {
+        "last2": "63",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 11,
+        "loss": 4,
+        "samples": 15,
+        "wr": 73.33
+    },
+    "LAST2_56|PUT|1": {
+        "last2": "56",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 16,
+        "loss": 6,
+        "samples": 22,
+        "wr": 72.73
+    },
+    "LAST2_56|PUT|3": {
+        "last2": "56",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 16,
+        "loss": 6,
+        "samples": 22,
+        "wr": 72.73
+    },
+    "LAST2_12|CALL|5": {
+        "last2": "12",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 18,
+        "loss": 7,
+        "samples": 25,
+        "wr": 72
+    },
+    "LAST2_81|PUT|4": {
+        "last2": "81",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 15,
+        "loss": 6,
+        "samples": 21,
+        "wr": 71.43
+    },
+    "LAST2_84|CALL|1": {
+        "last2": "84",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 10,
+        "loss": 4,
+        "samples": 14,
+        "wr": 71.43
+    },
+    "LAST2_84|CALL|2": {
+        "last2": "84",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 10,
+        "loss": 4,
+        "samples": 14,
+        "wr": 71.43
+    },
+    "LAST2_45|CALL|2": {
+        "last2": "45",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 10,
+        "loss": 4,
+        "samples": 14,
+        "wr": 71.43
+    },
+    "LAST2_45|CALL|3": {
+        "last2": "45",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 10,
+        "loss": 4,
+        "samples": 14,
+        "wr": 71.43
+    },
+    "LAST2_23|PUT|3": {
+        "last2": "23",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 22,
+        "loss": 9,
+        "samples": 31,
+        "wr": 70.97
+    },
+    "LAST2_76|CALL|5": {
+        "last2": "76",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 17,
+        "loss": 7,
+        "samples": 24,
+        "wr": 70.83
+    },
+    "LAST2_27|CALL|2": {
+        "last2": "27",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 12,
+        "loss": 5,
+        "samples": 17,
+        "wr": 70.59
+    },
+    "LAST2_89|PUT|2": {
+        "last2": "89",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 12,
+        "loss": 5,
+        "samples": 17,
+        "wr": 70.59
+    },
+    "LAST2_16|CALL|1": {
+        "last2": "16",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 24,
+        "loss": 10,
+        "samples": 34,
+        "wr": 70.59
+    },
+    "LAST2_74|PUT|5": {
+        "last2": "74",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 14,
+        "loss": 6,
+        "samples": 20,
+        "wr": 70
+    },
+    "LAST2_49|PUT|1": {
+        "last2": "49",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 16,
+        "loss": 7,
+        "samples": 23,
+        "wr": 69.57
+    },
+    "LAST2_55|PUT|1": {
+        "last2": "55",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 18,
+        "loss": 8,
+        "samples": 26,
+        "wr": 69.23
+    },
+    "LAST2_41|PUT|5": {
+        "last2": "41",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 20,
+        "loss": 9,
+        "samples": 29,
+        "wr": 68.97
+    },
+    "LAST2_96|CALL|2": {
+        "last2": "96",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 11,
+        "loss": 5,
+        "samples": 16,
+        "wr": 68.75
+    },
+    "LAST2_96|CALL|4": {
+        "last2": "96",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 11,
+        "loss": 5,
+        "samples": 16,
+        "wr": 68.75
+    },
+    "LAST2_96|CALL|5": {
+        "last2": "96",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 11,
+        "loss": 5,
+        "samples": 16,
+        "wr": 68.75
+    },
+    "LAST2_04|CALL|5": {
+        "last2": "04",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 11,
+        "loss": 5,
+        "samples": 16,
+        "wr": 68.75
+    },
+    "LAST2_62|CALL|2": {
+        "last2": "62",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 13,
+        "loss": 6,
+        "samples": 19,
+        "wr": 68.42
+    },
+    "LAST2_32|CALL|4": {
+        "last2": "32",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 13,
+        "loss": 6,
+        "samples": 19,
+        "wr": 68.42
+    },
+    "LAST2_99|CALL|5": {
+        "last2": "99",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 16,
+        "loss": 8,
+        "samples": 24,
+        "wr": 66.67
+    },
+    "LAST2_64|CALL|3": {
+        "last2": "64",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 14,
+        "loss": 7,
+        "samples": 21,
+        "wr": 66.67
+    },
+    "LAST2_81|PUT|5": {
+        "last2": "81",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 14,
+        "loss": 7,
+        "samples": 21,
+        "wr": 66.67
+    },
+    "LAST2_35|PUT|2": {
+        "last2": "35",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 14,
+        "loss": 7,
+        "samples": 21,
+        "wr": 66.67
+    },
+    "LAST2_52|CALL|1": {
+        "last2": "52",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 20,
+        "loss": 10,
+        "samples": 30,
+        "wr": 66.67
+    },
+    "LAST2_39|PUT|4": {
+        "last2": "39",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 14,
+        "loss": 7,
+        "samples": 21,
+        "wr": 66.67
+    },
+    "LAST2_39|PUT|5": {
+        "last2": "39",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 14,
+        "loss": 7,
+        "samples": 21,
+        "wr": 66.67
+    },
+    "LAST2_07|PUT|4": {
+        "last2": "07",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 20,
+        "loss": 10,
+        "samples": 30,
+        "wr": 66.67
+    },
+    "LAST2_33|PUT|4": {
+        "last2": "33",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 18,
+        "loss": 9,
+        "samples": 27,
+        "wr": 66.67
+    },
+    "LAST2_13|CALL|4": {
+        "last2": "13",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 16,
+        "loss": 8,
+        "samples": 24,
+        "wr": 66.67
+    },
+    "LAST2_13|CALL|5": {
+        "last2": "13",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 16,
+        "loss": 8,
+        "samples": 24,
+        "wr": 66.67
+    },
+    "LAST2_92|CALL|1": {
+        "last2": "92",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 12,
+        "loss": 6,
+        "samples": 18,
+        "wr": 66.67
+    },
+    "LAST2_63|PUT|2": {
+        "last2": "63",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 10,
+        "loss": 5,
+        "samples": 15,
+        "wr": 66.67
+    },
+    "LAST2_63|PUT|3": {
+        "last2": "63",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 10,
+        "loss": 5,
+        "samples": 15,
+        "wr": 66.67
+    },
+    "LAST2_41|PUT|3": {
+        "last2": "41",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 19,
+        "loss": 10,
+        "samples": 29,
+        "wr": 65.52
+    },
+    "LAST2_79|CALL|1": {
+        "last2": "79",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 17,
+        "loss": 9,
+        "samples": 26,
+        "wr": 65.38
+    },
+    "LAST2_26|PUT|1": {
+        "last2": "26",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 17,
+        "loss": 9,
+        "samples": 26,
+        "wr": 65.38
+    },
+    "LAST2_26|PUT|3": {
+        "last2": "26",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 17,
+        "loss": 9,
+        "samples": 26,
+        "wr": 65.38
+    },
+    "LAST2_36|CALL|4": {
+        "last2": "36",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 15,
+        "loss": 8,
+        "samples": 23,
+        "wr": 65.22
+    },
+    "LAST2_36|CALL|5": {
+        "last2": "36",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 15,
+        "loss": 8,
+        "samples": 23,
+        "wr": 65.22
+    },
+    "LAST2_31|PUT|1": {
+        "last2": "31",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 15,
+        "loss": 8,
+        "samples": 23,
+        "wr": 65.22
+    },
+    "LAST2_31|PUT|4": {
+        "last2": "31",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 15,
+        "loss": 8,
+        "samples": 23,
+        "wr": 65.22
+    },
+    "LAST2_91|CALL|1": {
+        "last2": "91",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 13,
+        "loss": 7,
+        "samples": 20,
+        "wr": 65
+    },
+    "LAST2_34|PUT|1": {
+        "last2": "34",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 13,
+        "loss": 7,
+        "samples": 20,
+        "wr": 65
+    },
+    "LAST2_34|PUT|4": {
+        "last2": "34",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 13,
+        "loss": 7,
+        "samples": 20,
+        "wr": 65
+    },
+    "LAST2_68|CALL|5": {
+        "last2": "68",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 13,
+        "loss": 7,
+        "samples": 20,
+        "wr": 65
+    },
+    "LAST2_14|PUT|3": {
+        "last2": "14",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 13,
+        "loss": 7,
+        "samples": 20,
+        "wr": 65
+    },
+    "LAST2_74|PUT|3": {
+        "last2": "74",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 13,
+        "loss": 7,
+        "samples": 20,
+        "wr": 65
+    },
+    "LAST2_93|PUT|4": {
+        "last2": "93",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 11,
+        "loss": 6,
+        "samples": 17,
+        "wr": 64.71
+    },
+    "LAST2_93|PUT|5": {
+        "last2": "93",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 11,
+        "loss": 6,
+        "samples": 17,
+        "wr": 64.71
+    },
+    "LAST2_89|PUT|3": {
+        "last2": "89",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 11,
+        "loss": 6,
+        "samples": 17,
+        "wr": 64.71
+    },
+    "LAST2_89|PUT|5": {
+        "last2": "89",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 11,
+        "loss": 6,
+        "samples": 17,
+        "wr": 64.71
+    },
+    "LAST2_19|PUT|3": {
+        "last2": "19",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 11,
+        "loss": 6,
+        "samples": 17,
+        "wr": 64.71
+    },
+    "LAST2_44|CALL|1": {
+        "last2": "44",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 11,
+        "loss": 6,
+        "samples": 17,
+        "wr": 64.71
+    },
+    "LAST2_58|PUT|3": {
+        "last2": "58",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 20,
+        "loss": 11,
+        "samples": 31,
+        "wr": 64.52
+    },
+    "LAST2_51|CALL|5": {
+        "last2": "51",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 20,
+        "loss": 11,
+        "samples": 31,
+        "wr": 64.52
+    },
+    "LAST2_23|PUT|4": {
+        "last2": "23",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 20,
+        "loss": 11,
+        "samples": 31,
+        "wr": 64.52
+    },
+    "LAST2_88|PUT|3": {
+        "last2": "88",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 18,
+        "loss": 10,
+        "samples": 28,
+        "wr": 64.29
+    },
+    "LAST2_84|CALL|3": {
+        "last2": "84",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 9,
+        "loss": 5,
+        "samples": 14,
+        "wr": 64.29
+    },
+    "LAST2_73|CALL|2": {
+        "last2": "73",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 16,
+        "loss": 9,
+        "samples": 25,
+        "wr": 64
+    },
+    "LAST2_12|CALL|1": {
+        "last2": "12",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 16,
+        "loss": 9,
+        "samples": 25,
+        "wr": 64
+    },
+    "LAST2_42|PUT|2": {
+        "last2": "42",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 16,
+        "loss": 9,
+        "samples": 25,
+        "wr": 64
+    },
+    "LAST2_97|CALL|2": {
+        "last2": "97",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 14,
+        "loss": 8,
+        "samples": 22,
+        "wr": 63.64
+    },
+    "LAST2_95|CALL|4": {
+        "last2": "95",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 19,
+        "loss": 11,
+        "samples": 30,
+        "wr": 63.33
+    },
+    "LAST2_07|PUT|3": {
+        "last2": "07",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 19,
+        "loss": 11,
+        "samples": 30,
+        "wr": 63.33
+    },
+    "LAST2_77|PUT|1": {
+        "last2": "77",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 12,
+        "loss": 7,
+        "samples": 19,
+        "wr": 63.16
+    },
+    "LAST2_77|PUT|2": {
+        "last2": "77",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 12,
+        "loss": 7,
+        "samples": 19,
+        "wr": 63.16
+    },
+    "LAST2_06|CALL|3": {
+        "last2": "06",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 12,
+        "loss": 7,
+        "samples": 19,
+        "wr": 63.16
+    },
+    "LAST2_06|CALL|5": {
+        "last2": "06",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 12,
+        "loss": 7,
+        "samples": 19,
+        "wr": 63.16
+    },
+    "LAST2_32|CALL|3": {
+        "last2": "32",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 12,
+        "loss": 7,
+        "samples": 19,
+        "wr": 63.16
+    },
+    "LAST2_32|CALL|5": {
+        "last2": "32",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 12,
+        "loss": 7,
+        "samples": 19,
+        "wr": 63.16
+    },
+    "LAST2_53|PUT|1": {
+        "last2": "53",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 17,
+        "loss": 10,
+        "samples": 27,
+        "wr": 62.96
+    },
+    "LAST2_57|PUT|1": {
+        "last2": "57",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 15,
+        "loss": 9,
+        "samples": 24,
+        "wr": 62.5
+    },
+    "LAST2_57|PUT|2": {
+        "last2": "57",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 15,
+        "loss": 9,
+        "samples": 24,
+        "wr": 62.5
+    },
+    "LAST2_99|CALL|4": {
+        "last2": "99",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 15,
+        "loss": 9,
+        "samples": 24,
+        "wr": 62.5
+    },
+    "LAST2_83|PUT|4": {
+        "last2": "83",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 15,
+        "loss": 9,
+        "samples": 24,
+        "wr": 62.5
+    },
+    "LAST2_87|PUT|2": {
+        "last2": "87",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 10,
+        "loss": 6,
+        "samples": 16,
+        "wr": 62.5
+    },
+    "LAST2_21|PUT|4": {
+        "last2": "21",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 10,
+        "loss": 6,
+        "samples": 16,
+        "wr": 62.5
+    },
+    "LAST2_76|CALL|4": {
+        "last2": "76",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 15,
+        "loss": 9,
+        "samples": 24,
+        "wr": 62.5
+    },
+    "LAST2_29|PUT|3": {
+        "last2": "29",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 15,
+        "loss": 9,
+        "samples": 24,
+        "wr": 62.5
+    },
+    "LAST2_72|PUT|2": {
+        "last2": "72",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 10,
+        "loss": 6,
+        "samples": 16,
+        "wr": 62.5
+    },
+    "LAST2_72|PUT|3": {
+        "last2": "72",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 10,
+        "loss": 6,
+        "samples": 16,
+        "wr": 62.5
+    },
+    "LAST2_72|PUT|5": {
+        "last2": "72",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 10,
+        "loss": 6,
+        "samples": 16,
+        "wr": 62.5
+    },
+    "LAST2_85|PUT|5": {
+        "last2": "85",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 18,
+        "loss": 11,
+        "samples": 29,
+        "wr": 62.07
+    },
+    "LAST2_71|PUT|2": {
+        "last2": "71",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 18,
+        "loss": 11,
+        "samples": 29,
+        "wr": 62.07
+    },
+    "LAST2_64|CALL|4": {
+        "last2": "64",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 13,
+        "loss": 8,
+        "samples": 21,
+        "wr": 61.9
+    },
+    "LAST2_64|PUT|1": {
+        "last2": "64",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 13,
+        "loss": 8,
+        "samples": 21,
+        "wr": 61.9
+    },
+    "LAST2_81|PUT|1": {
+        "last2": "81",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 13,
+        "loss": 8,
+        "samples": 21,
+        "wr": 61.9
+    },
+    "LAST2_35|CALL|1": {
+        "last2": "35",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 13,
+        "loss": 8,
+        "samples": 21,
+        "wr": 61.9
+    },
+    "LAST2_39|PUT|3": {
+        "last2": "39",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 13,
+        "loss": 8,
+        "samples": 21,
+        "wr": 61.9
+    },
+    "LAST2_78|PUT|2": {
+        "last2": "78",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 13,
+        "loss": 8,
+        "samples": 21,
+        "wr": 61.9
+    },
+    "LAST2_78|PUT|3": {
+        "last2": "78",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 13,
+        "loss": 8,
+        "samples": 21,
+        "wr": 61.9
+    },
+    "LAST2_78|PUT|4": {
+        "last2": "78",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 13,
+        "loss": 8,
+        "samples": 21,
+        "wr": 61.9
+    },
+    "LAST2_54|PUT|3": {
+        "last2": "54",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 13,
+        "loss": 8,
+        "samples": 21,
+        "wr": 61.9
+    },
+    "LAST2_54|PUT|4": {
+        "last2": "54",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 13,
+        "loss": 8,
+        "samples": 21,
+        "wr": 61.9
+    },
+    "LAST2_37|PUT|1": {
+        "last2": "37",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 8,
+        "loss": 5,
+        "samples": 13,
+        "wr": 61.54
+    },
+    "LAST2_26|PUT|2": {
+        "last2": "26",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 16,
+        "loss": 10,
+        "samples": 26,
+        "wr": 61.54
+    },
+    "LAST2_23|PUT|2": {
+        "last2": "23",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 19,
+        "loss": 12,
+        "samples": 31,
+        "wr": 61.29
+    },
+    "LAST2_22|PUT|5": {
+        "last2": "22",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 11,
+        "loss": 7,
+        "samples": 18,
+        "wr": 61.11
+    },
+    "LAST2_38|PUT|2": {
+        "last2": "38",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 11,
+        "loss": 7,
+        "samples": 18,
+        "wr": 61.11
+    },
+    "LAST2_92|CALL|2": {
+        "last2": "92",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 11,
+        "loss": 7,
+        "samples": 18,
+        "wr": 61.11
+    },
+    "LAST2_02|CALL|1": {
+        "last2": "02",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 14,
+        "loss": 9,
+        "samples": 23,
+        "wr": 60.87
+    },
+    "LAST2_49|PUT|5": {
+        "last2": "49",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 14,
+        "loss": 9,
+        "samples": 23,
+        "wr": 60.87
+    },
+    "LAST2_69|CALL|1": {
+        "last2": "69",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 14,
+        "loss": 9,
+        "samples": 23,
+        "wr": 60.87
+    },
+    "LAST2_31|PUT|3": {
+        "last2": "31",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 14,
+        "loss": 9,
+        "samples": 23,
+        "wr": 60.87
+    },
+    "LAST2_01|PUT|1": {
+        "last2": "01",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 14,
+        "loss": 9,
+        "samples": 23,
+        "wr": 60.87
+    },
+    "LAST2_01|PUT|2": {
+        "last2": "01",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 14,
+        "loss": 9,
+        "samples": 23,
+        "wr": 60.87
+    },
+    "LAST2_01|PUT|3": {
+        "last2": "01",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 14,
+        "loss": 9,
+        "samples": 23,
+        "wr": 60.87
+    },
+    "LAST2_24|PUT|5": {
+        "last2": "24",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 17,
+        "loss": 11,
+        "samples": 28,
+        "wr": 60.71
+    },
+    "LAST2_94|CALL|1": {
+        "last2": "94",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 12,
+        "loss": 8,
+        "samples": 20,
+        "wr": 60
+    },
+    "LAST2_94|CALL|4": {
+        "last2": "94",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 12,
+        "loss": 8,
+        "samples": 20,
+        "wr": 60
+    },
+    "LAST2_94|CALL|5": {
+        "last2": "94",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 12,
+        "loss": 8,
+        "samples": 20,
+        "wr": 60
+    },
+    "LAST2_75|PUT|1": {
+        "last2": "75",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 15,
+        "loss": 10,
+        "samples": 25,
+        "wr": 60
+    },
+    "LAST2_91|CALL|2": {
+        "last2": "91",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 12,
+        "loss": 8,
+        "samples": 20,
+        "wr": 60
+    },
+    "LAST2_91|CALL|3": {
+        "last2": "91",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 12,
+        "loss": 8,
+        "samples": 20,
+        "wr": 60
+    },
+    "LAST2_91|PUT|5": {
+        "last2": "91",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 12,
+        "loss": 8,
+        "samples": 20,
+        "wr": 60
+    },
+    "LAST2_34|PUT|5": {
+        "last2": "34",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 12,
+        "loss": 8,
+        "samples": 20,
+        "wr": 60
+    },
+    "LAST2_82|PUT|1": {
+        "last2": "82",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 15,
+        "loss": 10,
+        "samples": 25,
+        "wr": 60
+    },
+    "LAST2_82|PUT|3": {
+        "last2": "82",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 15,
+        "loss": 10,
+        "samples": 25,
+        "wr": 60
+    },
+    "LAST2_82|PUT|4": {
+        "last2": "82",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 15,
+        "loss": 10,
+        "samples": 25,
+        "wr": 60
+    },
+    "LAST2_82|PUT|5": {
+        "last2": "82",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 15,
+        "loss": 10,
+        "samples": 25,
+        "wr": 60
+    },
+    "LAST2_68|CALL|3": {
+        "last2": "68",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 12,
+        "loss": 8,
+        "samples": 20,
+        "wr": 60
+    },
+    "LAST2_68|PUT|1": {
+        "last2": "68",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 12,
+        "loss": 8,
+        "samples": 20,
+        "wr": 60
+    },
+    "LAST2_03|CALL|1": {
+        "last2": "03",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 15,
+        "loss": 10,
+        "samples": 25,
+        "wr": 60
+    },
+    "LAST2_03|PUT|3": {
+        "last2": "03",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 15,
+        "loss": 10,
+        "samples": 25,
+        "wr": 60
+    },
+    "LAST2_95|CALL|2": {
+        "last2": "95",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 18,
+        "loss": 12,
+        "samples": 30,
+        "wr": 60
+    },
+    "LAST2_52|CALL|2": {
+        "last2": "52",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 18,
+        "loss": 12,
+        "samples": 30,
+        "wr": 60
+    },
+    "LAST2_73|CALL|3": {
+        "last2": "73",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 15,
+        "loss": 10,
+        "samples": 25,
+        "wr": 60
+    },
+    "LAST2_63|PUT|5": {
+        "last2": "63",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 9,
+        "loss": 6,
+        "samples": 15,
+        "wr": 60
+    },
+    "LAST2_14|PUT|2": {
+        "last2": "14",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 12,
+        "loss": 8,
+        "samples": 20,
+        "wr": 60
+    },
+    "LAST2_14|PUT|5": {
+        "last2": "14",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 12,
+        "loss": 8,
+        "samples": 20,
+        "wr": 60
+    },
+    "LAST2_74|CALL|1": {
+        "last2": "74",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 12,
+        "loss": 8,
+        "samples": 20,
+        "wr": 60
+    },
+    "LAST2_05|CALL|2": {
+        "last2": "05",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 19,
+        "loss": 13,
+        "samples": 32,
+        "wr": 59.38
+    },
+    "LAST2_53|PUT|2": {
+        "last2": "53",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 16,
+        "loss": 11,
+        "samples": 27,
+        "wr": 59.26
+    },
+    "LAST2_53|PUT|4": {
+        "last2": "53",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 16,
+        "loss": 11,
+        "samples": 27,
+        "wr": 59.26
+    },
+    "LAST2_28|CALL|2": {
+        "last2": "28",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 16,
+        "loss": 11,
+        "samples": 27,
+        "wr": 59.26
+    },
+    "LAST2_28|CALL|3": {
+        "last2": "28",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 16,
+        "loss": 11,
+        "samples": 27,
+        "wr": 59.26
+    },
+    "LAST2_15|CALL|4": {
+        "last2": "15",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 13,
+        "loss": 9,
+        "samples": 22,
+        "wr": 59.09
+    },
+    "LAST2_15|CALL|5": {
+        "last2": "15",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 13,
+        "loss": 9,
+        "samples": 22,
+        "wr": 59.09
+    },
+    "LAST2_43|CALL|2": {
+        "last2": "43",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 13,
+        "loss": 9,
+        "samples": 22,
+        "wr": 59.09
+    },
+    "LAST2_43|PUT|5": {
+        "last2": "43",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 13,
+        "loss": 9,
+        "samples": 22,
+        "wr": 59.09
+    },
+    "LAST2_11|CALL|4": {
+        "last2": "11",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 13,
+        "loss": 9,
+        "samples": 22,
+        "wr": 59.09
+    },
+    "LAST2_11|CALL|5": {
+        "last2": "11",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 13,
+        "loss": 9,
+        "samples": 22,
+        "wr": 59.09
+    },
+    "LAST2_59|CALL|1": {
+        "last2": "59",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 13,
+        "loss": 9,
+        "samples": 22,
+        "wr": 59.09
+    },
+    "LAST2_59|PUT|5": {
+        "last2": "59",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 13,
+        "loss": 9,
+        "samples": 22,
+        "wr": 59.09
+    },
+    "LAST2_97|CALL|1": {
+        "last2": "97",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 13,
+        "loss": 9,
+        "samples": 22,
+        "wr": 59.09
+    },
+    "LAST2_97|CALL|5": {
+        "last2": "97",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 13,
+        "loss": 9,
+        "samples": 22,
+        "wr": 59.09
+    },
+    "LAST2_09|CALL|5": {
+        "last2": "09",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 13,
+        "loss": 9,
+        "samples": 22,
+        "wr": 59.09
+    },
+    "LAST2_09|PUT|2": {
+        "last2": "09",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 13,
+        "loss": 9,
+        "samples": 22,
+        "wr": 59.09
+    },
+    "LAST2_09|PUT|4": {
+        "last2": "09",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 13,
+        "loss": 9,
+        "samples": 22,
+        "wr": 59.09
+    },
+    "LAST2_27|CALL|1": {
+        "last2": "27",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 10,
+        "loss": 7,
+        "samples": 17,
+        "wr": 58.82
+    },
+    "LAST2_27|CALL|3": {
+        "last2": "27",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 10,
+        "loss": 7,
+        "samples": 17,
+        "wr": 58.82
+    },
+    "LAST2_93|PUT|3": {
+        "last2": "93",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 10,
+        "loss": 7,
+        "samples": 17,
+        "wr": 58.82
+    },
+    "LAST2_48|CALL|1": {
+        "last2": "48",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 10,
+        "loss": 7,
+        "samples": 17,
+        "wr": 58.82
+    },
+    "LAST2_48|CALL|2": {
+        "last2": "48",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 10,
+        "loss": 7,
+        "samples": 17,
+        "wr": 58.82
+    },
+    "LAST2_48|PUT|3": {
+        "last2": "48",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 10,
+        "loss": 7,
+        "samples": 17,
+        "wr": 58.82
+    },
+    "LAST2_48|PUT|5": {
+        "last2": "48",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 10,
+        "loss": 7,
+        "samples": 17,
+        "wr": 58.82
+    },
+    "LAST2_89|PUT|4": {
+        "last2": "89",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 10,
+        "loss": 7,
+        "samples": 17,
+        "wr": 58.82
+    },
+    "LAST2_19|PUT|4": {
+        "last2": "19",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 10,
+        "loss": 7,
+        "samples": 17,
+        "wr": 58.82
+    },
+    "LAST2_19|PUT|5": {
+        "last2": "19",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 10,
+        "loss": 7,
+        "samples": 17,
+        "wr": 58.82
+    },
+    "LAST2_16|CALL|4": {
+        "last2": "16",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 20,
+        "loss": 14,
+        "samples": 34,
+        "wr": 58.82
+    },
+    "LAST2_16|CALL|5": {
+        "last2": "16",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 20,
+        "loss": 14,
+        "samples": 34,
+        "wr": 58.82
+    },
+    "LAST2_66|CALL|3": {
+        "last2": "66",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 10,
+        "loss": 7,
+        "samples": 17,
+        "wr": 58.82
+    },
+    "LAST2_66|CALL|5": {
+        "last2": "66",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 10,
+        "loss": 7,
+        "samples": 17,
+        "wr": 58.82
+    },
+    "LAST2_44|CALL|2": {
+        "last2": "44",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 10,
+        "loss": 7,
+        "samples": 17,
+        "wr": 58.82
+    },
+    "LAST2_44|CALL|3": {
+        "last2": "44",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 10,
+        "loss": 7,
+        "samples": 17,
+        "wr": 58.82
+    },
+    "LAST2_44|CALL|4": {
+        "last2": "44",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 10,
+        "loss": 7,
+        "samples": 17,
+        "wr": 58.82
+    },
+    "LAST2_85|PUT|2": {
+        "last2": "85",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 17,
+        "loss": 12,
+        "samples": 29,
+        "wr": 58.62
+    },
+    "LAST2_85|PUT|4": {
+        "last2": "85",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 17,
+        "loss": 12,
+        "samples": 29,
+        "wr": 58.62
+    },
+    "LAST2_41|PUT|4": {
+        "last2": "41",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 17,
+        "loss": 12,
+        "samples": 29,
+        "wr": 58.62
+    },
+    "LAST2_71|CALL|5": {
+        "last2": "71",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 17,
+        "loss": 12,
+        "samples": 29,
+        "wr": 58.62
+    },
+    "LAST2_57|PUT|3": {
+        "last2": "57",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 14,
+        "loss": 10,
+        "samples": 24,
+        "wr": 58.33
+    },
+    "LAST2_98|CALL|1": {
+        "last2": "98",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 14,
+        "loss": 10,
+        "samples": 24,
+        "wr": 58.33
+    },
+    "LAST2_98|PUT|4": {
+        "last2": "98",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 14,
+        "loss": 10,
+        "samples": 24,
+        "wr": 58.33
+    },
+    "LAST2_83|PUT|5": {
+        "last2": "83",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 14,
+        "loss": 10,
+        "samples": 24,
+        "wr": 58.33
+    },
+    "LAST2_29|CALL|5": {
+        "last2": "29",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 14,
+        "loss": 10,
+        "samples": 24,
+        "wr": 58.33
+    },
+    "LAST2_13|CALL|3": {
+        "last2": "13",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 14,
+        "loss": 10,
+        "samples": 24,
+        "wr": 58.33
+    },
+    "LAST2_13|PUT|1": {
+        "last2": "13",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 14,
+        "loss": 10,
+        "samples": 24,
+        "wr": 58.33
+    },
+    "LAST2_58|PUT|2": {
+        "last2": "58",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 18,
+        "loss": 13,
+        "samples": 31,
+        "wr": 58.06
+    },
+    "LAST2_51|CALL|4": {
+        "last2": "51",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 18,
+        "loss": 13,
+        "samples": 31,
+        "wr": 58.06
+    },
+    "LAST2_62|CALL|1": {
+        "last2": "62",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 11,
+        "loss": 8,
+        "samples": 19,
+        "wr": 57.89
+    },
+    "LAST2_62|CALL|4": {
+        "last2": "62",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 11,
+        "loss": 8,
+        "samples": 19,
+        "wr": 57.89
+    },
+    "LAST2_77|PUT|3": {
+        "last2": "77",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 11,
+        "loss": 8,
+        "samples": 19,
+        "wr": 57.89
+    },
+    "LAST2_77|PUT|4": {
+        "last2": "77",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 11,
+        "loss": 8,
+        "samples": 19,
+        "wr": 57.89
+    },
+    "LAST2_77|PUT|5": {
+        "last2": "77",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 11,
+        "loss": 8,
+        "samples": 19,
+        "wr": 57.89
+    },
+    "LAST2_86|CALL|1": {
+        "last2": "86",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 11,
+        "loss": 8,
+        "samples": 19,
+        "wr": 57.89
+    },
+    "LAST2_86|CALL|4": {
+        "last2": "86",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 11,
+        "loss": 8,
+        "samples": 19,
+        "wr": 57.89
+    },
+    "LAST2_06|CALL|4": {
+        "last2": "06",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 11,
+        "loss": 8,
+        "samples": 19,
+        "wr": 57.89
+    },
+    "LAST2_32|CALL|2": {
+        "last2": "32",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 11,
+        "loss": 8,
+        "samples": 19,
+        "wr": 57.89
+    },
+    "LAST2_79|CALL|2": {
+        "last2": "79",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 15,
+        "loss": 11,
+        "samples": 26,
+        "wr": 57.69
+    },
+    "LAST2_79|CALL|3": {
+        "last2": "79",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 15,
+        "loss": 11,
+        "samples": 26,
+        "wr": 57.69
+    },
+    "LAST2_55|CALL|3": {
+        "last2": "55",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 15,
+        "loss": 11,
+        "samples": 26,
+        "wr": 57.69
+    },
+    "LAST2_25|CALL|1": {
+        "last2": "25",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 16,
+        "loss": 12,
+        "samples": 28,
+        "wr": 57.14
+    },
+    "LAST2_88|PUT|2": {
+        "last2": "88",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 16,
+        "loss": 12,
+        "samples": 28,
+        "wr": 57.14
+    },
+    "LAST2_54|CALL|1": {
+        "last2": "54",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 12,
+        "loss": 9,
+        "samples": 21,
+        "wr": 57.14
+    },
+    "LAST2_54|CALL|2": {
+        "last2": "54",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 12,
+        "loss": 9,
+        "samples": 21,
+        "wr": 57.14
+    },
+    "LAST2_54|PUT|5": {
+        "last2": "54",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 12,
+        "loss": 9,
+        "samples": 21,
+        "wr": 57.14
+    },
+    "LAST2_24|CALL|1": {
+        "last2": "24",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 16,
+        "loss": 12,
+        "samples": 28,
+        "wr": 57.14
+    },
+    "LAST2_84|CALL|4": {
+        "last2": "84",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 8,
+        "loss": 6,
+        "samples": 14,
+        "wr": 57.14
+    },
+    "LAST2_45|CALL|5": {
+        "last2": "45",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 8,
+        "loss": 6,
+        "samples": 14,
+        "wr": 57.14
+    },
+    "LAST2_95|CALL|3": {
+        "last2": "95",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 17,
+        "loss": 13,
+        "samples": 30,
+        "wr": 56.67
+    },
+    "LAST2_52|CALL|5": {
+        "last2": "52",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 17,
+        "loss": 13,
+        "samples": 30,
+        "wr": 56.67
+    },
+    "LAST2_07|PUT|1": {
+        "last2": "07",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 17,
+        "loss": 13,
+        "samples": 30,
+        "wr": 56.67
+    },
+    "LAST2_07|PUT|5": {
+        "last2": "07",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 17,
+        "loss": 13,
+        "samples": 30,
+        "wr": 56.67
+    },
+    "LAST2_08|PUT|1": {
+        "last2": "08",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 17,
+        "loss": 13,
+        "samples": 30,
+        "wr": 56.67
+    },
+    "LAST2_08|PUT|3": {
+        "last2": "08",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 17,
+        "loss": 13,
+        "samples": 30,
+        "wr": 56.67
+    },
+    "LAST2_08|PUT|5": {
+        "last2": "08",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 17,
+        "loss": 13,
+        "samples": 30,
+        "wr": 56.67
+    },
+    "LAST2_02|CALL|4": {
+        "last2": "02",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 13,
+        "loss": 10,
+        "samples": 23,
+        "wr": 56.52
+    },
+    "LAST2_02|PUT|2": {
+        "last2": "02",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 13,
+        "loss": 10,
+        "samples": 23,
+        "wr": 56.52
+    },
+    "LAST2_02|PUT|5": {
+        "last2": "02",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 13,
+        "loss": 10,
+        "samples": 23,
+        "wr": 56.52
+    },
+    "LAST2_18|PUT|2": {
+        "last2": "18",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 13,
+        "loss": 10,
+        "samples": 23,
+        "wr": 56.52
+    },
+    "LAST2_36|CALL|3": {
+        "last2": "36",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 13,
+        "loss": 10,
+        "samples": 23,
+        "wr": 56.52
+    },
+    "LAST2_69|CALL|5": {
+        "last2": "69",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 13,
+        "loss": 10,
+        "samples": 23,
+        "wr": 56.52
+    },
+    "LAST2_69|PUT|3": {
+        "last2": "69",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 13,
+        "loss": 10,
+        "samples": 23,
+        "wr": 56.52
+    },
+    "LAST2_31|PUT|2": {
+        "last2": "31",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 13,
+        "loss": 10,
+        "samples": 23,
+        "wr": 56.52
+    },
+    "LAST2_31|PUT|5": {
+        "last2": "31",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 13,
+        "loss": 10,
+        "samples": 23,
+        "wr": 56.52
+    },
+    "LAST2_01|PUT|4": {
+        "last2": "01",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 13,
+        "loss": 10,
+        "samples": 23,
+        "wr": 56.52
+    },
+    "LAST2_87|CALL|1": {
+        "last2": "87",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 9,
+        "loss": 7,
+        "samples": 16,
+        "wr": 56.25
+    },
+    "LAST2_87|PUT|4": {
+        "last2": "87",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 9,
+        "loss": 7,
+        "samples": 16,
+        "wr": 56.25
+    },
+    "LAST2_87|PUT|5": {
+        "last2": "87",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 9,
+        "loss": 7,
+        "samples": 16,
+        "wr": 56.25
+    },
+    "LAST2_05|PUT|4": {
+        "last2": "05",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 18,
+        "loss": 14,
+        "samples": 32,
+        "wr": 56.25
+    },
+    "LAST2_21|PUT|1": {
+        "last2": "21",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 9,
+        "loss": 7,
+        "samples": 16,
+        "wr": 56.25
+    },
+    "LAST2_21|PUT|2": {
+        "last2": "21",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 9,
+        "loss": 7,
+        "samples": 16,
+        "wr": 56.25
+    },
+    "LAST2_21|PUT|3": {
+        "last2": "21",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 9,
+        "loss": 7,
+        "samples": 16,
+        "wr": 56.25
+    },
+    "LAST2_72|CALL|1": {
+        "last2": "72",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 9,
+        "loss": 7,
+        "samples": 16,
+        "wr": 56.25
+    },
+    "LAST2_72|CALL|4": {
+        "last2": "72",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 9,
+        "loss": 7,
+        "samples": 16,
+        "wr": 56.25
+    },
+    "LAST2_96|CALL|3": {
+        "last2": "96",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 9,
+        "loss": 7,
+        "samples": 16,
+        "wr": 56.25
+    },
+    "LAST2_04|CALL|1": {
+        "last2": "04",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 9,
+        "loss": 7,
+        "samples": 16,
+        "wr": 56.25
+    },
+    "LAST2_75|CALL|3": {
+        "last2": "75",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 14,
+        "loss": 11,
+        "samples": 25,
+        "wr": 56
+    },
+    "LAST2_75|PUT|2": {
+        "last2": "75",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 14,
+        "loss": 11,
+        "samples": 25,
+        "wr": 56
+    },
+    "LAST2_75|PUT|5": {
+        "last2": "75",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 14,
+        "loss": 11,
+        "samples": 25,
+        "wr": 56
+    },
+    "LAST2_03|CALL|5": {
+        "last2": "03",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 14,
+        "loss": 11,
+        "samples": 25,
+        "wr": 56
+    },
+    "LAST2_67|PUT|2": {
+        "last2": "67",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 14,
+        "loss": 11,
+        "samples": 25,
+        "wr": 56
+    },
+    "LAST2_67|PUT|3": {
+        "last2": "67",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 14,
+        "loss": 11,
+        "samples": 25,
+        "wr": 56
+    },
+    "LAST2_67|PUT|5": {
+        "last2": "67",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 14,
+        "loss": 11,
+        "samples": 25,
+        "wr": 56
+    },
+    "LAST2_12|CALL|2": {
+        "last2": "12",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 14,
+        "loss": 11,
+        "samples": 25,
+        "wr": 56
+    },
+    "LAST2_12|PUT|4": {
+        "last2": "12",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 14,
+        "loss": 11,
+        "samples": 25,
+        "wr": 56
+    },
+    "LAST2_42|CALL|4": {
+        "last2": "42",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 14,
+        "loss": 11,
+        "samples": 25,
+        "wr": 56
+    },
+    "LAST2_42|CALL|5": {
+        "last2": "42",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 14,
+        "loss": 11,
+        "samples": 25,
+        "wr": 56
+    },
+    "LAST2_16|CALL|2": {
+        "last2": "16",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 19,
+        "loss": 15,
+        "samples": 34,
+        "wr": 55.88
+    },
+    "LAST2_16|CALL|3": {
+        "last2": "16",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 19,
+        "loss": 15,
+        "samples": 34,
+        "wr": 55.88
+    },
+    "LAST2_53|PUT|3": {
+        "last2": "53",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 15,
+        "loss": 12,
+        "samples": 27,
+        "wr": 55.56
+    },
+    "LAST2_53|PUT|5": {
+        "last2": "53",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 15,
+        "loss": 12,
+        "samples": 27,
+        "wr": 55.56
+    },
+    "LAST2_22|PUT|1": {
+        "last2": "22",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 10,
+        "loss": 8,
+        "samples": 18,
+        "wr": 55.56
+    },
+    "LAST2_22|PUT|4": {
+        "last2": "22",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 10,
+        "loss": 8,
+        "samples": 18,
+        "wr": 55.56
+    },
+    "LAST2_38|CALL|4": {
+        "last2": "38",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 10,
+        "loss": 8,
+        "samples": 18,
+        "wr": 55.56
+    },
+    "LAST2_17|CALL|3": {
+        "last2": "17",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 10,
+        "loss": 8,
+        "samples": 18,
+        "wr": 55.56
+    },
+    "LAST2_17|CALL|4": {
+        "last2": "17",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 10,
+        "loss": 8,
+        "samples": 18,
+        "wr": 55.56
+    },
+    "LAST2_17|PUT|1": {
+        "last2": "17",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 10,
+        "loss": 8,
+        "samples": 18,
+        "wr": 55.56
+    },
+    "LAST2_28|CALL|4": {
+        "last2": "28",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 15,
+        "loss": 12,
+        "samples": 27,
+        "wr": 55.56
+    },
+    "LAST2_33|PUT|2": {
+        "last2": "33",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 15,
+        "loss": 12,
+        "samples": 27,
+        "wr": 55.56
+    },
+    "LAST2_92|PUT|5": {
+        "last2": "92",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 10,
+        "loss": 8,
+        "samples": 18,
+        "wr": 55.56
+    },
+    "LAST2_65|CALL|3": {
+        "last2": "65",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 21,
+        "loss": 17,
+        "samples": 38,
+        "wr": 55.26
+    },
+    "LAST2_65|PUT|4": {
+        "last2": "65",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 21,
+        "loss": 17,
+        "samples": 38,
+        "wr": 55.26
+    },
+    "LAST2_65|PUT|5": {
+        "last2": "65",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 21,
+        "loss": 17,
+        "samples": 38,
+        "wr": 55.26
+    },
+    "LAST2_85|PUT|3": {
+        "last2": "85",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 16,
+        "loss": 13,
+        "samples": 29,
+        "wr": 55.17
+    },
+    "LAST2_41|CALL|1": {
+        "last2": "41",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 16,
+        "loss": 13,
+        "samples": 29,
+        "wr": 55.17
+    },
+    "LAST2_41|PUT|2": {
+        "last2": "41",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 16,
+        "loss": 13,
+        "samples": 29,
+        "wr": 55.17
+    },
+    "LAST2_71|CALL|4": {
+        "last2": "71",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 16,
+        "loss": 13,
+        "samples": 29,
+        "wr": 55.17
+    },
+    "LAST2_71|PUT|3": {
+        "last2": "71",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 16,
+        "loss": 13,
+        "samples": 29,
+        "wr": 55.17
+    },
+    "LAST2_46|PUT|3": {
+        "last2": "46",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 16,
+        "loss": 13,
+        "samples": 29,
+        "wr": 55.17
+    },
+    "LAST2_46|PUT|5": {
+        "last2": "46",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 16,
+        "loss": 13,
+        "samples": 29,
+        "wr": 55.17
+    },
+    "LAST2_91|PUT|4": {
+        "last2": "91",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 11,
+        "loss": 9,
+        "samples": 20,
+        "wr": 55
+    },
+    "LAST2_68|CALL|4": {
+        "last2": "68",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 11,
+        "loss": 9,
+        "samples": 20,
+        "wr": 55
+    },
+    "LAST2_68|PUT|2": {
+        "last2": "68",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 11,
+        "loss": 9,
+        "samples": 20,
+        "wr": 55
+    },
+    "LAST2_14|PUT|1": {
+        "last2": "14",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 11,
+        "loss": 9,
+        "samples": 20,
+        "wr": 55
+    },
+    "LAST2_14|PUT|4": {
+        "last2": "14",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 11,
+        "loss": 9,
+        "samples": 20,
+        "wr": 55
+    },
+    "LAST2_74|PUT|2": {
+        "last2": "74",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 11,
+        "loss": 9,
+        "samples": 20,
+        "wr": 55
+    },
+    "LAST2_51|CALL|1": {
+        "last2": "51",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 17,
+        "loss": 14,
+        "samples": 31,
+        "wr": 54.84
+    },
+    "LAST2_51|CALL|3": {
+        "last2": "51",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 17,
+        "loss": 14,
+        "samples": 31,
+        "wr": 54.84
+    },
+    "LAST2_56|PUT|4": {
+        "last2": "56",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 12,
+        "loss": 10,
+        "samples": 22,
+        "wr": 54.55
+    },
+    "LAST2_56|PUT|5": {
+        "last2": "56",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 12,
+        "loss": 10,
+        "samples": 22,
+        "wr": 54.55
+    },
+    "LAST2_15|CALL|2": {
+        "last2": "15",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 12,
+        "loss": 10,
+        "samples": 22,
+        "wr": 54.55
+    },
+    "LAST2_15|PUT|1": {
+        "last2": "15",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 12,
+        "loss": 10,
+        "samples": 22,
+        "wr": 54.55
+    },
+    "LAST2_43|CALL|4": {
+        "last2": "43",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 12,
+        "loss": 10,
+        "samples": 22,
+        "wr": 54.55
+    },
+    "LAST2_43|PUT|1": {
+        "last2": "43",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 12,
+        "loss": 10,
+        "samples": 22,
+        "wr": 54.55
+    },
+    "LAST2_11|PUT|1": {
+        "last2": "11",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 12,
+        "loss": 10,
+        "samples": 22,
+        "wr": 54.55
+    },
+    "LAST2_11|PUT|3": {
+        "last2": "11",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 12,
+        "loss": 10,
+        "samples": 22,
+        "wr": 54.55
+    },
+    "LAST2_59|CALL|2": {
+        "last2": "59",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 12,
+        "loss": 10,
+        "samples": 22,
+        "wr": 54.55
+    },
+    "LAST2_59|PUT|4": {
+        "last2": "59",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 12,
+        "loss": 10,
+        "samples": 22,
+        "wr": 54.55
+    },
+    "LAST2_97|CALL|4": {
+        "last2": "97",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 12,
+        "loss": 10,
+        "samples": 22,
+        "wr": 54.55
+    },
+    "LAST2_57|PUT|4": {
+        "last2": "57",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 13,
+        "loss": 11,
+        "samples": 24,
+        "wr": 54.17
+    },
+    "LAST2_99|PUT|2": {
+        "last2": "99",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 13,
+        "loss": 11,
+        "samples": 24,
+        "wr": 54.17
+    },
+    "LAST2_99|PUT|3": {
+        "last2": "99",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 13,
+        "loss": 11,
+        "samples": 24,
+        "wr": 54.17
+    },
+    "LAST2_61|CALL|1": {
+        "last2": "61",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 13,
+        "loss": 11,
+        "samples": 24,
+        "wr": 54.17
+    },
+    "LAST2_61|CALL|2": {
+        "last2": "61",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 13,
+        "loss": 11,
+        "samples": 24,
+        "wr": 54.17
+    },
+    "LAST2_61|CALL|3": {
+        "last2": "61",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 13,
+        "loss": 11,
+        "samples": 24,
+        "wr": 54.17
+    },
+    "LAST2_61|PUT|4": {
+        "last2": "61",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 13,
+        "loss": 11,
+        "samples": 24,
+        "wr": 54.17
+    },
+    "LAST2_98|CALL|5": {
+        "last2": "98",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 13,
+        "loss": 11,
+        "samples": 24,
+        "wr": 54.17
+    },
+    "LAST2_98|PUT|2": {
+        "last2": "98",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 13,
+        "loss": 11,
+        "samples": 24,
+        "wr": 54.17
+    },
+    "LAST2_83|PUT|3": {
+        "last2": "83",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 13,
+        "loss": 11,
+        "samples": 24,
+        "wr": 54.17
+    },
+    "LAST2_29|PUT|1": {
+        "last2": "29",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 13,
+        "loss": 11,
+        "samples": 24,
+        "wr": 54.17
+    },
+    "LAST2_29|PUT|4": {
+        "last2": "29",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 13,
+        "loss": 11,
+        "samples": 24,
+        "wr": 54.17
+    },
+    "LAST2_79|PUT|5": {
+        "last2": "79",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 14,
+        "loss": 12,
+        "samples": 26,
+        "wr": 53.85
+    },
+    "LAST2_37|CALL|2": {
+        "last2": "37",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 7,
+        "loss": 6,
+        "samples": 13,
+        "wr": 53.85
+    },
+    "LAST2_37|CALL|3": {
+        "last2": "37",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 7,
+        "loss": 6,
+        "samples": 13,
+        "wr": 53.85
+    },
+    "LAST2_37|CALL|4": {
+        "last2": "37",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 7,
+        "loss": 6,
+        "samples": 13,
+        "wr": 53.85
+    },
+    "LAST2_37|CALL|5": {
+        "last2": "37",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 7,
+        "loss": 6,
+        "samples": 13,
+        "wr": 53.85
+    },
+    "LAST2_26|CALL|4": {
+        "last2": "26",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 14,
+        "loss": 12,
+        "samples": 26,
+        "wr": 53.85
+    },
+    "LAST2_26|PUT|5": {
+        "last2": "26",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 14,
+        "loss": 12,
+        "samples": 26,
+        "wr": 53.85
+    },
+    "LAST2_55|CALL|2": {
+        "last2": "55",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 14,
+        "loss": 12,
+        "samples": 26,
+        "wr": 53.85
+    },
+    "LAST2_55|PUT|4": {
+        "last2": "55",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 14,
+        "loss": 12,
+        "samples": 26,
+        "wr": 53.85
+    },
+    "LAST2_55|PUT|5": {
+        "last2": "55",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 14,
+        "loss": 12,
+        "samples": 26,
+        "wr": 53.85
+    },
+    "LAST2_25|CALL|3": {
+        "last2": "25",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 15,
+        "loss": 13,
+        "samples": 28,
+        "wr": 53.57
+    },
+    "LAST2_25|PUT|5": {
+        "last2": "25",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 15,
+        "loss": 13,
+        "samples": 28,
+        "wr": 53.57
+    },
+    "LAST2_88|CALL|4": {
+        "last2": "88",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 15,
+        "loss": 13,
+        "samples": 28,
+        "wr": 53.57
+    },
+    "LAST2_88|CALL|5": {
+        "last2": "88",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 15,
+        "loss": 13,
+        "samples": 28,
+        "wr": 53.57
+    },
+    "LAST2_88|PUT|1": {
+        "last2": "88",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 15,
+        "loss": 13,
+        "samples": 28,
+        "wr": 53.57
+    },
+    "LAST2_24|CALL|2": {
+        "last2": "24",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 15,
+        "loss": 13,
+        "samples": 28,
+        "wr": 53.57
+    },
+    "LAST2_24|CALL|3": {
+        "last2": "24",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 15,
+        "loss": 13,
+        "samples": 28,
+        "wr": 53.57
+    },
+    "LAST2_95|PUT|5": {
+        "last2": "95",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 16,
+        "loss": 14,
+        "samples": 30,
+        "wr": 53.33
+    },
+    "LAST2_08|PUT|2": {
+        "last2": "08",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 16,
+        "loss": 14,
+        "samples": 30,
+        "wr": 53.33
+    },
+    "LAST2_08|PUT|4": {
+        "last2": "08",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 16,
+        "loss": 14,
+        "samples": 30,
+        "wr": 53.33
+    },
+    "LAST2_05|CALL|1": {
+        "last2": "05",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 17,
+        "loss": 15,
+        "samples": 32,
+        "wr": 53.13
+    },
+    "LAST2_05|CALL|3": {
+        "last2": "05",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 17,
+        "loss": 15,
+        "samples": 32,
+        "wr": 53.13
+    },
+    "LAST2_27|CALL|4": {
+        "last2": "27",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 9,
+        "loss": 8,
+        "samples": 17,
+        "wr": 52.94
+    },
+    "LAST2_27|CALL|5": {
+        "last2": "27",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 9,
+        "loss": 8,
+        "samples": 17,
+        "wr": 52.94
+    },
+    "LAST2_93|PUT|1": {
+        "last2": "93",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 9,
+        "loss": 8,
+        "samples": 17,
+        "wr": 52.94
+    },
+    "LAST2_93|PUT|2": {
+        "last2": "93",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 9,
+        "loss": 8,
+        "samples": 17,
+        "wr": 52.94
+    },
+    "LAST2_48|PUT|4": {
+        "last2": "48",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 9,
+        "loss": 8,
+        "samples": 17,
+        "wr": 52.94
+    },
+    "LAST2_19|CALL|2": {
+        "last2": "19",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 9,
+        "loss": 8,
+        "samples": 17,
+        "wr": 52.94
+    },
+    "LAST2_19|PUT|1": {
+        "last2": "19",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 9,
+        "loss": 8,
+        "samples": 17,
+        "wr": 52.94
+    },
+    "LAST2_66|CALL|1": {
+        "last2": "66",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 9,
+        "loss": 8,
+        "samples": 17,
+        "wr": 52.94
+    },
+    "LAST2_66|CALL|2": {
+        "last2": "66",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 9,
+        "loss": 8,
+        "samples": 17,
+        "wr": 52.94
+    },
+    "LAST2_66|CALL|4": {
+        "last2": "66",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 9,
+        "loss": 8,
+        "samples": 17,
+        "wr": 52.94
+    },
+    "LAST2_44|CALL|5": {
+        "last2": "44",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 9,
+        "loss": 8,
+        "samples": 17,
+        "wr": 52.94
+    },
+    "LAST2_62|PUT|3": {
+        "last2": "62",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 10,
+        "loss": 9,
+        "samples": 19,
+        "wr": 52.63
+    },
+    "LAST2_62|PUT|5": {
+        "last2": "62",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 10,
+        "loss": 9,
+        "samples": 19,
+        "wr": 52.63
+    },
+    "LAST2_86|CALL|2": {
+        "last2": "86",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 10,
+        "loss": 9,
+        "samples": 19,
+        "wr": 52.63
+    },
+    "LAST2_86|CALL|3": {
+        "last2": "86",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 10,
+        "loss": 9,
+        "samples": 19,
+        "wr": 52.63
+    },
+    "LAST2_86|CALL|5": {
+        "last2": "86",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 10,
+        "loss": 9,
+        "samples": 19,
+        "wr": 52.63
+    },
+    "LAST2_06|CALL|1": {
+        "last2": "06",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 10,
+        "loss": 9,
+        "samples": 19,
+        "wr": 52.63
+    },
+    "LAST2_32|CALL|1": {
+        "last2": "32",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 10,
+        "loss": 9,
+        "samples": 19,
+        "wr": 52.63
+    },
+    "LAST2_64|CALL|2": {
+        "last2": "64",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 11,
+        "loss": 10,
+        "samples": 21,
+        "wr": 52.38
+    },
+    "LAST2_64|PUT|5": {
+        "last2": "64",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 11,
+        "loss": 10,
+        "samples": 21,
+        "wr": 52.38
+    },
+    "LAST2_35|CALL|4": {
+        "last2": "35",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 11,
+        "loss": 10,
+        "samples": 21,
+        "wr": 52.38
+    },
+    "LAST2_35|PUT|3": {
+        "last2": "35",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 11,
+        "loss": 10,
+        "samples": 21,
+        "wr": 52.38
+    },
+    "LAST2_35|PUT|5": {
+        "last2": "35",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 11,
+        "loss": 10,
+        "samples": 21,
+        "wr": 52.38
+    },
+    "LAST2_39|PUT|1": {
+        "last2": "39",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 11,
+        "loss": 10,
+        "samples": 21,
+        "wr": 52.38
+    },
+    "LAST2_39|PUT|2": {
+        "last2": "39",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 11,
+        "loss": 10,
+        "samples": 21,
+        "wr": 52.38
+    },
+    "LAST2_02|CALL|3": {
+        "last2": "02",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 12,
+        "loss": 11,
+        "samples": 23,
+        "wr": 52.17
+    },
+    "LAST2_49|PUT|2": {
+        "last2": "49",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 12,
+        "loss": 11,
+        "samples": 23,
+        "wr": 52.17
+    },
+    "LAST2_49|PUT|3": {
+        "last2": "49",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 12,
+        "loss": 11,
+        "samples": 23,
+        "wr": 52.17
+    },
+    "LAST2_49|PUT|4": {
+        "last2": "49",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 12,
+        "loss": 11,
+        "samples": 23,
+        "wr": 52.17
+    },
+    "LAST2_47|CALL|1": {
+        "last2": "47",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 12,
+        "loss": 11,
+        "samples": 23,
+        "wr": 52.17
+    },
+    "LAST2_47|CALL|2": {
+        "last2": "47",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 12,
+        "loss": 11,
+        "samples": 23,
+        "wr": 52.17
+    },
+    "LAST2_47|CALL|3": {
+        "last2": "47",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 12,
+        "loss": 11,
+        "samples": 23,
+        "wr": 52.17
+    },
+    "LAST2_47|CALL|4": {
+        "last2": "47",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 12,
+        "loss": 11,
+        "samples": 23,
+        "wr": 52.17
+    },
+    "LAST2_47|PUT|5": {
+        "last2": "47",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 12,
+        "loss": 11,
+        "samples": 23,
+        "wr": 52.17
+    },
+    "LAST2_18|CALL|1": {
+        "last2": "18",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 12,
+        "loss": 11,
+        "samples": 23,
+        "wr": 52.17
+    },
+    "LAST2_18|PUT|3": {
+        "last2": "18",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 12,
+        "loss": 11,
+        "samples": 23,
+        "wr": 52.17
+    },
+    "LAST2_18|PUT|4": {
+        "last2": "18",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 12,
+        "loss": 11,
+        "samples": 23,
+        "wr": 52.17
+    },
+    "LAST2_18|PUT|5": {
+        "last2": "18",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 12,
+        "loss": 11,
+        "samples": 23,
+        "wr": 52.17
+    },
+    "LAST2_36|PUT|1": {
+        "last2": "36",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 12,
+        "loss": 11,
+        "samples": 23,
+        "wr": 52.17
+    },
+    "LAST2_69|PUT|2": {
+        "last2": "69",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 12,
+        "loss": 11,
+        "samples": 23,
+        "wr": 52.17
+    },
+    "LAST2_69|PUT|4": {
+        "last2": "69",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 12,
+        "loss": 11,
+        "samples": 23,
+        "wr": 52.17
+    },
+    "LAST2_01|PUT|5": {
+        "last2": "01",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 12,
+        "loss": 11,
+        "samples": 23,
+        "wr": 52.17
+    },
+    "LAST2_75|CALL|4": {
+        "last2": "75",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 13,
+        "loss": 12,
+        "samples": 25,
+        "wr": 52
+    },
+    "LAST2_82|CALL|2": {
+        "last2": "82",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 13,
+        "loss": 12,
+        "samples": 25,
+        "wr": 52
+    },
+    "LAST2_03|PUT|2": {
+        "last2": "03",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 13,
+        "loss": 12,
+        "samples": 25,
+        "wr": 52
+    },
+    "LAST2_03|PUT|4": {
+        "last2": "03",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 13,
+        "loss": 12,
+        "samples": 25,
+        "wr": 52
+    },
+    "LAST2_73|CALL|1": {
+        "last2": "73",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 13,
+        "loss": 12,
+        "samples": 25,
+        "wr": 52
+    },
+    "LAST2_73|CALL|4": {
+        "last2": "73",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 13,
+        "loss": 12,
+        "samples": 25,
+        "wr": 52
+    },
+    "LAST2_73|CALL|5": {
+        "last2": "73",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 13,
+        "loss": 12,
+        "samples": 25,
+        "wr": 52
+    },
+    "LAST2_67|PUT|4": {
+        "last2": "67",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 13,
+        "loss": 12,
+        "samples": 25,
+        "wr": 52
+    },
+    "LAST2_12|CALL|3": {
+        "last2": "12",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 13,
+        "loss": 12,
+        "samples": 25,
+        "wr": 52
+    },
+    "LAST2_42|PUT|1": {
+        "last2": "42",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 13,
+        "loss": 12,
+        "samples": 25,
+        "wr": 52
+    },
+    "LAST2_42|PUT|3": {
+        "last2": "42",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 13,
+        "loss": 12,
+        "samples": 25,
+        "wr": 52
+    },
+    "LAST2_28|CALL|5": {
+        "last2": "28",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 14,
+        "loss": 13,
+        "samples": 27,
+        "wr": 51.85
+    },
+    "LAST2_28|PUT|1": {
+        "last2": "28",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 14,
+        "loss": 13,
+        "samples": 27,
+        "wr": 51.85
+    },
+    "LAST2_33|PUT|1": {
+        "last2": "33",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 14,
+        "loss": 13,
+        "samples": 27,
+        "wr": 51.85
+    },
+    "LAST2_33|PUT|3": {
+        "last2": "33",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 14,
+        "loss": 13,
+        "samples": 27,
+        "wr": 51.85
+    },
+    "LAST2_33|PUT|5": {
+        "last2": "33",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 14,
+        "loss": 13,
+        "samples": 27,
+        "wr": 51.85
+    },
+    "LAST2_85|CALL|1": {
+        "last2": "85",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 15,
+        "loss": 14,
+        "samples": 29,
+        "wr": 51.72
+    },
+    "LAST2_71|PUT|1": {
+        "last2": "71",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 15,
+        "loss": 14,
+        "samples": 29,
+        "wr": 51.72
+    },
+    "LAST2_46|CALL|1": {
+        "last2": "46",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 15,
+        "loss": 14,
+        "samples": 29,
+        "wr": 51.72
+    },
+    "LAST2_46|CALL|4": {
+        "last2": "46",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 15,
+        "loss": 14,
+        "samples": 29,
+        "wr": 51.72
+    },
+    "LAST2_46|PUT|2": {
+        "last2": "46",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 15,
+        "loss": 14,
+        "samples": 29,
+        "wr": 51.72
+    },
+    "LAST2_58|PUT|1": {
+        "last2": "58",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 16,
+        "loss": 15,
+        "samples": 31,
+        "wr": 51.61
+    },
+    "LAST2_58|PUT|4": {
+        "last2": "58",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 16,
+        "loss": 15,
+        "samples": 31,
+        "wr": 51.61
+    },
+    "LAST2_58|PUT|5": {
+        "last2": "58",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 16,
+        "loss": 15,
+        "samples": 31,
+        "wr": 51.61
+    },
+    "LAST2_51|PUT|2": {
+        "last2": "51",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 16,
+        "loss": 15,
+        "samples": 31,
+        "wr": 51.61
+    },
+    "LAST2_23|PUT|1": {
+        "last2": "23",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 16,
+        "loss": 15,
+        "samples": 31,
+        "wr": 51.61
+    },
+    "LAST2_23|PUT|5": {
+        "last2": "23",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 16,
+        "loss": 15,
+        "samples": 31,
+        "wr": 51.61
+    },
+    "LAST2_25|CALL|2": {
+        "last2": "25",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 14,
+        "loss": 14,
+        "samples": 28,
+        "wr": 50
+    },
+    "LAST2_25|CALL|4": {
+        "last2": "25",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 14,
+        "loss": 14,
+        "samples": 28,
+        "wr": 50
+    },
+    "LAST2_25|PUT|2": {
+        "last2": "25",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 14,
+        "loss": 14,
+        "samples": 28,
+        "wr": 50
+    },
+    "LAST2_25|PUT|4": {
+        "last2": "25",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 14,
+        "loss": 14,
+        "samples": 28,
+        "wr": 50
+    },
+    "LAST2_79|CALL|4": {
+        "last2": "79",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 13,
+        "loss": 13,
+        "samples": 26,
+        "wr": 50
+    },
+    "LAST2_79|PUT|4": {
+        "last2": "79",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 13,
+        "loss": 13,
+        "samples": 26,
+        "wr": 50
+    },
+    "LAST2_57|CALL|5": {
+        "last2": "57",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 12,
+        "loss": 12,
+        "samples": 24,
+        "wr": 50
+    },
+    "LAST2_57|PUT|5": {
+        "last2": "57",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 12,
+        "loss": 12,
+        "samples": 24,
+        "wr": 50
+    },
+    "LAST2_65|CALL|1": {
+        "last2": "65",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 19,
+        "loss": 19,
+        "samples": 38,
+        "wr": 50
+    },
+    "LAST2_65|CALL|2": {
+        "last2": "65",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 19,
+        "loss": 19,
+        "samples": 38,
+        "wr": 50
+    },
+    "LAST2_65|PUT|1": {
+        "last2": "65",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 19,
+        "loss": 19,
+        "samples": 38,
+        "wr": 50
+    },
+    "LAST2_65|PUT|2": {
+        "last2": "65",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 19,
+        "loss": 19,
+        "samples": 38,
+        "wr": 50
+    },
+    "LAST2_99|PUT|1": {
+        "last2": "99",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 12,
+        "loss": 12,
+        "samples": 24,
+        "wr": 50
+    },
+    "LAST2_94|CALL|2": {
+        "last2": "94",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 10,
+        "loss": 10,
+        "samples": 20,
+        "wr": 50
+    },
+    "LAST2_94|CALL|3": {
+        "last2": "94",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 10,
+        "loss": 10,
+        "samples": 20,
+        "wr": 50
+    },
+    "LAST2_94|PUT|2": {
+        "last2": "94",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 10,
+        "loss": 10,
+        "samples": 20,
+        "wr": 50
+    },
+    "LAST2_94|PUT|3": {
+        "last2": "94",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 10,
+        "loss": 10,
+        "samples": 20,
+        "wr": 50
+    },
+    "LAST2_61|CALL|5": {
+        "last2": "61",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 12,
+        "loss": 12,
+        "samples": 24,
+        "wr": 50
+    },
+    "LAST2_61|PUT|5": {
+        "last2": "61",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 12,
+        "loss": 12,
+        "samples": 24,
+        "wr": 50
+    },
+    "LAST2_15|CALL|3": {
+        "last2": "15",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 11,
+        "loss": 11,
+        "samples": 22,
+        "wr": 50
+    },
+    "LAST2_15|PUT|3": {
+        "last2": "15",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 11,
+        "loss": 11,
+        "samples": 22,
+        "wr": 50
+    },
+    "LAST2_34|CALL|2": {
+        "last2": "34",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 10,
+        "loss": 10,
+        "samples": 20,
+        "wr": 50
+    },
+    "LAST2_34|CALL|3": {
+        "last2": "34",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 10,
+        "loss": 10,
+        "samples": 20,
+        "wr": 50
+    },
+    "LAST2_34|PUT|2": {
+        "last2": "34",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 10,
+        "loss": 10,
+        "samples": 20,
+        "wr": 50
+    },
+    "LAST2_34|PUT|3": {
+        "last2": "34",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 10,
+        "loss": 10,
+        "samples": 20,
+        "wr": 50
+    },
+    "LAST2_98|CALL|3": {
+        "last2": "98",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 12,
+        "loss": 12,
+        "samples": 24,
+        "wr": 50
+    },
+    "LAST2_98|PUT|3": {
+        "last2": "98",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 12,
+        "loss": 12,
+        "samples": 24,
+        "wr": 50
+    },
+    "LAST2_22|CALL|2": {
+        "last2": "22",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 9,
+        "loss": 9,
+        "samples": 18,
+        "wr": 50
+    },
+    "LAST2_22|CALL|3": {
+        "last2": "22",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 9,
+        "loss": 9,
+        "samples": 18,
+        "wr": 50
+    },
+    "LAST2_22|PUT|2": {
+        "last2": "22",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 9,
+        "loss": 9,
+        "samples": 18,
+        "wr": 50
+    },
+    "LAST2_22|PUT|3": {
+        "last2": "22",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 9,
+        "loss": 9,
+        "samples": 18,
+        "wr": 50
+    },
+    "LAST2_43|CALL|3": {
+        "last2": "43",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 11,
+        "loss": 11,
+        "samples": 22,
+        "wr": 50
+    },
+    "LAST2_43|PUT|3": {
+        "last2": "43",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 11,
+        "loss": 11,
+        "samples": 22,
+        "wr": 50
+    },
+    "LAST2_83|CALL|1": {
+        "last2": "83",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 12,
+        "loss": 12,
+        "samples": 24,
+        "wr": 50
+    },
+    "LAST2_83|CALL|2": {
+        "last2": "83",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 12,
+        "loss": 12,
+        "samples": 24,
+        "wr": 50
+    },
+    "LAST2_83|PUT|1": {
+        "last2": "83",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 12,
+        "loss": 12,
+        "samples": 24,
+        "wr": 50
+    },
+    "LAST2_83|PUT|2": {
+        "last2": "83",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 12,
+        "loss": 12,
+        "samples": 24,
+        "wr": 50
+    },
+    "LAST2_87|CALL|3": {
+        "last2": "87",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 8,
+        "loss": 8,
+        "samples": 16,
+        "wr": 50
+    },
+    "LAST2_87|PUT|3": {
+        "last2": "87",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 8,
+        "loss": 8,
+        "samples": 16,
+        "wr": 50
+    },
+    "LAST2_95|CALL|1": {
+        "last2": "95",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 15,
+        "loss": 15,
+        "samples": 30,
+        "wr": 50
+    },
+    "LAST2_95|PUT|1": {
+        "last2": "95",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 15,
+        "loss": 15,
+        "samples": 30,
+        "wr": 50
+    },
+    "LAST2_52|CALL|3": {
+        "last2": "52",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 15,
+        "loss": 15,
+        "samples": 30,
+        "wr": 50
+    },
+    "LAST2_52|CALL|4": {
+        "last2": "52",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 15,
+        "loss": 15,
+        "samples": 30,
+        "wr": 50
+    },
+    "LAST2_52|PUT|3": {
+        "last2": "52",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 15,
+        "loss": 15,
+        "samples": 30,
+        "wr": 50
+    },
+    "LAST2_05|CALL|5": {
+        "last2": "05",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 16,
+        "loss": 16,
+        "samples": 32,
+        "wr": 50
+    },
+    "LAST2_05|PUT|5": {
+        "last2": "05",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 16,
+        "loss": 16,
+        "samples": 32,
+        "wr": 50
+    },
+    "LAST2_21|CALL|5": {
+        "last2": "21",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 8,
+        "loss": 8,
+        "samples": 16,
+        "wr": 50
+    },
+    "LAST2_21|PUT|5": {
+        "last2": "21",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 8,
+        "loss": 8,
+        "samples": 16,
+        "wr": 50
+    },
+    "LAST2_38|CALL|3": {
+        "last2": "38",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 9,
+        "loss": 9,
+        "samples": 18,
+        "wr": 50
+    },
+    "LAST2_38|CALL|5": {
+        "last2": "38",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 9,
+        "loss": 9,
+        "samples": 18,
+        "wr": 50
+    },
+    "LAST2_38|PUT|1": {
+        "last2": "38",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 9,
+        "loss": 9,
+        "samples": 18,
+        "wr": 50
+    },
+    "LAST2_38|PUT|3": {
+        "last2": "38",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 9,
+        "loss": 9,
+        "samples": 18,
+        "wr": 50
+    },
+    "LAST2_38|PUT|5": {
+        "last2": "38",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 9,
+        "loss": 9,
+        "samples": 18,
+        "wr": 50
+    },
+    "LAST2_17|CALL|2": {
+        "last2": "17",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 9,
+        "loss": 9,
+        "samples": 18,
+        "wr": 50
+    },
+    "LAST2_17|CALL|5": {
+        "last2": "17",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 9,
+        "loss": 9,
+        "samples": 18,
+        "wr": 50
+    },
+    "LAST2_17|PUT|2": {
+        "last2": "17",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 9,
+        "loss": 9,
+        "samples": 18,
+        "wr": 50
+    },
+    "LAST2_17|PUT|5": {
+        "last2": "17",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 9,
+        "loss": 9,
+        "samples": 18,
+        "wr": 50
+    },
+    "LAST2_07|CALL|2": {
+        "last2": "07",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 15,
+        "loss": 15,
+        "samples": 30,
+        "wr": 50
+    },
+    "LAST2_07|PUT|2": {
+        "last2": "07",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 15,
+        "loss": 15,
+        "samples": 30,
+        "wr": 50
+    },
+    "LAST2_11|CALL|2": {
+        "last2": "11",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 11,
+        "loss": 11,
+        "samples": 22,
+        "wr": 50
+    },
+    "LAST2_11|PUT|2": {
+        "last2": "11",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 11,
+        "loss": 11,
+        "samples": 22,
+        "wr": 50
+    },
+    "LAST2_59|CALL|3": {
+        "last2": "59",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 11,
+        "loss": 11,
+        "samples": 22,
+        "wr": 50
+    },
+    "LAST2_59|PUT|3": {
+        "last2": "59",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 11,
+        "loss": 11,
+        "samples": 22,
+        "wr": 50
+    },
+    "LAST2_97|CALL|3": {
+        "last2": "97",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 11,
+        "loss": 11,
+        "samples": 22,
+        "wr": 50
+    },
+    "LAST2_97|PUT|3": {
+        "last2": "97",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 11,
+        "loss": 11,
+        "samples": 22,
+        "wr": 50
+    },
+    "LAST2_24|CALL|4": {
+        "last2": "24",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 14,
+        "loss": 14,
+        "samples": 28,
+        "wr": 50
+    },
+    "LAST2_24|PUT|4": {
+        "last2": "24",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 14,
+        "loss": 14,
+        "samples": 28,
+        "wr": 50
+    },
+    "LAST2_29|CALL|2": {
+        "last2": "29",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 12,
+        "loss": 12,
+        "samples": 24,
+        "wr": 50
+    },
+    "LAST2_29|PUT|2": {
+        "last2": "29",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 12,
+        "loss": 12,
+        "samples": 24,
+        "wr": 50
+    },
+    "LAST2_13|CALL|2": {
+        "last2": "13",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 12,
+        "loss": 12,
+        "samples": 24,
+        "wr": 50
+    },
+    "LAST2_13|PUT|2": {
+        "last2": "13",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 12,
+        "loss": 12,
+        "samples": 24,
+        "wr": 50
+    },
+    "LAST2_09|CALL|1": {
+        "last2": "09",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 11,
+        "loss": 11,
+        "samples": 22,
+        "wr": 50
+    },
+    "LAST2_09|CALL|3": {
+        "last2": "09",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 11,
+        "loss": 11,
+        "samples": 22,
+        "wr": 50
+    },
+    "LAST2_09|PUT|3": {
+        "last2": "09",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 11,
+        "loss": 11,
+        "samples": 22,
+        "wr": 50
+    },
+    "LAST2_92|CALL|3": {
+        "last2": "92",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 9,
+        "loss": 9,
+        "samples": 18,
+        "wr": 50
+    },
+    "LAST2_92|CALL|4": {
+        "last2": "92",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 9,
+        "loss": 9,
+        "samples": 18,
+        "wr": 50
+    },
+    "LAST2_92|PUT|3": {
+        "last2": "92",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 9,
+        "loss": 9,
+        "samples": 18,
+        "wr": 50
+    },
+    "LAST2_92|PUT|4": {
+        "last2": "92",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 9,
+        "loss": 9,
+        "samples": 18,
+        "wr": 50
+    },
+    "LAST2_84|CALL|5": {
+        "last2": "84",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 7,
+        "loss": 7,
+        "samples": 14,
+        "wr": 50
+    },
+    "LAST2_84|PUT|5": {
+        "last2": "84",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 7,
+        "loss": 7,
+        "samples": 14,
+        "wr": 50
+    },
+    "LAST2_04|CALL|2": {
+        "last2": "04",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 8,
+        "loss": 8,
+        "samples": 16,
+        "wr": 50
+    },
+    "LAST2_04|CALL|3": {
+        "last2": "04",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 8,
+        "loss": 8,
+        "samples": 16,
+        "wr": 50
+    },
+    "LAST2_04|CALL|4": {
+        "last2": "04",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 8,
+        "loss": 8,
+        "samples": 16,
+        "wr": 50
+    },
+    "LAST2_04|PUT|2": {
+        "last2": "04",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 8,
+        "loss": 8,
+        "samples": 16,
+        "wr": 50
+    },
+    "LAST2_04|PUT|3": {
+        "last2": "04",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 8,
+        "loss": 8,
+        "samples": 16,
+        "wr": 50
+    },
+    "LAST2_04|PUT|4": {
+        "last2": "04",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 8,
+        "loss": 8,
+        "samples": 16,
+        "wr": 50
+    },
+    "LAST2_45|CALL|1": {
+        "last2": "45",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 7,
+        "loss": 7,
+        "samples": 14,
+        "wr": 50
+    },
+    "LAST2_45|CALL|4": {
+        "last2": "45",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 7,
+        "loss": 7,
+        "samples": 14,
+        "wr": 50
+    },
+    "LAST2_45|PUT|1": {
+        "last2": "45",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 7,
+        "loss": 7,
+        "samples": 14,
+        "wr": 50
+    },
+    "LAST2_45|PUT|4": {
+        "last2": "45",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 7,
+        "loss": 7,
+        "samples": 14,
+        "wr": 50
+    },
+    "LAST2_58|CALL|1": {
+        "last2": "58",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 15,
+        "loss": 16,
+        "samples": 31,
+        "wr": 48.39
+    },
+    "LAST2_58|CALL|4": {
+        "last2": "58",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 15,
+        "loss": 16,
+        "samples": 31,
+        "wr": 48.39
+    },
+    "LAST2_58|CALL|5": {
+        "last2": "58",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 15,
+        "loss": 16,
+        "samples": 31,
+        "wr": 48.39
+    },
+    "LAST2_23|CALL|1": {
+        "last2": "23",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 15,
+        "loss": 16,
+        "samples": 31,
+        "wr": 48.39
+    },
+    "LAST2_23|CALL|5": {
+        "last2": "23",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 15,
+        "loss": 16,
+        "samples": 31,
+        "wr": 48.39
+    },
+    "LAST2_85|PUT|1": {
+        "last2": "85",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 14,
+        "loss": 15,
+        "samples": 29,
+        "wr": 48.28
+    },
+    "LAST2_71|CALL|1": {
+        "last2": "71",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 14,
+        "loss": 15,
+        "samples": 29,
+        "wr": 48.28
+    },
+    "LAST2_46|CALL|2": {
+        "last2": "46",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 14,
+        "loss": 15,
+        "samples": 29,
+        "wr": 48.28
+    },
+    "LAST2_46|PUT|4": {
+        "last2": "46",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 14,
+        "loss": 15,
+        "samples": 29,
+        "wr": 48.28
+    },
+    "LAST2_28|CALL|1": {
+        "last2": "28",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 13,
+        "loss": 14,
+        "samples": 27,
+        "wr": 48.15
+    },
+    "LAST2_28|PUT|5": {
+        "last2": "28",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 13,
+        "loss": 14,
+        "samples": 27,
+        "wr": 48.15
+    },
+    "LAST2_33|CALL|1": {
+        "last2": "33",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 13,
+        "loss": 14,
+        "samples": 27,
+        "wr": 48.15
+    },
+    "LAST2_33|CALL|3": {
+        "last2": "33",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 13,
+        "loss": 14,
+        "samples": 27,
+        "wr": 48.15
+    },
+    "LAST2_75|PUT|4": {
+        "last2": "75",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 12,
+        "loss": 13,
+        "samples": 25,
+        "wr": 48
+    },
+    "LAST2_82|PUT|2": {
+        "last2": "82",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 12,
+        "loss": 13,
+        "samples": 25,
+        "wr": 48
+    },
+    "LAST2_03|CALL|4": {
+        "last2": "03",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 12,
+        "loss": 13,
+        "samples": 25,
+        "wr": 48
+    },
+    "LAST2_73|PUT|1": {
+        "last2": "73",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 12,
+        "loss": 13,
+        "samples": 25,
+        "wr": 48
+    },
+    "LAST2_73|PUT|4": {
+        "last2": "73",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 12,
+        "loss": 13,
+        "samples": 25,
+        "wr": 48
+    },
+    "LAST2_73|PUT|5": {
+        "last2": "73",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 12,
+        "loss": 13,
+        "samples": 25,
+        "wr": 48
+    },
+    "LAST2_67|CALL|1": {
+        "last2": "67",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 12,
+        "loss": 13,
+        "samples": 25,
+        "wr": 48
+    },
+    "LAST2_67|CALL|4": {
+        "last2": "67",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 12,
+        "loss": 13,
+        "samples": 25,
+        "wr": 48
+    },
+    "LAST2_67|PUT|1": {
+        "last2": "67",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 12,
+        "loss": 13,
+        "samples": 25,
+        "wr": 48
+    },
+    "LAST2_12|PUT|3": {
+        "last2": "12",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 12,
+        "loss": 13,
+        "samples": 25,
+        "wr": 48
+    },
+    "LAST2_42|CALL|1": {
+        "last2": "42",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 12,
+        "loss": 13,
+        "samples": 25,
+        "wr": 48
+    },
+    "LAST2_42|CALL|3": {
+        "last2": "42",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 12,
+        "loss": 13,
+        "samples": 25,
+        "wr": 48
+    },
+    "LAST2_02|PUT|3": {
+        "last2": "02",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 11,
+        "loss": 12,
+        "samples": 23,
+        "wr": 47.83
+    },
+    "LAST2_49|CALL|2": {
+        "last2": "49",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 11,
+        "loss": 12,
+        "samples": 23,
+        "wr": 47.83
+    },
+    "LAST2_49|CALL|4": {
+        "last2": "49",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 11,
+        "loss": 12,
+        "samples": 23,
+        "wr": 47.83
+    },
+    "LAST2_47|CALL|5": {
+        "last2": "47",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 11,
+        "loss": 12,
+        "samples": 23,
+        "wr": 47.83
+    },
+    "LAST2_47|PUT|1": {
+        "last2": "47",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 11,
+        "loss": 12,
+        "samples": 23,
+        "wr": 47.83
+    },
+    "LAST2_47|PUT|2": {
+        "last2": "47",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 11,
+        "loss": 12,
+        "samples": 23,
+        "wr": 47.83
+    },
+    "LAST2_47|PUT|3": {
+        "last2": "47",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 11,
+        "loss": 12,
+        "samples": 23,
+        "wr": 47.83
+    },
+    "LAST2_47|PUT|4": {
+        "last2": "47",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 11,
+        "loss": 12,
+        "samples": 23,
+        "wr": 47.83
+    },
+    "LAST2_18|CALL|3": {
+        "last2": "18",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 11,
+        "loss": 12,
+        "samples": 23,
+        "wr": 47.83
+    },
+    "LAST2_18|CALL|4": {
+        "last2": "18",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 11,
+        "loss": 12,
+        "samples": 23,
+        "wr": 47.83
+    },
+    "LAST2_18|CALL|5": {
+        "last2": "18",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 11,
+        "loss": 12,
+        "samples": 23,
+        "wr": 47.83
+    },
+    "LAST2_18|PUT|1": {
+        "last2": "18",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 11,
+        "loss": 12,
+        "samples": 23,
+        "wr": 47.83
+    },
+    "LAST2_36|CALL|1": {
+        "last2": "36",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 11,
+        "loss": 12,
+        "samples": 23,
+        "wr": 47.83
+    },
+    "LAST2_36|CALL|2": {
+        "last2": "36",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 11,
+        "loss": 12,
+        "samples": 23,
+        "wr": 47.83
+    },
+    "LAST2_36|PUT|2": {
+        "last2": "36",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 11,
+        "loss": 12,
+        "samples": 23,
+        "wr": 47.83
+    },
+    "LAST2_69|CALL|2": {
+        "last2": "69",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 11,
+        "loss": 12,
+        "samples": 23,
+        "wr": 47.83
+    },
+    "LAST2_69|CALL|4": {
+        "last2": "69",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 11,
+        "loss": 12,
+        "samples": 23,
+        "wr": 47.83
+    },
+    "LAST2_01|CALL|5": {
+        "last2": "01",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 11,
+        "loss": 12,
+        "samples": 23,
+        "wr": 47.83
+    },
+    "LAST2_64|CALL|5": {
+        "last2": "64",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 10,
+        "loss": 11,
+        "samples": 21,
+        "wr": 47.62
+    },
+    "LAST2_64|PUT|2": {
+        "last2": "64",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 10,
+        "loss": 11,
+        "samples": 21,
+        "wr": 47.62
+    },
+    "LAST2_35|CALL|3": {
+        "last2": "35",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 10,
+        "loss": 11,
+        "samples": 21,
+        "wr": 47.62
+    },
+    "LAST2_35|CALL|5": {
+        "last2": "35",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 10,
+        "loss": 11,
+        "samples": 21,
+        "wr": 47.62
+    },
+    "LAST2_35|PUT|4": {
+        "last2": "35",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 10,
+        "loss": 11,
+        "samples": 21,
+        "wr": 47.62
+    },
+    "LAST2_39|CALL|1": {
+        "last2": "39",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 10,
+        "loss": 11,
+        "samples": 21,
+        "wr": 47.62
+    },
+    "LAST2_62|CALL|3": {
+        "last2": "62",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 9,
+        "loss": 10,
+        "samples": 19,
+        "wr": 47.37
+    },
+    "LAST2_62|CALL|5": {
+        "last2": "62",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 9,
+        "loss": 10,
+        "samples": 19,
+        "wr": 47.37
+    },
+    "LAST2_86|PUT|2": {
+        "last2": "86",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 9,
+        "loss": 10,
+        "samples": 19,
+        "wr": 47.37
+    },
+    "LAST2_86|PUT|3": {
+        "last2": "86",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 9,
+        "loss": 10,
+        "samples": 19,
+        "wr": 47.37
+    },
+    "LAST2_86|PUT|5": {
+        "last2": "86",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 9,
+        "loss": 10,
+        "samples": 19,
+        "wr": 47.37
+    },
+    "LAST2_06|PUT|1": {
+        "last2": "06",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 9,
+        "loss": 10,
+        "samples": 19,
+        "wr": 47.37
+    },
+    "LAST2_32|PUT|1": {
+        "last2": "32",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 9,
+        "loss": 10,
+        "samples": 19,
+        "wr": 47.37
+    },
+    "LAST2_27|PUT|4": {
+        "last2": "27",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 8,
+        "loss": 9,
+        "samples": 17,
+        "wr": 47.06
+    },
+    "LAST2_27|PUT|5": {
+        "last2": "27",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 8,
+        "loss": 9,
+        "samples": 17,
+        "wr": 47.06
+    },
+    "LAST2_93|CALL|1": {
+        "last2": "93",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 8,
+        "loss": 9,
+        "samples": 17,
+        "wr": 47.06
+    },
+    "LAST2_93|CALL|2": {
+        "last2": "93",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 8,
+        "loss": 9,
+        "samples": 17,
+        "wr": 47.06
+    },
+    "LAST2_48|CALL|4": {
+        "last2": "48",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 8,
+        "loss": 9,
+        "samples": 17,
+        "wr": 47.06
+    },
+    "LAST2_19|CALL|1": {
+        "last2": "19",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 8,
+        "loss": 9,
+        "samples": 17,
+        "wr": 47.06
+    },
+    "LAST2_19|PUT|2": {
+        "last2": "19",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 8,
+        "loss": 9,
+        "samples": 17,
+        "wr": 47.06
+    },
+    "LAST2_66|PUT|1": {
+        "last2": "66",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 8,
+        "loss": 9,
+        "samples": 17,
+        "wr": 47.06
+    },
+    "LAST2_66|PUT|2": {
+        "last2": "66",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 8,
+        "loss": 9,
+        "samples": 17,
+        "wr": 47.06
+    },
+    "LAST2_66|PUT|4": {
+        "last2": "66",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 8,
+        "loss": 9,
+        "samples": 17,
+        "wr": 47.06
+    },
+    "LAST2_44|PUT|5": {
+        "last2": "44",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 8,
+        "loss": 9,
+        "samples": 17,
+        "wr": 47.06
+    },
+    "LAST2_05|PUT|1": {
+        "last2": "05",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 15,
+        "loss": 17,
+        "samples": 32,
+        "wr": 46.88
+    },
+    "LAST2_05|PUT|3": {
+        "last2": "05",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 15,
+        "loss": 17,
+        "samples": 32,
+        "wr": 46.88
+    },
+    "LAST2_95|CALL|5": {
+        "last2": "95",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 14,
+        "loss": 16,
+        "samples": 30,
+        "wr": 46.67
+    },
+    "LAST2_52|PUT|4": {
+        "last2": "52",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 14,
+        "loss": 16,
+        "samples": 30,
+        "wr": 46.67
+    },
+    "LAST2_08|CALL|2": {
+        "last2": "08",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 14,
+        "loss": 16,
+        "samples": 30,
+        "wr": 46.67
+    },
+    "LAST2_08|CALL|4": {
+        "last2": "08",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 14,
+        "loss": 16,
+        "samples": 30,
+        "wr": 46.67
+    },
+    "LAST2_25|CALL|5": {
+        "last2": "25",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 13,
+        "loss": 15,
+        "samples": 28,
+        "wr": 46.43
+    },
+    "LAST2_25|PUT|3": {
+        "last2": "25",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 13,
+        "loss": 15,
+        "samples": 28,
+        "wr": 46.43
+    },
+    "LAST2_88|CALL|1": {
+        "last2": "88",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 13,
+        "loss": 15,
+        "samples": 28,
+        "wr": 46.43
+    },
+    "LAST2_88|PUT|4": {
+        "last2": "88",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 13,
+        "loss": 15,
+        "samples": 28,
+        "wr": 46.43
+    },
+    "LAST2_88|PUT|5": {
+        "last2": "88",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 13,
+        "loss": 15,
+        "samples": 28,
+        "wr": 46.43
+    },
+    "LAST2_24|PUT|2": {
+        "last2": "24",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 13,
+        "loss": 15,
+        "samples": 28,
+        "wr": 46.43
+    },
+    "LAST2_24|PUT|3": {
+        "last2": "24",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 13,
+        "loss": 15,
+        "samples": 28,
+        "wr": 46.43
+    },
+    "LAST2_79|CALL|5": {
+        "last2": "79",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 12,
+        "loss": 14,
+        "samples": 26,
+        "wr": 46.15
+    },
+    "LAST2_37|PUT|2": {
+        "last2": "37",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 6,
+        "loss": 7,
+        "samples": 13,
+        "wr": 46.15
+    },
+    "LAST2_37|PUT|3": {
+        "last2": "37",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 6,
+        "loss": 7,
+        "samples": 13,
+        "wr": 46.15
+    },
+    "LAST2_37|PUT|4": {
+        "last2": "37",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 6,
+        "loss": 7,
+        "samples": 13,
+        "wr": 46.15
+    },
+    "LAST2_37|PUT|5": {
+        "last2": "37",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 6,
+        "loss": 7,
+        "samples": 13,
+        "wr": 46.15
+    },
+    "LAST2_26|CALL|5": {
+        "last2": "26",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 12,
+        "loss": 14,
+        "samples": 26,
+        "wr": 46.15
+    },
+    "LAST2_26|PUT|4": {
+        "last2": "26",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 12,
+        "loss": 14,
+        "samples": 26,
+        "wr": 46.15
+    },
+    "LAST2_55|CALL|4": {
+        "last2": "55",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 12,
+        "loss": 14,
+        "samples": 26,
+        "wr": 46.15
+    },
+    "LAST2_55|CALL|5": {
+        "last2": "55",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 12,
+        "loss": 14,
+        "samples": 26,
+        "wr": 46.15
+    },
+    "LAST2_55|PUT|2": {
+        "last2": "55",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 12,
+        "loss": 14,
+        "samples": 26,
+        "wr": 46.15
+    },
+    "LAST2_57|CALL|4": {
+        "last2": "57",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 11,
+        "loss": 13,
+        "samples": 24,
+        "wr": 45.83
+    },
+    "LAST2_99|CALL|1": {
+        "last2": "99",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 11,
+        "loss": 13,
+        "samples": 24,
+        "wr": 45.83
+    },
+    "LAST2_99|CALL|2": {
+        "last2": "99",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 11,
+        "loss": 13,
+        "samples": 24,
+        "wr": 45.83
+    },
+    "LAST2_99|CALL|3": {
+        "last2": "99",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 11,
+        "loss": 13,
+        "samples": 24,
+        "wr": 45.83
+    },
+    "LAST2_61|CALL|4": {
+        "last2": "61",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 11,
+        "loss": 13,
+        "samples": 24,
+        "wr": 45.83
+    },
+    "LAST2_61|PUT|1": {
+        "last2": "61",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 11,
+        "loss": 13,
+        "samples": 24,
+        "wr": 45.83
+    },
+    "LAST2_61|PUT|2": {
+        "last2": "61",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 11,
+        "loss": 13,
+        "samples": 24,
+        "wr": 45.83
+    },
+    "LAST2_61|PUT|3": {
+        "last2": "61",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 11,
+        "loss": 13,
+        "samples": 24,
+        "wr": 45.83
+    },
+    "LAST2_98|CALL|2": {
+        "last2": "98",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 11,
+        "loss": 13,
+        "samples": 24,
+        "wr": 45.83
+    },
+    "LAST2_98|PUT|5": {
+        "last2": "98",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 11,
+        "loss": 13,
+        "samples": 24,
+        "wr": 45.83
+    },
+    "LAST2_83|CALL|3": {
+        "last2": "83",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 11,
+        "loss": 13,
+        "samples": 24,
+        "wr": 45.83
+    },
+    "LAST2_29|CALL|1": {
+        "last2": "29",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 11,
+        "loss": 13,
+        "samples": 24,
+        "wr": 45.83
+    },
+    "LAST2_29|CALL|4": {
+        "last2": "29",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 11,
+        "loss": 13,
+        "samples": 24,
+        "wr": 45.83
+    },
+    "LAST2_56|CALL|4": {
+        "last2": "56",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 10,
+        "loss": 12,
+        "samples": 22,
+        "wr": 45.45
+    },
+    "LAST2_56|CALL|5": {
+        "last2": "56",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 10,
+        "loss": 12,
+        "samples": 22,
+        "wr": 45.45
+    },
+    "LAST2_15|CALL|1": {
+        "last2": "15",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 10,
+        "loss": 12,
+        "samples": 22,
+        "wr": 45.45
+    },
+    "LAST2_15|PUT|2": {
+        "last2": "15",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 10,
+        "loss": 12,
+        "samples": 22,
+        "wr": 45.45
+    },
+    "LAST2_43|CALL|1": {
+        "last2": "43",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 10,
+        "loss": 12,
+        "samples": 22,
+        "wr": 45.45
+    },
+    "LAST2_43|PUT|4": {
+        "last2": "43",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 10,
+        "loss": 12,
+        "samples": 22,
+        "wr": 45.45
+    },
+    "LAST2_11|CALL|3": {
+        "last2": "11",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 10,
+        "loss": 12,
+        "samples": 22,
+        "wr": 45.45
+    },
+    "LAST2_59|CALL|4": {
+        "last2": "59",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 10,
+        "loss": 12,
+        "samples": 22,
+        "wr": 45.45
+    },
+    "LAST2_59|PUT|2": {
+        "last2": "59",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 10,
+        "loss": 12,
+        "samples": 22,
+        "wr": 45.45
+    },
+    "LAST2_97|PUT|4": {
+        "last2": "97",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 10,
+        "loss": 12,
+        "samples": 22,
+        "wr": 45.45
+    },
+    "LAST2_09|PUT|1": {
+        "last2": "09",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 10,
+        "loss": 12,
+        "samples": 22,
+        "wr": 45.45
+    },
+    "LAST2_51|CALL|2": {
+        "last2": "51",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 14,
+        "loss": 17,
+        "samples": 31,
+        "wr": 45.16
+    },
+    "LAST2_51|PUT|1": {
+        "last2": "51",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 14,
+        "loss": 17,
+        "samples": 31,
+        "wr": 45.16
+    },
+    "LAST2_51|PUT|3": {
+        "last2": "51",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 14,
+        "loss": 17,
+        "samples": 31,
+        "wr": 45.16
+    },
+    "LAST2_91|CALL|4": {
+        "last2": "91",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 9,
+        "loss": 11,
+        "samples": 20,
+        "wr": 45
+    },
+    "LAST2_68|PUT|4": {
+        "last2": "68",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 9,
+        "loss": 11,
+        "samples": 20,
+        "wr": 45
+    },
+    "LAST2_14|CALL|1": {
+        "last2": "14",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 9,
+        "loss": 11,
+        "samples": 20,
+        "wr": 45
+    },
+    "LAST2_14|CALL|4": {
+        "last2": "14",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 9,
+        "loss": 11,
+        "samples": 20,
+        "wr": 45
+    },
+    "LAST2_74|CALL|2": {
+        "last2": "74",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 9,
+        "loss": 11,
+        "samples": 20,
+        "wr": 45
+    },
+    "LAST2_85|CALL|3": {
+        "last2": "85",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 13,
+        "loss": 16,
+        "samples": 29,
+        "wr": 44.83
+    },
+    "LAST2_41|CALL|2": {
+        "last2": "41",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 13,
+        "loss": 16,
+        "samples": 29,
+        "wr": 44.83
+    },
+    "LAST2_41|PUT|1": {
+        "last2": "41",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 13,
+        "loss": 16,
+        "samples": 29,
+        "wr": 44.83
+    },
+    "LAST2_71|CALL|3": {
+        "last2": "71",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 13,
+        "loss": 16,
+        "samples": 29,
+        "wr": 44.83
+    },
+    "LAST2_71|PUT|4": {
+        "last2": "71",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 13,
+        "loss": 16,
+        "samples": 29,
+        "wr": 44.83
+    },
+    "LAST2_46|CALL|3": {
+        "last2": "46",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 13,
+        "loss": 16,
+        "samples": 29,
+        "wr": 44.83
+    },
+    "LAST2_46|CALL|5": {
+        "last2": "46",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 13,
+        "loss": 16,
+        "samples": 29,
+        "wr": 44.83
+    },
+    "LAST2_46|PUT|1": {
+        "last2": "46",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 13,
+        "loss": 16,
+        "samples": 29,
+        "wr": 44.83
+    },
+    "LAST2_65|CALL|4": {
+        "last2": "65",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 17,
+        "loss": 21,
+        "samples": 38,
+        "wr": 44.74
+    },
+    "LAST2_65|CALL|5": {
+        "last2": "65",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 17,
+        "loss": 21,
+        "samples": 38,
+        "wr": 44.74
+    },
+    "LAST2_65|PUT|3": {
+        "last2": "65",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 17,
+        "loss": 21,
+        "samples": 38,
+        "wr": 44.74
+    },
+    "LAST2_53|CALL|3": {
+        "last2": "53",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 12,
+        "loss": 15,
+        "samples": 27,
+        "wr": 44.44
+    },
+    "LAST2_53|CALL|5": {
+        "last2": "53",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 12,
+        "loss": 15,
+        "samples": 27,
+        "wr": 44.44
+    },
+    "LAST2_22|CALL|1": {
+        "last2": "22",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 8,
+        "loss": 10,
+        "samples": 18,
+        "wr": 44.44
+    },
+    "LAST2_22|CALL|4": {
+        "last2": "22",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 8,
+        "loss": 10,
+        "samples": 18,
+        "wr": 44.44
+    },
+    "LAST2_38|CALL|1": {
+        "last2": "38",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 8,
+        "loss": 10,
+        "samples": 18,
+        "wr": 44.44
+    },
+    "LAST2_38|PUT|4": {
+        "last2": "38",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 8,
+        "loss": 10,
+        "samples": 18,
+        "wr": 44.44
+    },
+    "LAST2_17|CALL|1": {
+        "last2": "17",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 8,
+        "loss": 10,
+        "samples": 18,
+        "wr": 44.44
+    },
+    "LAST2_17|PUT|3": {
+        "last2": "17",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 8,
+        "loss": 10,
+        "samples": 18,
+        "wr": 44.44
+    },
+    "LAST2_17|PUT|4": {
+        "last2": "17",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 8,
+        "loss": 10,
+        "samples": 18,
+        "wr": 44.44
+    },
+    "LAST2_28|PUT|4": {
+        "last2": "28",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 12,
+        "loss": 15,
+        "samples": 27,
+        "wr": 44.44
+    },
+    "LAST2_33|CALL|2": {
+        "last2": "33",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 12,
+        "loss": 15,
+        "samples": 27,
+        "wr": 44.44
+    },
+    "LAST2_33|CALL|5": {
+        "last2": "33",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 12,
+        "loss": 15,
+        "samples": 27,
+        "wr": 44.44
+    },
+    "LAST2_92|CALL|5": {
+        "last2": "92",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 8,
+        "loss": 10,
+        "samples": 18,
+        "wr": 44.44
+    },
+    "LAST2_16|PUT|2": {
+        "last2": "16",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 15,
+        "loss": 19,
+        "samples": 34,
+        "wr": 44.12
+    },
+    "LAST2_16|PUT|3": {
+        "last2": "16",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 15,
+        "loss": 19,
+        "samples": 34,
+        "wr": 44.12
+    },
+    "LAST2_75|CALL|2": {
+        "last2": "75",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 11,
+        "loss": 14,
+        "samples": 25,
+        "wr": 44
+    },
+    "LAST2_75|CALL|5": {
+        "last2": "75",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 11,
+        "loss": 14,
+        "samples": 25,
+        "wr": 44
+    },
+    "LAST2_75|PUT|3": {
+        "last2": "75",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 11,
+        "loss": 14,
+        "samples": 25,
+        "wr": 44
+    },
+    "LAST2_03|CALL|2": {
+        "last2": "03",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 11,
+        "loss": 14,
+        "samples": 25,
+        "wr": 44
+    },
+    "LAST2_03|PUT|5": {
+        "last2": "03",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 11,
+        "loss": 14,
+        "samples": 25,
+        "wr": 44
+    },
+    "LAST2_67|CALL|2": {
+        "last2": "67",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 11,
+        "loss": 14,
+        "samples": 25,
+        "wr": 44
+    },
+    "LAST2_67|CALL|3": {
+        "last2": "67",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 11,
+        "loss": 14,
+        "samples": 25,
+        "wr": 44
+    },
+    "LAST2_67|CALL|5": {
+        "last2": "67",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 11,
+        "loss": 14,
+        "samples": 25,
+        "wr": 44
+    },
+    "LAST2_12|CALL|4": {
+        "last2": "12",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 11,
+        "loss": 14,
+        "samples": 25,
+        "wr": 44
+    },
+    "LAST2_42|PUT|4": {
+        "last2": "42",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 11,
+        "loss": 14,
+        "samples": 25,
+        "wr": 44
+    },
+    "LAST2_42|PUT|5": {
+        "last2": "42",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 11,
+        "loss": 14,
+        "samples": 25,
+        "wr": 44
+    },
+    "LAST2_87|CALL|4": {
+        "last2": "87",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 7,
+        "loss": 9,
+        "samples": 16,
+        "wr": 43.75
+    },
+    "LAST2_87|CALL|5": {
+        "last2": "87",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 7,
+        "loss": 9,
+        "samples": 16,
+        "wr": 43.75
+    },
+    "LAST2_87|PUT|1": {
+        "last2": "87",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 7,
+        "loss": 9,
+        "samples": 16,
+        "wr": 43.75
+    },
+    "LAST2_05|CALL|4": {
+        "last2": "05",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 14,
+        "loss": 18,
+        "samples": 32,
+        "wr": 43.75
+    },
+    "LAST2_21|CALL|1": {
+        "last2": "21",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 7,
+        "loss": 9,
+        "samples": 16,
+        "wr": 43.75
+    },
+    "LAST2_21|CALL|2": {
+        "last2": "21",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 7,
+        "loss": 9,
+        "samples": 16,
+        "wr": 43.75
+    },
+    "LAST2_21|CALL|3": {
+        "last2": "21",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 7,
+        "loss": 9,
+        "samples": 16,
+        "wr": 43.75
+    },
+    "LAST2_72|PUT|1": {
+        "last2": "72",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 7,
+        "loss": 9,
+        "samples": 16,
+        "wr": 43.75
+    },
+    "LAST2_72|PUT|4": {
+        "last2": "72",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 7,
+        "loss": 9,
+        "samples": 16,
+        "wr": 43.75
+    },
+    "LAST2_96|PUT|3": {
+        "last2": "96",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 7,
+        "loss": 9,
+        "samples": 16,
+        "wr": 43.75
+    },
+    "LAST2_04|PUT|1": {
+        "last2": "04",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 7,
+        "loss": 9,
+        "samples": 16,
+        "wr": 43.75
+    },
+    "LAST2_02|CALL|2": {
+        "last2": "02",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 10,
+        "loss": 13,
+        "samples": 23,
+        "wr": 43.48
+    },
+    "LAST2_02|CALL|5": {
+        "last2": "02",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 10,
+        "loss": 13,
+        "samples": 23,
+        "wr": 43.48
+    },
+    "LAST2_02|PUT|4": {
+        "last2": "02",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 10,
+        "loss": 13,
+        "samples": 23,
+        "wr": 43.48
+    },
+    "LAST2_49|CALL|3": {
+        "last2": "49",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 10,
+        "loss": 13,
+        "samples": 23,
+        "wr": 43.48
+    },
+    "LAST2_18|CALL|2": {
+        "last2": "18",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 10,
+        "loss": 13,
+        "samples": 23,
+        "wr": 43.48
+    },
+    "LAST2_36|PUT|3": {
+        "last2": "36",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 10,
+        "loss": 13,
+        "samples": 23,
+        "wr": 43.48
+    },
+    "LAST2_69|CALL|3": {
+        "last2": "69",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 10,
+        "loss": 13,
+        "samples": 23,
+        "wr": 43.48
+    },
+    "LAST2_69|PUT|5": {
+        "last2": "69",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 10,
+        "loss": 13,
+        "samples": 23,
+        "wr": 43.48
+    },
+    "LAST2_31|CALL|2": {
+        "last2": "31",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 10,
+        "loss": 13,
+        "samples": 23,
+        "wr": 43.48
+    },
+    "LAST2_31|CALL|5": {
+        "last2": "31",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 10,
+        "loss": 13,
+        "samples": 23,
+        "wr": 43.48
+    },
+    "LAST2_01|CALL|4": {
+        "last2": "01",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 10,
+        "loss": 13,
+        "samples": 23,
+        "wr": 43.48
+    },
+    "LAST2_95|PUT|3": {
+        "last2": "95",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 13,
+        "loss": 17,
+        "samples": 30,
+        "wr": 43.33
+    },
+    "LAST2_52|PUT|5": {
+        "last2": "52",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 13,
+        "loss": 17,
+        "samples": 30,
+        "wr": 43.33
+    },
+    "LAST2_07|CALL|1": {
+        "last2": "07",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 13,
+        "loss": 17,
+        "samples": 30,
+        "wr": 43.33
+    },
+    "LAST2_07|CALL|5": {
+        "last2": "07",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 13,
+        "loss": 17,
+        "samples": 30,
+        "wr": 43.33
+    },
+    "LAST2_08|CALL|1": {
+        "last2": "08",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 13,
+        "loss": 17,
+        "samples": 30,
+        "wr": 43.33
+    },
+    "LAST2_08|CALL|3": {
+        "last2": "08",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 13,
+        "loss": 17,
+        "samples": 30,
+        "wr": 43.33
+    },
+    "LAST2_08|CALL|5": {
+        "last2": "08",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 13,
+        "loss": 17,
+        "samples": 30,
+        "wr": 43.33
+    },
+    "LAST2_25|PUT|1": {
+        "last2": "25",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 12,
+        "loss": 16,
+        "samples": 28,
+        "wr": 42.86
+    },
+    "LAST2_39|CALL|2": {
+        "last2": "39",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 9,
+        "loss": 12,
+        "samples": 21,
+        "wr": 42.86
+    },
+    "LAST2_54|CALL|5": {
+        "last2": "54",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 9,
+        "loss": 12,
+        "samples": 21,
+        "wr": 42.86
+    },
+    "LAST2_54|PUT|1": {
+        "last2": "54",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 9,
+        "loss": 12,
+        "samples": 21,
+        "wr": 42.86
+    },
+    "LAST2_54|PUT|2": {
+        "last2": "54",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 9,
+        "loss": 12,
+        "samples": 21,
+        "wr": 42.86
+    },
+    "LAST2_24|PUT|1": {
+        "last2": "24",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 12,
+        "loss": 16,
+        "samples": 28,
+        "wr": 42.86
+    },
+    "LAST2_84|PUT|4": {
+        "last2": "84",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 6,
+        "loss": 8,
+        "samples": 14,
+        "wr": 42.86
+    },
+    "LAST2_45|PUT|5": {
+        "last2": "45",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 6,
+        "loss": 8,
+        "samples": 14,
+        "wr": 42.86
+    },
+    "LAST2_79|PUT|2": {
+        "last2": "79",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 11,
+        "loss": 15,
+        "samples": 26,
+        "wr": 42.31
+    },
+    "LAST2_79|PUT|3": {
+        "last2": "79",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 11,
+        "loss": 15,
+        "samples": 26,
+        "wr": 42.31
+    },
+    "LAST2_62|PUT|1": {
+        "last2": "62",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 8,
+        "loss": 11,
+        "samples": 19,
+        "wr": 42.11
+    },
+    "LAST2_62|PUT|4": {
+        "last2": "62",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 8,
+        "loss": 11,
+        "samples": 19,
+        "wr": 42.11
+    },
+    "LAST2_77|CALL|3": {
+        "last2": "77",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 8,
+        "loss": 11,
+        "samples": 19,
+        "wr": 42.11
+    },
+    "LAST2_77|CALL|4": {
+        "last2": "77",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 8,
+        "loss": 11,
+        "samples": 19,
+        "wr": 42.11
+    },
+    "LAST2_86|PUT|1": {
+        "last2": "86",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 8,
+        "loss": 11,
+        "samples": 19,
+        "wr": 42.11
+    },
+    "LAST2_86|PUT|4": {
+        "last2": "86",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 8,
+        "loss": 11,
+        "samples": 19,
+        "wr": 42.11
+    },
+    "LAST2_06|PUT|4": {
+        "last2": "06",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 8,
+        "loss": 11,
+        "samples": 19,
+        "wr": 42.11
+    },
+    "LAST2_32|PUT|2": {
+        "last2": "32",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 8,
+        "loss": 11,
+        "samples": 19,
+        "wr": 42.11
+    },
+    "LAST2_58|CALL|2": {
+        "last2": "58",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 13,
+        "loss": 18,
+        "samples": 31,
+        "wr": 41.94
+    },
+    "LAST2_51|PUT|4": {
+        "last2": "51",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 13,
+        "loss": 18,
+        "samples": 31,
+        "wr": 41.94
+    },
+    "LAST2_57|CALL|3": {
+        "last2": "57",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 10,
+        "loss": 14,
+        "samples": 24,
+        "wr": 41.67
+    },
+    "LAST2_98|CALL|4": {
+        "last2": "98",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 10,
+        "loss": 14,
+        "samples": 24,
+        "wr": 41.67
+    },
+    "LAST2_98|PUT|1": {
+        "last2": "98",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 10,
+        "loss": 14,
+        "samples": 24,
+        "wr": 41.67
+    },
+    "LAST2_83|CALL|5": {
+        "last2": "83",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 10,
+        "loss": 14,
+        "samples": 24,
+        "wr": 41.67
+    },
+    "LAST2_29|PUT|5": {
+        "last2": "29",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 10,
+        "loss": 14,
+        "samples": 24,
+        "wr": 41.67
+    },
+    "LAST2_13|CALL|1": {
+        "last2": "13",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 10,
+        "loss": 14,
+        "samples": 24,
+        "wr": 41.67
+    },
+    "LAST2_13|PUT|3": {
+        "last2": "13",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 10,
+        "loss": 14,
+        "samples": 24,
+        "wr": 41.67
+    },
+    "LAST2_85|CALL|2": {
+        "last2": "85",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 12,
+        "loss": 17,
+        "samples": 29,
+        "wr": 41.38
+    },
+    "LAST2_85|CALL|4": {
+        "last2": "85",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 12,
+        "loss": 17,
+        "samples": 29,
+        "wr": 41.38
+    },
+    "LAST2_41|CALL|4": {
+        "last2": "41",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 12,
+        "loss": 17,
+        "samples": 29,
+        "wr": 41.38
+    },
+    "LAST2_71|PUT|5": {
+        "last2": "71",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 12,
+        "loss": 17,
+        "samples": 29,
+        "wr": 41.38
+    },
+    "LAST2_27|PUT|1": {
+        "last2": "27",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 7,
+        "loss": 10,
+        "samples": 17,
+        "wr": 41.18
+    },
+    "LAST2_27|PUT|3": {
+        "last2": "27",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 7,
+        "loss": 10,
+        "samples": 17,
+        "wr": 41.18
+    },
+    "LAST2_93|CALL|3": {
+        "last2": "93",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 7,
+        "loss": 10,
+        "samples": 17,
+        "wr": 41.18
+    },
+    "LAST2_48|CALL|3": {
+        "last2": "48",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 7,
+        "loss": 10,
+        "samples": 17,
+        "wr": 41.18
+    },
+    "LAST2_48|CALL|5": {
+        "last2": "48",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 7,
+        "loss": 10,
+        "samples": 17,
+        "wr": 41.18
+    },
+    "LAST2_48|PUT|1": {
+        "last2": "48",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 7,
+        "loss": 10,
+        "samples": 17,
+        "wr": 41.18
+    },
+    "LAST2_48|PUT|2": {
+        "last2": "48",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 7,
+        "loss": 10,
+        "samples": 17,
+        "wr": 41.18
+    },
+    "LAST2_89|CALL|4": {
+        "last2": "89",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 7,
+        "loss": 10,
+        "samples": 17,
+        "wr": 41.18
+    },
+    "LAST2_19|CALL|4": {
+        "last2": "19",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 7,
+        "loss": 10,
+        "samples": 17,
+        "wr": 41.18
+    },
+    "LAST2_19|CALL|5": {
+        "last2": "19",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 7,
+        "loss": 10,
+        "samples": 17,
+        "wr": 41.18
+    },
+    "LAST2_16|PUT|4": {
+        "last2": "16",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 14,
+        "loss": 20,
+        "samples": 34,
+        "wr": 41.18
+    },
+    "LAST2_16|PUT|5": {
+        "last2": "16",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 14,
+        "loss": 20,
+        "samples": 34,
+        "wr": 41.18
+    },
+    "LAST2_66|PUT|3": {
+        "last2": "66",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 7,
+        "loss": 10,
+        "samples": 17,
+        "wr": 41.18
+    },
+    "LAST2_66|PUT|5": {
+        "last2": "66",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 7,
+        "loss": 10,
+        "samples": 17,
+        "wr": 41.18
+    },
+    "LAST2_44|PUT|2": {
+        "last2": "44",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 7,
+        "loss": 10,
+        "samples": 17,
+        "wr": 41.18
+    },
+    "LAST2_44|PUT|3": {
+        "last2": "44",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 7,
+        "loss": 10,
+        "samples": 17,
+        "wr": 41.18
+    },
+    "LAST2_44|PUT|4": {
+        "last2": "44",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 7,
+        "loss": 10,
+        "samples": 17,
+        "wr": 41.18
+    },
+    "LAST2_15|PUT|4": {
+        "last2": "15",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 9,
+        "loss": 13,
+        "samples": 22,
+        "wr": 40.91
+    },
+    "LAST2_15|PUT|5": {
+        "last2": "15",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 9,
+        "loss": 13,
+        "samples": 22,
+        "wr": 40.91
+    },
+    "LAST2_43|CALL|5": {
+        "last2": "43",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 9,
+        "loss": 13,
+        "samples": 22,
+        "wr": 40.91
+    },
+    "LAST2_43|PUT|2": {
+        "last2": "43",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 9,
+        "loss": 13,
+        "samples": 22,
+        "wr": 40.91
+    },
+    "LAST2_11|CALL|1": {
+        "last2": "11",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 9,
+        "loss": 13,
+        "samples": 22,
+        "wr": 40.91
+    },
+    "LAST2_11|PUT|4": {
+        "last2": "11",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 9,
+        "loss": 13,
+        "samples": 22,
+        "wr": 40.91
+    },
+    "LAST2_11|PUT|5": {
+        "last2": "11",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 9,
+        "loss": 13,
+        "samples": 22,
+        "wr": 40.91
+    },
+    "LAST2_59|CALL|5": {
+        "last2": "59",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 9,
+        "loss": 13,
+        "samples": 22,
+        "wr": 40.91
+    },
+    "LAST2_59|PUT|1": {
+        "last2": "59",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 9,
+        "loss": 13,
+        "samples": 22,
+        "wr": 40.91
+    },
+    "LAST2_97|PUT|1": {
+        "last2": "97",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 9,
+        "loss": 13,
+        "samples": 22,
+        "wr": 40.91
+    },
+    "LAST2_97|PUT|5": {
+        "last2": "97",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 9,
+        "loss": 13,
+        "samples": 22,
+        "wr": 40.91
+    },
+    "LAST2_09|CALL|2": {
+        "last2": "09",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 9,
+        "loss": 13,
+        "samples": 22,
+        "wr": 40.91
+    },
+    "LAST2_09|CALL|4": {
+        "last2": "09",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 9,
+        "loss": 13,
+        "samples": 22,
+        "wr": 40.91
+    },
+    "LAST2_09|PUT|5": {
+        "last2": "09",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 9,
+        "loss": 13,
+        "samples": 22,
+        "wr": 40.91
+    },
+    "LAST2_53|CALL|2": {
+        "last2": "53",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 11,
+        "loss": 16,
+        "samples": 27,
+        "wr": 40.74
+    },
+    "LAST2_53|CALL|4": {
+        "last2": "53",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 11,
+        "loss": 16,
+        "samples": 27,
+        "wr": 40.74
+    },
+    "LAST2_28|PUT|2": {
+        "last2": "28",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 11,
+        "loss": 16,
+        "samples": 27,
+        "wr": 40.74
+    },
+    "LAST2_28|PUT|3": {
+        "last2": "28",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 11,
+        "loss": 16,
+        "samples": 27,
+        "wr": 40.74
+    },
+    "LAST2_05|PUT|2": {
+        "last2": "05",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 13,
+        "loss": 19,
+        "samples": 32,
+        "wr": 40.63
+    },
+    "LAST2_94|PUT|1": {
+        "last2": "94",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 8,
+        "loss": 12,
+        "samples": 20,
+        "wr": 40
+    },
+    "LAST2_94|PUT|4": {
+        "last2": "94",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 8,
+        "loss": 12,
+        "samples": 20,
+        "wr": 40
+    },
+    "LAST2_94|PUT|5": {
+        "last2": "94",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 8,
+        "loss": 12,
+        "samples": 20,
+        "wr": 40
+    },
+    "LAST2_75|CALL|1": {
+        "last2": "75",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 10,
+        "loss": 15,
+        "samples": 25,
+        "wr": 40
+    },
+    "LAST2_91|CALL|5": {
+        "last2": "91",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 8,
+        "loss": 12,
+        "samples": 20,
+        "wr": 40
+    },
+    "LAST2_91|PUT|2": {
+        "last2": "91",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 8,
+        "loss": 12,
+        "samples": 20,
+        "wr": 40
+    },
+    "LAST2_91|PUT|3": {
+        "last2": "91",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 8,
+        "loss": 12,
+        "samples": 20,
+        "wr": 40
+    },
+    "LAST2_34|CALL|5": {
+        "last2": "34",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 8,
+        "loss": 12,
+        "samples": 20,
+        "wr": 40
+    },
+    "LAST2_82|CALL|1": {
+        "last2": "82",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 10,
+        "loss": 15,
+        "samples": 25,
+        "wr": 40
+    },
+    "LAST2_82|CALL|3": {
+        "last2": "82",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 10,
+        "loss": 15,
+        "samples": 25,
+        "wr": 40
+    },
+    "LAST2_82|CALL|4": {
+        "last2": "82",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 10,
+        "loss": 15,
+        "samples": 25,
+        "wr": 40
+    },
+    "LAST2_82|CALL|5": {
+        "last2": "82",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 10,
+        "loss": 15,
+        "samples": 25,
+        "wr": 40
+    },
+    "LAST2_68|CALL|1": {
+        "last2": "68",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 8,
+        "loss": 12,
+        "samples": 20,
+        "wr": 40
+    },
+    "LAST2_68|CALL|2": {
+        "last2": "68",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 8,
+        "loss": 12,
+        "samples": 20,
+        "wr": 40
+    },
+    "LAST2_68|PUT|3": {
+        "last2": "68",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 8,
+        "loss": 12,
+        "samples": 20,
+        "wr": 40
+    },
+    "LAST2_03|CALL|3": {
+        "last2": "03",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 10,
+        "loss": 15,
+        "samples": 25,
+        "wr": 40
+    },
+    "LAST2_03|PUT|1": {
+        "last2": "03",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 10,
+        "loss": 15,
+        "samples": 25,
+        "wr": 40
+    },
+    "LAST2_95|PUT|2": {
+        "last2": "95",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 12,
+        "loss": 18,
+        "samples": 30,
+        "wr": 40
+    },
+    "LAST2_52|PUT|2": {
+        "last2": "52",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 12,
+        "loss": 18,
+        "samples": 30,
+        "wr": 40
+    },
+    "LAST2_73|PUT|3": {
+        "last2": "73",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 10,
+        "loss": 15,
+        "samples": 25,
+        "wr": 40
+    },
+    "LAST2_12|PUT|2": {
+        "last2": "12",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 10,
+        "loss": 15,
+        "samples": 25,
+        "wr": 40
+    },
+    "LAST2_63|CALL|5": {
+        "last2": "63",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 6,
+        "loss": 9,
+        "samples": 15,
+        "wr": 40
+    },
+    "LAST2_14|CALL|2": {
+        "last2": "14",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 8,
+        "loss": 12,
+        "samples": 20,
+        "wr": 40
+    },
+    "LAST2_14|CALL|5": {
+        "last2": "14",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 8,
+        "loss": 12,
+        "samples": 20,
+        "wr": 40
+    },
+    "LAST2_74|PUT|1": {
+        "last2": "74",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 8,
+        "loss": 12,
+        "samples": 20,
+        "wr": 40
+    },
+    "LAST2_88|CALL|2": {
+        "last2": "88",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 11,
+        "loss": 17,
+        "samples": 28,
+        "wr": 39.29
+    },
+    "LAST2_24|CALL|5": {
+        "last2": "24",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 11,
+        "loss": 17,
+        "samples": 28,
+        "wr": 39.29
+    },
+    "LAST2_02|PUT|1": {
+        "last2": "02",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 9,
+        "loss": 14,
+        "samples": 23,
+        "wr": 39.13
+    },
+    "LAST2_49|CALL|5": {
+        "last2": "49",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 9,
+        "loss": 14,
+        "samples": 23,
+        "wr": 39.13
+    },
+    "LAST2_69|PUT|1": {
+        "last2": "69",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 9,
+        "loss": 14,
+        "samples": 23,
+        "wr": 39.13
+    },
+    "LAST2_31|CALL|3": {
+        "last2": "31",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 9,
+        "loss": 14,
+        "samples": 23,
+        "wr": 39.13
+    },
+    "LAST2_01|CALL|1": {
+        "last2": "01",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 9,
+        "loss": 14,
+        "samples": 23,
+        "wr": 39.13
+    },
+    "LAST2_01|CALL|2": {
+        "last2": "01",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 9,
+        "loss": 14,
+        "samples": 23,
+        "wr": 39.13
+    },
+    "LAST2_01|CALL|3": {
+        "last2": "01",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 9,
+        "loss": 14,
+        "samples": 23,
+        "wr": 39.13
+    },
+    "LAST2_22|CALL|5": {
+        "last2": "22",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 7,
+        "loss": 11,
+        "samples": 18,
+        "wr": 38.89
+    },
+    "LAST2_38|CALL|2": {
+        "last2": "38",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 7,
+        "loss": 11,
+        "samples": 18,
+        "wr": 38.89
+    },
+    "LAST2_92|PUT|2": {
+        "last2": "92",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 7,
+        "loss": 11,
+        "samples": 18,
+        "wr": 38.89
+    },
+    "LAST2_37|CALL|1": {
+        "last2": "37",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 5,
+        "loss": 8,
+        "samples": 13,
+        "wr": 38.46
+    },
+    "LAST2_26|CALL|2": {
+        "last2": "26",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 10,
+        "loss": 16,
+        "samples": 26,
+        "wr": 38.46
+    },
+    "LAST2_55|PUT|3": {
+        "last2": "55",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 10,
+        "loss": 16,
+        "samples": 26,
+        "wr": 38.46
+    },
+    "LAST2_64|CALL|1": {
+        "last2": "64",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 8,
+        "loss": 13,
+        "samples": 21,
+        "wr": 38.1
+    },
+    "LAST2_64|PUT|4": {
+        "last2": "64",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 8,
+        "loss": 13,
+        "samples": 21,
+        "wr": 38.1
+    },
+    "LAST2_81|CALL|1": {
+        "last2": "81",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 8,
+        "loss": 13,
+        "samples": 21,
+        "wr": 38.1
+    },
+    "LAST2_35|PUT|1": {
+        "last2": "35",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 8,
+        "loss": 13,
+        "samples": 21,
+        "wr": 38.1
+    },
+    "LAST2_39|CALL|3": {
+        "last2": "39",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 8,
+        "loss": 13,
+        "samples": 21,
+        "wr": 38.1
+    },
+    "LAST2_78|CALL|2": {
+        "last2": "78",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 8,
+        "loss": 13,
+        "samples": 21,
+        "wr": 38.1
+    },
+    "LAST2_78|CALL|3": {
+        "last2": "78",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 8,
+        "loss": 13,
+        "samples": 21,
+        "wr": 38.1
+    },
+    "LAST2_78|CALL|4": {
+        "last2": "78",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 8,
+        "loss": 13,
+        "samples": 21,
+        "wr": 38.1
+    },
+    "LAST2_54|CALL|3": {
+        "last2": "54",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 8,
+        "loss": 13,
+        "samples": 21,
+        "wr": 38.1
+    },
+    "LAST2_54|CALL|4": {
+        "last2": "54",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 8,
+        "loss": 13,
+        "samples": 21,
+        "wr": 38.1
+    },
+    "LAST2_85|CALL|5": {
+        "last2": "85",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 11,
+        "loss": 18,
+        "samples": 29,
+        "wr": 37.93
+    },
+    "LAST2_71|CALL|2": {
+        "last2": "71",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 11,
+        "loss": 18,
+        "samples": 29,
+        "wr": 37.93
+    },
+    "LAST2_57|CALL|1": {
+        "last2": "57",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 9,
+        "loss": 15,
+        "samples": 24,
+        "wr": 37.5
+    },
+    "LAST2_57|CALL|2": {
+        "last2": "57",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 9,
+        "loss": 15,
+        "samples": 24,
+        "wr": 37.5
+    },
+    "LAST2_99|PUT|4": {
+        "last2": "99",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 9,
+        "loss": 15,
+        "samples": 24,
+        "wr": 37.5
+    },
+    "LAST2_83|CALL|4": {
+        "last2": "83",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 9,
+        "loss": 15,
+        "samples": 24,
+        "wr": 37.5
+    },
+    "LAST2_87|CALL|2": {
+        "last2": "87",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 6,
+        "loss": 10,
+        "samples": 16,
+        "wr": 37.5
+    },
+    "LAST2_21|CALL|4": {
+        "last2": "21",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 6,
+        "loss": 10,
+        "samples": 16,
+        "wr": 37.5
+    },
+    "LAST2_76|PUT|4": {
+        "last2": "76",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 9,
+        "loss": 15,
+        "samples": 24,
+        "wr": 37.5
+    },
+    "LAST2_29|CALL|3": {
+        "last2": "29",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 9,
+        "loss": 15,
+        "samples": 24,
+        "wr": 37.5
+    },
+    "LAST2_72|CALL|2": {
+        "last2": "72",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 6,
+        "loss": 10,
+        "samples": 16,
+        "wr": 37.5
+    },
+    "LAST2_72|CALL|3": {
+        "last2": "72",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 6,
+        "loss": 10,
+        "samples": 16,
+        "wr": 37.5
+    },
+    "LAST2_72|CALL|5": {
+        "last2": "72",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 6,
+        "loss": 10,
+        "samples": 16,
+        "wr": 37.5
+    },
+    "LAST2_53|CALL|1": {
+        "last2": "53",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 10,
+        "loss": 17,
+        "samples": 27,
+        "wr": 37.04
+    },
+    "LAST2_77|CALL|1": {
+        "last2": "77",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 7,
+        "loss": 12,
+        "samples": 19,
+        "wr": 36.84
+    },
+    "LAST2_77|CALL|2": {
+        "last2": "77",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 7,
+        "loss": 12,
+        "samples": 19,
+        "wr": 36.84
+    },
+    "LAST2_77|CALL|5": {
+        "last2": "77",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 7,
+        "loss": 12,
+        "samples": 19,
+        "wr": 36.84
+    },
+    "LAST2_06|PUT|3": {
+        "last2": "06",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 7,
+        "loss": 12,
+        "samples": 19,
+        "wr": 36.84
+    },
+    "LAST2_06|PUT|5": {
+        "last2": "06",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 7,
+        "loss": 12,
+        "samples": 19,
+        "wr": 36.84
+    },
+    "LAST2_32|PUT|3": {
+        "last2": "32",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 7,
+        "loss": 12,
+        "samples": 19,
+        "wr": 36.84
+    },
+    "LAST2_32|PUT|5": {
+        "last2": "32",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 7,
+        "loss": 12,
+        "samples": 19,
+        "wr": 36.84
+    },
+    "LAST2_95|PUT|4": {
+        "last2": "95",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 11,
+        "loss": 19,
+        "samples": 30,
+        "wr": 36.67
+    },
+    "LAST2_07|CALL|3": {
+        "last2": "07",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 11,
+        "loss": 19,
+        "samples": 30,
+        "wr": 36.67
+    },
+    "LAST2_97|PUT|2": {
+        "last2": "97",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 8,
+        "loss": 14,
+        "samples": 22,
+        "wr": 36.36
+    },
+    "LAST2_73|PUT|2": {
+        "last2": "73",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 9,
+        "loss": 16,
+        "samples": 25,
+        "wr": 36
+    },
+    "LAST2_12|PUT|1": {
+        "last2": "12",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 9,
+        "loss": 16,
+        "samples": 25,
+        "wr": 36
+    },
+    "LAST2_42|CALL|2": {
+        "last2": "42",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 9,
+        "loss": 16,
+        "samples": 25,
+        "wr": 36
+    },
+    "LAST2_88|CALL|3": {
+        "last2": "88",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 10,
+        "loss": 18,
+        "samples": 28,
+        "wr": 35.71
+    },
+    "LAST2_84|PUT|3": {
+        "last2": "84",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 5,
+        "loss": 9,
+        "samples": 14,
+        "wr": 35.71
+    },
+    "LAST2_58|CALL|3": {
+        "last2": "58",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 11,
+        "loss": 20,
+        "samples": 31,
+        "wr": 35.48
+    },
+    "LAST2_51|PUT|5": {
+        "last2": "51",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 11,
+        "loss": 20,
+        "samples": 31,
+        "wr": 35.48
+    },
+    "LAST2_23|CALL|2": {
+        "last2": "23",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 11,
+        "loss": 20,
+        "samples": 31,
+        "wr": 35.48
+    },
+    "LAST2_23|CALL|4": {
+        "last2": "23",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 11,
+        "loss": 20,
+        "samples": 31,
+        "wr": 35.48
+    },
+    "LAST2_93|CALL|4": {
+        "last2": "93",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 6,
+        "loss": 11,
+        "samples": 17,
+        "wr": 35.29
+    },
+    "LAST2_93|CALL|5": {
+        "last2": "93",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 6,
+        "loss": 11,
+        "samples": 17,
+        "wr": 35.29
+    },
+    "LAST2_89|CALL|3": {
+        "last2": "89",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 6,
+        "loss": 11,
+        "samples": 17,
+        "wr": 35.29
+    },
+    "LAST2_89|CALL|5": {
+        "last2": "89",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 6,
+        "loss": 11,
+        "samples": 17,
+        "wr": 35.29
+    },
+    "LAST2_19|CALL|3": {
+        "last2": "19",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 6,
+        "loss": 11,
+        "samples": 17,
+        "wr": 35.29
+    },
+    "LAST2_44|PUT|1": {
+        "last2": "44",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 6,
+        "loss": 11,
+        "samples": 17,
+        "wr": 35.29
+    },
+    "LAST2_91|PUT|1": {
+        "last2": "91",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 7,
+        "loss": 13,
+        "samples": 20,
+        "wr": 35
+    },
+    "LAST2_34|CALL|1": {
+        "last2": "34",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 7,
+        "loss": 13,
+        "samples": 20,
+        "wr": 35
+    },
+    "LAST2_34|CALL|4": {
+        "last2": "34",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 7,
+        "loss": 13,
+        "samples": 20,
+        "wr": 35
+    },
+    "LAST2_68|PUT|5": {
+        "last2": "68",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 7,
+        "loss": 13,
+        "samples": 20,
+        "wr": 35
+    },
+    "LAST2_14|CALL|3": {
+        "last2": "14",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 7,
+        "loss": 13,
+        "samples": 20,
+        "wr": 35
+    },
+    "LAST2_74|CALL|3": {
+        "last2": "74",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 7,
+        "loss": 13,
+        "samples": 20,
+        "wr": 35
+    },
+    "LAST2_36|PUT|4": {
+        "last2": "36",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 8,
+        "loss": 15,
+        "samples": 23,
+        "wr": 34.78
+    },
+    "LAST2_36|PUT|5": {
+        "last2": "36",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 8,
+        "loss": 15,
+        "samples": 23,
+        "wr": 34.78
+    },
+    "LAST2_31|CALL|1": {
+        "last2": "31",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 8,
+        "loss": 15,
+        "samples": 23,
+        "wr": 34.78
+    },
+    "LAST2_31|CALL|4": {
+        "last2": "31",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 8,
+        "loss": 15,
+        "samples": 23,
+        "wr": 34.78
+    },
+    "LAST2_79|PUT|1": {
+        "last2": "79",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 9,
+        "loss": 17,
+        "samples": 26,
+        "wr": 34.62
+    },
+    "LAST2_26|CALL|1": {
+        "last2": "26",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 9,
+        "loss": 17,
+        "samples": 26,
+        "wr": 34.62
+    },
+    "LAST2_26|CALL|3": {
+        "last2": "26",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 9,
+        "loss": 17,
+        "samples": 26,
+        "wr": 34.62
+    },
+    "LAST2_41|CALL|3": {
+        "last2": "41",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 10,
+        "loss": 19,
+        "samples": 29,
+        "wr": 34.48
+    },
+    "LAST2_99|PUT|5": {
+        "last2": "99",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 8,
+        "loss": 16,
+        "samples": 24,
+        "wr": 33.33
+    },
+    "LAST2_64|PUT|3": {
+        "last2": "64",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 7,
+        "loss": 14,
+        "samples": 21,
+        "wr": 33.33
+    },
+    "LAST2_81|CALL|5": {
+        "last2": "81",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 7,
+        "loss": 14,
+        "samples": 21,
+        "wr": 33.33
+    },
+    "LAST2_35|CALL|2": {
+        "last2": "35",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 7,
+        "loss": 14,
+        "samples": 21,
+        "wr": 33.33
+    },
+    "LAST2_52|PUT|1": {
+        "last2": "52",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 10,
+        "loss": 20,
+        "samples": 30,
+        "wr": 33.33
+    },
+    "LAST2_39|CALL|4": {
+        "last2": "39",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 7,
+        "loss": 14,
+        "samples": 21,
+        "wr": 33.33
+    },
+    "LAST2_39|CALL|5": {
+        "last2": "39",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 7,
+        "loss": 14,
+        "samples": 21,
+        "wr": 33.33
+    },
+    "LAST2_07|CALL|4": {
+        "last2": "07",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 10,
+        "loss": 20,
+        "samples": 30,
+        "wr": 33.33
+    },
+    "LAST2_33|CALL|4": {
+        "last2": "33",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 9,
+        "loss": 18,
+        "samples": 27,
+        "wr": 33.33
+    },
+    "LAST2_13|PUT|4": {
+        "last2": "13",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 8,
+        "loss": 16,
+        "samples": 24,
+        "wr": 33.33
+    },
+    "LAST2_13|PUT|5": {
+        "last2": "13",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 8,
+        "loss": 16,
+        "samples": 24,
+        "wr": 33.33
+    },
+    "LAST2_92|PUT|1": {
+        "last2": "92",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 6,
+        "loss": 12,
+        "samples": 18,
+        "wr": 33.33
+    },
+    "LAST2_63|CALL|2": {
+        "last2": "63",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 5,
+        "loss": 10,
+        "samples": 15,
+        "wr": 33.33
+    },
+    "LAST2_63|CALL|3": {
+        "last2": "63",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 5,
+        "loss": 10,
+        "samples": 15,
+        "wr": 33.33
+    },
+    "LAST2_62|PUT|2": {
+        "last2": "62",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 6,
+        "loss": 13,
+        "samples": 19,
+        "wr": 31.58
+    },
+    "LAST2_32|PUT|4": {
+        "last2": "32",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 6,
+        "loss": 13,
+        "samples": 19,
+        "wr": 31.58
+    },
+    "LAST2_96|PUT|2": {
+        "last2": "96",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 5,
+        "loss": 11,
+        "samples": 16,
+        "wr": 31.25
+    },
+    "LAST2_96|PUT|4": {
+        "last2": "96",
+        "direction": "PUT",
+        "duration": 4,
+        "win": 5,
+        "loss": 11,
+        "samples": 16,
+        "wr": 31.25
+    },
+    "LAST2_96|PUT|5": {
+        "last2": "96",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 5,
+        "loss": 11,
+        "samples": 16,
+        "wr": 31.25
+    },
+    "LAST2_04|PUT|5": {
+        "last2": "04",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 5,
+        "loss": 11,
+        "samples": 16,
+        "wr": 31.25
+    },
+    "LAST2_41|CALL|5": {
+        "last2": "41",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 9,
+        "loss": 20,
+        "samples": 29,
+        "wr": 31.03
+    },
+    "LAST2_55|CALL|1": {
+        "last2": "55",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 8,
+        "loss": 18,
+        "samples": 26,
+        "wr": 30.77
+    },
+    "LAST2_49|CALL|1": {
+        "last2": "49",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 7,
+        "loss": 16,
+        "samples": 23,
+        "wr": 30.43
+    },
+    "LAST2_74|CALL|5": {
+        "last2": "74",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 6,
+        "loss": 14,
+        "samples": 20,
+        "wr": 30
+    },
+    "LAST2_27|PUT|2": {
+        "last2": "27",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 5,
+        "loss": 12,
+        "samples": 17,
+        "wr": 29.41
+    },
+    "LAST2_89|CALL|2": {
+        "last2": "89",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 5,
+        "loss": 12,
+        "samples": 17,
+        "wr": 29.41
+    },
+    "LAST2_16|PUT|1": {
+        "last2": "16",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 10,
+        "loss": 24,
+        "samples": 34,
+        "wr": 29.41
+    },
+    "LAST2_76|PUT|5": {
+        "last2": "76",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 7,
+        "loss": 17,
+        "samples": 24,
+        "wr": 29.17
+    },
+    "LAST2_23|CALL|3": {
+        "last2": "23",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 9,
+        "loss": 22,
+        "samples": 31,
+        "wr": 29.03
+    },
+    "LAST2_81|CALL|4": {
+        "last2": "81",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 6,
+        "loss": 15,
+        "samples": 21,
+        "wr": 28.57
+    },
+    "LAST2_84|PUT|1": {
+        "last2": "84",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 4,
+        "loss": 10,
+        "samples": 14,
+        "wr": 28.57
+    },
+    "LAST2_84|PUT|2": {
+        "last2": "84",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 4,
+        "loss": 10,
+        "samples": 14,
+        "wr": 28.57
+    },
+    "LAST2_45|PUT|2": {
+        "last2": "45",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 4,
+        "loss": 10,
+        "samples": 14,
+        "wr": 28.57
+    },
+    "LAST2_45|PUT|3": {
+        "last2": "45",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 4,
+        "loss": 10,
+        "samples": 14,
+        "wr": 28.57
+    },
+    "LAST2_12|PUT|5": {
+        "last2": "12",
+        "direction": "PUT",
+        "duration": 5,
+        "win": 7,
+        "loss": 18,
+        "samples": 25,
+        "wr": 28
+    },
+    "LAST2_56|CALL|1": {
+        "last2": "56",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 6,
+        "loss": 16,
+        "samples": 22,
+        "wr": 27.27
+    },
+    "LAST2_56|CALL|3": {
+        "last2": "56",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 6,
+        "loss": 16,
+        "samples": 22,
+        "wr": 27.27
+    },
+    "LAST2_63|CALL|4": {
+        "last2": "63",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 4,
+        "loss": 11,
+        "samples": 15,
+        "wr": 26.67
+    },
+    "LAST2_06|PUT|2": {
+        "last2": "06",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 5,
+        "loss": 14,
+        "samples": 19,
+        "wr": 26.32
+    },
+    "LAST2_76|PUT|1": {
+        "last2": "76",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 6,
+        "loss": 18,
+        "samples": 24,
+        "wr": 25
+    },
+    "LAST2_76|PUT|2": {
+        "last2": "76",
+        "direction": "PUT",
+        "duration": 2,
+        "win": 6,
+        "loss": 18,
+        "samples": 24,
+        "wr": 25
+    },
+    "LAST2_76|PUT|3": {
+        "last2": "76",
+        "direction": "PUT",
+        "duration": 3,
+        "win": 6,
+        "loss": 18,
+        "samples": 24,
+        "wr": 25
+    },
+    "LAST2_96|PUT|1": {
+        "last2": "96",
+        "direction": "PUT",
+        "duration": 1,
+        "win": 4,
+        "loss": 12,
+        "samples": 16,
+        "wr": 25
+    },
+    "LAST2_74|CALL|4": {
+        "last2": "74",
+        "direction": "CALL",
+        "duration": 4,
+        "win": 5,
+        "loss": 15,
+        "samples": 20,
+        "wr": 25
+    },
+    "LAST2_78|CALL|1": {
+        "last2": "78",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 5,
+        "loss": 16,
+        "samples": 21,
+        "wr": 23.81
+    },
+    "LAST2_78|CALL|5": {
+        "last2": "78",
+        "direction": "CALL",
+        "duration": 5,
+        "win": 5,
+        "loss": 16,
+        "samples": 21,
+        "wr": 23.81
+    },
+    "LAST2_89|CALL|1": {
+        "last2": "89",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 4,
+        "loss": 13,
+        "samples": 17,
+        "wr": 23.53
+    },
+    "LAST2_56|CALL|2": {
+        "last2": "56",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 5,
+        "loss": 17,
+        "samples": 22,
+        "wr": 22.73
+    },
+    "LAST2_63|CALL|1": {
+        "last2": "63",
+        "direction": "CALL",
+        "duration": 1,
+        "win": 3,
+        "loss": 12,
+        "samples": 15,
+        "wr": 20
+    },
+    "LAST2_81|CALL|2": {
+        "last2": "81",
+        "direction": "CALL",
+        "duration": 2,
+        "win": 4,
+        "loss": 17,
+        "samples": 21,
+        "wr": 19.05
+    },
+    "LAST2_81|CALL|3": {
+        "last2": "81",
+        "direction": "CALL",
+        "duration": 3,
+        "win": 4,
+        "loss": 17,
+        "samples": 21,
+        "wr": 19.05
+    }
+}

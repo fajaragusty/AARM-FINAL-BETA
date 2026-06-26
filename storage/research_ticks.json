@@ -1,0 +1,18 @@
+{
+    "research_time": "2026-06-25 14:22:48",
+    "tick_index": 10000,
+    "quote": 2553.84,
+    "digit": "4",
+    "last2": "84",
+    "trend": "UNKNOWN",
+    "market_state": "UNKNOWN",
+    "momentum": "UNKNOWN",
+    "ema9": null,
+    "ema21": null,
+    "rsi": null,
+    "volatility": null,
+    "session_hour": "14",
+    "weekday": "4",
+    "collector": "RC4_RESEARCH",
+    "status": "OBSERVED"
+}

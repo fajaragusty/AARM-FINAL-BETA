@@ -1,0 +1,28 @@
+{
+    "total_trades": 966,
+    "wins": 539,
+    "losses": 427,
+    "wr": 55.8,
+    "knowledge_stats": {
+        "DIGIT_5|CALL|3": {
+            "wins": 141,
+            "losses": 122,
+            "trades": 263
+        },
+        "DIGIT_1|PUT|3": {
+            "wins": 134,
+            "losses": 104,
+            "trades": 238
+        },
+        "DIGIT_6|CALL|4": {
+            "wins": 131,
+            "losses": 98,
+            "trades": 229
+        },
+        "DIGIT_3|PUT|4": {
+            "wins": 133,
+            "losses": 103,
+            "trades": 236
+        }
+    }
+}

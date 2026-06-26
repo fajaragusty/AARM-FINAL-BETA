@@ -1,0 +1,1684 @@
+{
+    "DDD|1": [
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 57.2,
+            "digit_score": 53.69,
+            "fusion_score": 55.45,
+            "pattern": "DDD",
+            "digit": "1",
+            "optimizer_score": 60.45
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 57.2,
+            "digit_score": 53.4,
+            "fusion_score": 55.3,
+            "pattern": "DDD",
+            "digit": "1",
+            "optimizer_score": 60.3
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 56.12,
+            "digit_score": 53.69,
+            "fusion_score": 54.91,
+            "pattern": "DDD",
+            "digit": "1",
+            "optimizer_score": 59.91
+        }
+    ],
+    "DDD|2": [
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "CALL",
+            "digit_direction": "CALL",
+            "pattern_score": 56.12,
+            "digit_score": 52.25,
+            "fusion_score": 54.19,
+            "pattern": "DDD",
+            "digit": "2",
+            "optimizer_score": 59.19
+        },
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "PUT",
+            "digit_direction": "CALL",
+            "pattern_score": 57.2,
+            "digit_score": 52.25,
+            "fusion_score": 54.73,
+            "pattern": "DDD",
+            "digit": "2",
+            "optimizer_score": 54.73
+        },
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "PUT",
+            "digit_direction": "CALL",
+            "pattern_score": 56.12,
+            "digit_score": 52.25,
+            "fusion_score": 54.19,
+            "pattern": "DDD",
+            "digit": "2",
+            "optimizer_score": 54.19
+        }
+    ],
+    "DDD|3": [
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 57.2,
+            "digit_score": 53.8,
+            "fusion_score": 55.5,
+            "pattern": "DDD",
+            "digit": "3",
+            "optimizer_score": 60.5
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 56.12,
+            "digit_score": 53.8,
+            "fusion_score": 54.96,
+            "pattern": "DDD",
+            "digit": "3",
+            "optimizer_score": 59.96
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 57.2,
+            "digit_score": 52.62,
+            "fusion_score": 54.91,
+            "pattern": "DDD",
+            "digit": "3",
+            "optimizer_score": 59.91
+        }
+    ],
+    "DDD|5": [
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 57.2,
+            "digit_score": 52.88,
+            "fusion_score": 55.04,
+            "pattern": "DDD",
+            "digit": "5",
+            "optimizer_score": 60.04
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "CALL",
+            "digit_direction": "CALL",
+            "pattern_score": 56.12,
+            "digit_score": 53.67,
+            "fusion_score": 54.9,
+            "pattern": "DDD",
+            "digit": "5",
+            "optimizer_score": 59.9
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 56.12,
+            "digit_score": 52.88,
+            "fusion_score": 54.5,
+            "pattern": "DDD",
+            "digit": "5",
+            "optimizer_score": 59.5
+        }
+    ],
+    "DDD|6": [
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "CALL",
+            "digit_direction": "CALL",
+            "pattern_score": 56.12,
+            "digit_score": 53.79,
+            "fusion_score": 54.96,
+            "pattern": "DDD",
+            "digit": "6",
+            "optimizer_score": 59.96
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "CALL",
+            "digit_direction": "CALL",
+            "pattern_score": 56.12,
+            "digit_score": 53.48,
+            "fusion_score": 54.8,
+            "pattern": "DDD",
+            "digit": "6",
+            "optimizer_score": 59.8
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "CALL",
+            "digit_direction": "CALL",
+            "pattern_score": 56.12,
+            "digit_score": 51.95,
+            "fusion_score": 54.04,
+            "pattern": "DDD",
+            "digit": "6",
+            "optimizer_score": 59.04
+        }
+    ],
+    "DDD|8": [
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 57.2,
+            "digit_score": 52.41,
+            "fusion_score": 54.81,
+            "pattern": "DDD",
+            "digit": "8",
+            "optimizer_score": 59.81
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 57.2,
+            "digit_score": 52.12,
+            "fusion_score": 54.66,
+            "pattern": "DDD",
+            "digit": "8",
+            "optimizer_score": 59.66
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 57.2,
+            "digit_score": 51.54,
+            "fusion_score": 54.37,
+            "pattern": "DDD",
+            "digit": "8",
+            "optimizer_score": 59.37
+        }
+    ],
+    "DDD|9": [
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 57.2,
+            "digit_score": 51.82,
+            "fusion_score": 54.51,
+            "pattern": "DDD",
+            "digit": "9",
+            "optimizer_score": 59.51
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 57.2,
+            "digit_score": 50.86,
+            "fusion_score": 54.03,
+            "pattern": "DDD",
+            "digit": "9",
+            "optimizer_score": 59.03
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 56.12,
+            "digit_score": 51.82,
+            "fusion_score": 53.97,
+            "pattern": "DDD",
+            "digit": "9",
+            "optimizer_score": 58.97
+        }
+    ],
+    "DDU|1": [
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 56.15,
+            "digit_score": 53.69,
+            "fusion_score": 54.92,
+            "pattern": "DDU",
+            "digit": "1",
+            "optimizer_score": 59.92
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 56.15,
+            "digit_score": 53.69,
+            "fusion_score": 54.92,
+            "pattern": "DDU",
+            "digit": "1",
+            "optimizer_score": 59.92
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 56.15,
+            "digit_score": 53.4,
+            "fusion_score": 54.78,
+            "pattern": "DDU",
+            "digit": "1",
+            "optimizer_score": 59.78
+        }
+    ],
+    "DDU|2": [
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "CALL",
+            "digit_direction": "CALL",
+            "pattern_score": 56.81,
+            "digit_score": 52.25,
+            "fusion_score": 54.53,
+            "pattern": "DDU",
+            "digit": "2",
+            "optimizer_score": 59.53
+        },
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "PUT",
+            "digit_direction": "CALL",
+            "pattern_score": 56.15,
+            "digit_score": 52.25,
+            "fusion_score": 54.2,
+            "pattern": "DDU",
+            "digit": "2",
+            "optimizer_score": 54.2
+        },
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "PUT",
+            "digit_direction": "CALL",
+            "pattern_score": 56.15,
+            "digit_score": 52.25,
+            "fusion_score": 54.2,
+            "pattern": "DDU",
+            "digit": "2",
+            "optimizer_score": 54.2
+        }
+    ],
+    "DDU|3": [
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 56.15,
+            "digit_score": 53.8,
+            "fusion_score": 54.98,
+            "pattern": "DDU",
+            "digit": "3",
+            "optimizer_score": 59.98
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 56.15,
+            "digit_score": 53.8,
+            "fusion_score": 54.98,
+            "pattern": "DDU",
+            "digit": "3",
+            "optimizer_score": 59.98
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 56.15,
+            "digit_score": 52.62,
+            "fusion_score": 54.39,
+            "pattern": "DDU",
+            "digit": "3",
+            "optimizer_score": 59.39
+        }
+    ],
+    "DDU|5": [
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "CALL",
+            "digit_direction": "CALL",
+            "pattern_score": 56.81,
+            "digit_score": 53.67,
+            "fusion_score": 55.24,
+            "pattern": "DDU",
+            "digit": "5",
+            "optimizer_score": 60.24
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 56.15,
+            "digit_score": 52.88,
+            "fusion_score": 54.52,
+            "pattern": "DDU",
+            "digit": "5",
+            "optimizer_score": 59.52
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 56.15,
+            "digit_score": 52.88,
+            "fusion_score": 54.52,
+            "pattern": "DDU",
+            "digit": "5",
+            "optimizer_score": 59.52
+        }
+    ],
+    "DDU|6": [
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "CALL",
+            "digit_direction": "CALL",
+            "pattern_score": 56.81,
+            "digit_score": 53.79,
+            "fusion_score": 55.3,
+            "pattern": "DDU",
+            "digit": "6",
+            "optimizer_score": 60.3
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "CALL",
+            "digit_direction": "CALL",
+            "pattern_score": 56.81,
+            "digit_score": 53.48,
+            "fusion_score": 55.15,
+            "pattern": "DDU",
+            "digit": "6",
+            "optimizer_score": 60.15
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "CALL",
+            "digit_direction": "CALL",
+            "pattern_score": 56.81,
+            "digit_score": 51.95,
+            "fusion_score": 54.38,
+            "pattern": "DDU",
+            "digit": "6",
+            "optimizer_score": 59.38
+        }
+    ],
+    "DDU|8": [
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 56.15,
+            "digit_score": 52.41,
+            "fusion_score": 54.28,
+            "pattern": "DDU",
+            "digit": "8",
+            "optimizer_score": 59.28
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 56.15,
+            "digit_score": 52.41,
+            "fusion_score": 54.28,
+            "pattern": "DDU",
+            "digit": "8",
+            "optimizer_score": 59.28
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 56.15,
+            "digit_score": 52.12,
+            "fusion_score": 54.14,
+            "pattern": "DDU",
+            "digit": "8",
+            "optimizer_score": 59.14
+        }
+    ],
+    "DDU|9": [
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 56.15,
+            "digit_score": 51.82,
+            "fusion_score": 53.99,
+            "pattern": "DDU",
+            "digit": "9",
+            "optimizer_score": 58.99
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 56.15,
+            "digit_score": 51.82,
+            "fusion_score": 53.99,
+            "pattern": "DDU",
+            "digit": "9",
+            "optimizer_score": 58.99
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 56.15,
+            "digit_score": 50.86,
+            "fusion_score": 53.51,
+            "pattern": "DDU",
+            "digit": "9",
+            "optimizer_score": 58.51
+        }
+    ],
+    "DUD|1": [
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 57.68,
+            "digit_score": 53.69,
+            "fusion_score": 55.69,
+            "pattern": "DUD",
+            "digit": "1",
+            "optimizer_score": 60.69
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 57.68,
+            "digit_score": 53.4,
+            "fusion_score": 55.54,
+            "pattern": "DUD",
+            "digit": "1",
+            "optimizer_score": 60.54
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 56.39,
+            "digit_score": 53.69,
+            "fusion_score": 55.04,
+            "pattern": "DUD",
+            "digit": "1",
+            "optimizer_score": 60.04
+        }
+    ],
+    "DUD|2": [
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "CALL",
+            "digit_direction": "CALL",
+            "pattern_score": 55.79,
+            "digit_score": 52.25,
+            "fusion_score": 54.02,
+            "pattern": "DUD",
+            "digit": "2",
+            "optimizer_score": 59.02
+        },
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "PUT",
+            "digit_direction": "CALL",
+            "pattern_score": 57.68,
+            "digit_score": 52.25,
+            "fusion_score": 54.97,
+            "pattern": "DUD",
+            "digit": "2",
+            "optimizer_score": 54.97
+        },
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "PUT",
+            "digit_direction": "CALL",
+            "pattern_score": 56.39,
+            "digit_score": 52.25,
+            "fusion_score": 54.32,
+            "pattern": "DUD",
+            "digit": "2",
+            "optimizer_score": 54.32
+        }
+    ],
+    "DUD|3": [
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 57.68,
+            "digit_score": 53.8,
+            "fusion_score": 55.74,
+            "pattern": "DUD",
+            "digit": "3",
+            "optimizer_score": 60.74
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 57.68,
+            "digit_score": 52.62,
+            "fusion_score": 55.15,
+            "pattern": "DUD",
+            "digit": "3",
+            "optimizer_score": 60.15
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 56.39,
+            "digit_score": 53.8,
+            "fusion_score": 55.1,
+            "pattern": "DUD",
+            "digit": "3",
+            "optimizer_score": 60.1
+        }
+    ],
+    "DUD|5": [
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 57.68,
+            "digit_score": 52.88,
+            "fusion_score": 55.28,
+            "pattern": "DUD",
+            "digit": "5",
+            "optimizer_score": 60.28
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "CALL",
+            "digit_direction": "CALL",
+            "pattern_score": 55.79,
+            "digit_score": 53.67,
+            "fusion_score": 54.73,
+            "pattern": "DUD",
+            "digit": "5",
+            "optimizer_score": 59.73
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 56.39,
+            "digit_score": 52.88,
+            "fusion_score": 54.64,
+            "pattern": "DUD",
+            "digit": "5",
+            "optimizer_score": 59.64
+        }
+    ],
+    "DUD|6": [
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "CALL",
+            "digit_direction": "CALL",
+            "pattern_score": 55.79,
+            "digit_score": 53.79,
+            "fusion_score": 54.79,
+            "pattern": "DUD",
+            "digit": "6",
+            "optimizer_score": 59.79
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "CALL",
+            "digit_direction": "CALL",
+            "pattern_score": 55.79,
+            "digit_score": 53.48,
+            "fusion_score": 54.64,
+            "pattern": "DUD",
+            "digit": "6",
+            "optimizer_score": 59.64
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "CALL",
+            "digit_direction": "CALL",
+            "pattern_score": 55.79,
+            "digit_score": 51.95,
+            "fusion_score": 53.87,
+            "pattern": "DUD",
+            "digit": "6",
+            "optimizer_score": 58.87
+        }
+    ],
+    "DUD|8": [
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 57.68,
+            "digit_score": 52.41,
+            "fusion_score": 55.05,
+            "pattern": "DUD",
+            "digit": "8",
+            "optimizer_score": 60.05
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 57.68,
+            "digit_score": 52.12,
+            "fusion_score": 54.9,
+            "pattern": "DUD",
+            "digit": "8",
+            "optimizer_score": 59.9
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 57.68,
+            "digit_score": 51.54,
+            "fusion_score": 54.61,
+            "pattern": "DUD",
+            "digit": "8",
+            "optimizer_score": 59.61
+        }
+    ],
+    "DUD|9": [
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 57.68,
+            "digit_score": 51.82,
+            "fusion_score": 54.75,
+            "pattern": "DUD",
+            "digit": "9",
+            "optimizer_score": 59.75
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 57.68,
+            "digit_score": 50.86,
+            "fusion_score": 54.27,
+            "pattern": "DUD",
+            "digit": "9",
+            "optimizer_score": 59.27
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 56.39,
+            "digit_score": 51.82,
+            "fusion_score": 54.11,
+            "pattern": "DUD",
+            "digit": "9",
+            "optimizer_score": 59.11
+        }
+    ],
+    "DUU|1": [
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 56.84,
+            "digit_score": 53.69,
+            "fusion_score": 55.27,
+            "pattern": "DUU",
+            "digit": "1",
+            "optimizer_score": 60.27
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 56.84,
+            "digit_score": 53.4,
+            "fusion_score": 55.12,
+            "pattern": "DUU",
+            "digit": "1",
+            "optimizer_score": 60.12
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 55.52,
+            "digit_score": 53.69,
+            "fusion_score": 54.61,
+            "pattern": "DUU",
+            "digit": "1",
+            "optimizer_score": 59.61
+        }
+    ],
+    "DUU|2": [
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "PUT",
+            "digit_direction": "CALL",
+            "pattern_score": 56.84,
+            "digit_score": 52.25,
+            "fusion_score": 54.55,
+            "pattern": "DUU",
+            "digit": "2",
+            "optimizer_score": 54.55
+        },
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "PUT",
+            "digit_direction": "CALL",
+            "pattern_score": 55.52,
+            "digit_score": 52.25,
+            "fusion_score": 53.89,
+            "pattern": "DUU",
+            "digit": "2",
+            "optimizer_score": 53.89
+        }
+    ],
+    "DUU|3": [
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 56.84,
+            "digit_score": 53.8,
+            "fusion_score": 55.32,
+            "pattern": "DUU",
+            "digit": "3",
+            "optimizer_score": 60.32
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 56.84,
+            "digit_score": 52.62,
+            "fusion_score": 54.73,
+            "pattern": "DUU",
+            "digit": "3",
+            "optimizer_score": 59.73
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 55.52,
+            "digit_score": 53.8,
+            "fusion_score": 54.66,
+            "pattern": "DUU",
+            "digit": "3",
+            "optimizer_score": 59.66
+        }
+    ],
+    "DUU|5": [
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 56.84,
+            "digit_score": 52.88,
+            "fusion_score": 54.86,
+            "pattern": "DUU",
+            "digit": "5",
+            "optimizer_score": 59.86
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 56.84,
+            "digit_score": 51.56,
+            "fusion_score": 54.2,
+            "pattern": "DUU",
+            "digit": "5",
+            "optimizer_score": 59.2
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 55.52,
+            "digit_score": 52.88,
+            "fusion_score": 54.2,
+            "pattern": "DUU",
+            "digit": "5",
+            "optimizer_score": 59.2
+        }
+    ],
+    "DUU|6": [
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "PUT",
+            "digit_direction": "CALL",
+            "pattern_score": 56.84,
+            "digit_score": 53.79,
+            "fusion_score": 55.32,
+            "pattern": "DUU",
+            "digit": "6",
+            "optimizer_score": 55.32
+        },
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "PUT",
+            "digit_direction": "CALL",
+            "pattern_score": 56.84,
+            "digit_score": 53.48,
+            "fusion_score": 55.16,
+            "pattern": "DUU",
+            "digit": "6",
+            "optimizer_score": 55.16
+        },
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "PUT",
+            "digit_direction": "CALL",
+            "pattern_score": 55.52,
+            "digit_score": 53.79,
+            "fusion_score": 54.66,
+            "pattern": "DUU",
+            "digit": "6",
+            "optimizer_score": 54.66
+        }
+    ],
+    "DUU|8": [
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 56.84,
+            "digit_score": 52.41,
+            "fusion_score": 54.63,
+            "pattern": "DUU",
+            "digit": "8",
+            "optimizer_score": 59.63
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 56.84,
+            "digit_score": 52.12,
+            "fusion_score": 54.48,
+            "pattern": "DUU",
+            "digit": "8",
+            "optimizer_score": 59.48
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 56.84,
+            "digit_score": 51.54,
+            "fusion_score": 54.19,
+            "pattern": "DUU",
+            "digit": "8",
+            "optimizer_score": 59.19
+        }
+    ],
+    "DUU|9": [
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 56.84,
+            "digit_score": 51.82,
+            "fusion_score": 54.33,
+            "pattern": "DUU",
+            "digit": "9",
+            "optimizer_score": 59.33
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 56.84,
+            "digit_score": 50.86,
+            "fusion_score": 53.85,
+            "pattern": "DUU",
+            "digit": "9",
+            "optimizer_score": 58.85
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 55.52,
+            "digit_score": 51.82,
+            "fusion_score": 53.67,
+            "pattern": "DUU",
+            "digit": "9",
+            "optimizer_score": 58.67
+        }
+    ],
+    "UDD|1": [
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 59.1,
+            "digit_score": 53.69,
+            "fusion_score": 56.4,
+            "pattern": "UDD",
+            "digit": "1",
+            "optimizer_score": 61.4
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 59.1,
+            "digit_score": 53.4,
+            "fusion_score": 56.25,
+            "pattern": "UDD",
+            "digit": "1",
+            "optimizer_score": 61.25
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 59.1,
+            "digit_score": 52.22,
+            "fusion_score": 55.66,
+            "pattern": "UDD",
+            "digit": "1",
+            "optimizer_score": 60.66
+        }
+    ],
+    "UDD|2": [
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "PUT",
+            "digit_direction": "CALL",
+            "pattern_score": 59.1,
+            "digit_score": 52.25,
+            "fusion_score": 55.68,
+            "pattern": "UDD",
+            "digit": "2",
+            "optimizer_score": 55.68
+        },
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "PUT",
+            "digit_direction": "CALL",
+            "pattern_score": 55.6,
+            "digit_score": 52.25,
+            "fusion_score": 53.93,
+            "pattern": "UDD",
+            "digit": "2",
+            "optimizer_score": 53.93
+        },
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "PUT",
+            "digit_direction": "CALL",
+            "pattern_score": 54.7,
+            "digit_score": 52.25,
+            "fusion_score": 53.48,
+            "pattern": "UDD",
+            "digit": "2",
+            "optimizer_score": 53.48
+        }
+    ],
+    "UDD|3": [
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 59.1,
+            "digit_score": 53.8,
+            "fusion_score": 56.45,
+            "pattern": "UDD",
+            "digit": "3",
+            "optimizer_score": 61.45
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 59.1,
+            "digit_score": 52.62,
+            "fusion_score": 55.86,
+            "pattern": "UDD",
+            "digit": "3",
+            "optimizer_score": 60.86
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 59.1,
+            "digit_score": 52.03,
+            "fusion_score": 55.57,
+            "pattern": "UDD",
+            "digit": "3",
+            "optimizer_score": 60.57
+        }
+    ],
+    "UDD|5": [
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 59.1,
+            "digit_score": 52.88,
+            "fusion_score": 55.99,
+            "pattern": "UDD",
+            "digit": "5",
+            "optimizer_score": 60.99
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 59.1,
+            "digit_score": 51.56,
+            "fusion_score": 55.33,
+            "pattern": "UDD",
+            "digit": "5",
+            "optimizer_score": 60.33
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 59.1,
+            "digit_score": 51.03,
+            "fusion_score": 55.07,
+            "pattern": "UDD",
+            "digit": "5",
+            "optimizer_score": 60.07
+        }
+    ],
+    "UDD|6": [
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "PUT",
+            "digit_direction": "CALL",
+            "pattern_score": 59.1,
+            "digit_score": 53.79,
+            "fusion_score": 56.45,
+            "pattern": "UDD",
+            "digit": "6",
+            "optimizer_score": 56.45
+        },
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "PUT",
+            "digit_direction": "CALL",
+            "pattern_score": 59.1,
+            "digit_score": 53.48,
+            "fusion_score": 56.29,
+            "pattern": "UDD",
+            "digit": "6",
+            "optimizer_score": 56.29
+        },
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "PUT",
+            "digit_direction": "CALL",
+            "pattern_score": 59.1,
+            "digit_score": 51.95,
+            "fusion_score": 55.53,
+            "pattern": "UDD",
+            "digit": "6",
+            "optimizer_score": 55.53
+        }
+    ],
+    "UDD|8": [
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 59.1,
+            "digit_score": 52.41,
+            "fusion_score": 55.76,
+            "pattern": "UDD",
+            "digit": "8",
+            "optimizer_score": 60.76
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 59.1,
+            "digit_score": 52.12,
+            "fusion_score": 55.61,
+            "pattern": "UDD",
+            "digit": "8",
+            "optimizer_score": 60.61
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 59.1,
+            "digit_score": 51.54,
+            "fusion_score": 55.32,
+            "pattern": "UDD",
+            "digit": "8",
+            "optimizer_score": 60.32
+        }
+    ],
+    "UDD|9": [
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 59.1,
+            "digit_score": 51.82,
+            "fusion_score": 55.46,
+            "pattern": "UDD",
+            "digit": "9",
+            "optimizer_score": 60.46
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 59.1,
+            "digit_score": 50.86,
+            "fusion_score": 54.98,
+            "pattern": "UDD",
+            "digit": "9",
+            "optimizer_score": 59.98
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "PUT",
+            "digit_direction": "PUT",
+            "pattern_score": 55.6,
+            "digit_score": 51.82,
+            "fusion_score": 53.71,
+            "pattern": "UDD",
+            "digit": "9",
+            "optimizer_score": 58.71
+        }
+    ],
+    "UUD|1": [
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "CALL",
+            "digit_direction": "PUT",
+            "pattern_score": 56.19,
+            "digit_score": 53.69,
+            "fusion_score": 54.94,
+            "pattern": "UUD",
+            "digit": "1",
+            "optimizer_score": 54.94
+        },
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "CALL",
+            "digit_direction": "PUT",
+            "pattern_score": 56.19,
+            "digit_score": 53.4,
+            "fusion_score": 54.8,
+            "pattern": "UUD",
+            "digit": "1",
+            "optimizer_score": 54.8
+        },
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "CALL",
+            "digit_direction": "PUT",
+            "pattern_score": 54.86,
+            "digit_score": 53.69,
+            "fusion_score": 54.28,
+            "pattern": "UUD",
+            "digit": "1",
+            "optimizer_score": 54.28
+        }
+    ],
+    "UUD|2": [
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "CALL",
+            "digit_direction": "CALL",
+            "pattern_score": 56.19,
+            "digit_score": 52.25,
+            "fusion_score": 54.22,
+            "pattern": "UUD",
+            "digit": "2",
+            "optimizer_score": 59.22
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "CALL",
+            "digit_direction": "CALL",
+            "pattern_score": 54.86,
+            "digit_score": 52.25,
+            "fusion_score": 53.56,
+            "pattern": "UUD",
+            "digit": "2",
+            "optimizer_score": 58.56
+        }
+    ],
+    "UUD|3": [
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "CALL",
+            "digit_direction": "PUT",
+            "pattern_score": 56.19,
+            "digit_score": 53.8,
+            "fusion_score": 55,
+            "pattern": "UUD",
+            "digit": "3",
+            "optimizer_score": 55
+        },
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "CALL",
+            "digit_direction": "PUT",
+            "pattern_score": 56.19,
+            "digit_score": 52.62,
+            "fusion_score": 54.41,
+            "pattern": "UUD",
+            "digit": "3",
+            "optimizer_score": 54.41
+        },
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "CALL",
+            "digit_direction": "PUT",
+            "pattern_score": 54.86,
+            "digit_score": 53.8,
+            "fusion_score": 54.33,
+            "pattern": "UUD",
+            "digit": "3",
+            "optimizer_score": 54.33
+        }
+    ],
+    "UUD|5": [
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "CALL",
+            "digit_direction": "CALL",
+            "pattern_score": 56.19,
+            "digit_score": 53.67,
+            "fusion_score": 54.93,
+            "pattern": "UUD",
+            "digit": "5",
+            "optimizer_score": 59.93
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "CALL",
+            "digit_direction": "CALL",
+            "pattern_score": 54.86,
+            "digit_score": 53.67,
+            "fusion_score": 54.27,
+            "pattern": "UUD",
+            "digit": "5",
+            "optimizer_score": 59.27
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "CALL",
+            "digit_direction": "CALL",
+            "pattern_score": 56.19,
+            "digit_score": 51.82,
+            "fusion_score": 54.01,
+            "pattern": "UUD",
+            "digit": "5",
+            "optimizer_score": 59.01
+        }
+    ],
+    "UUD|6": [
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "CALL",
+            "digit_direction": "CALL",
+            "pattern_score": 56.19,
+            "digit_score": 53.79,
+            "fusion_score": 54.99,
+            "pattern": "UUD",
+            "digit": "6",
+            "optimizer_score": 59.99
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "CALL",
+            "digit_direction": "CALL",
+            "pattern_score": 56.19,
+            "digit_score": 53.48,
+            "fusion_score": 54.84,
+            "pattern": "UUD",
+            "digit": "6",
+            "optimizer_score": 59.84
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "CALL",
+            "digit_direction": "CALL",
+            "pattern_score": 54.86,
+            "digit_score": 53.79,
+            "fusion_score": 54.33,
+            "pattern": "UUD",
+            "digit": "6",
+            "optimizer_score": 59.33
+        }
+    ],
+    "UUD|8": [
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "CALL",
+            "digit_direction": "PUT",
+            "pattern_score": 56.19,
+            "digit_score": 52.41,
+            "fusion_score": 54.3,
+            "pattern": "UUD",
+            "digit": "8",
+            "optimizer_score": 54.3
+        },
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "CALL",
+            "digit_direction": "PUT",
+            "pattern_score": 56.19,
+            "digit_score": 52.12,
+            "fusion_score": 54.16,
+            "pattern": "UUD",
+            "digit": "8",
+            "optimizer_score": 54.16
+        },
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "CALL",
+            "digit_direction": "PUT",
+            "pattern_score": 56.19,
+            "digit_score": 51.54,
+            "fusion_score": 53.87,
+            "pattern": "UUD",
+            "digit": "8",
+            "optimizer_score": 53.87
+        }
+    ],
+    "UUD|9": [
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "CALL",
+            "digit_direction": "PUT",
+            "pattern_score": 56.19,
+            "digit_score": 51.82,
+            "fusion_score": 54.01,
+            "pattern": "UUD",
+            "digit": "9",
+            "optimizer_score": 54.01
+        },
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "CALL",
+            "digit_direction": "PUT",
+            "pattern_score": 56.19,
+            "digit_score": 50.86,
+            "fusion_score": 53.53,
+            "pattern": "UUD",
+            "digit": "9",
+            "optimizer_score": 53.53
+        },
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "CALL",
+            "digit_direction": "PUT",
+            "pattern_score": 54.86,
+            "digit_score": 51.82,
+            "fusion_score": 53.34,
+            "pattern": "UUD",
+            "digit": "9",
+            "optimizer_score": 53.34
+        }
+    ],
+    "UUU|1": [
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "CALL",
+            "digit_direction": "PUT",
+            "pattern_score": 57.03,
+            "digit_score": 53.69,
+            "fusion_score": 55.36,
+            "pattern": "UUU",
+            "digit": "1",
+            "optimizer_score": 55.36
+        },
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "CALL",
+            "digit_direction": "PUT",
+            "pattern_score": 57.03,
+            "digit_score": 53.4,
+            "fusion_score": 55.22,
+            "pattern": "UUU",
+            "digit": "1",
+            "optimizer_score": 55.22
+        },
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "CALL",
+            "digit_direction": "PUT",
+            "pattern_score": 57.03,
+            "digit_score": 52.22,
+            "fusion_score": 54.63,
+            "pattern": "UUU",
+            "digit": "1",
+            "optimizer_score": 54.63
+        }
+    ],
+    "UUU|2": [
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "CALL",
+            "digit_direction": "CALL",
+            "pattern_score": 57.03,
+            "digit_score": 52.25,
+            "fusion_score": 54.64,
+            "pattern": "UUU",
+            "digit": "2",
+            "optimizer_score": 59.64
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "CALL",
+            "digit_direction": "CALL",
+            "pattern_score": 55.09,
+            "digit_score": 52.25,
+            "fusion_score": 53.67,
+            "pattern": "UUU",
+            "digit": "2",
+            "optimizer_score": 58.67
+        }
+    ],
+    "UUU|3": [
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "CALL",
+            "digit_direction": "PUT",
+            "pattern_score": 57.03,
+            "digit_score": 53.8,
+            "fusion_score": 55.42,
+            "pattern": "UUU",
+            "digit": "3",
+            "optimizer_score": 55.42
+        },
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "CALL",
+            "digit_direction": "PUT",
+            "pattern_score": 57.03,
+            "digit_score": 52.62,
+            "fusion_score": 54.83,
+            "pattern": "UUU",
+            "digit": "3",
+            "optimizer_score": 54.83
+        },
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "CALL",
+            "digit_direction": "PUT",
+            "pattern_score": 57.03,
+            "digit_score": 52.03,
+            "fusion_score": 54.53,
+            "pattern": "UUU",
+            "digit": "3",
+            "optimizer_score": 54.53
+        }
+    ],
+    "UUU|5": [
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "CALL",
+            "digit_direction": "CALL",
+            "pattern_score": 57.03,
+            "digit_score": 53.67,
+            "fusion_score": 55.35,
+            "pattern": "UUU",
+            "digit": "5",
+            "optimizer_score": 60.35
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "CALL",
+            "digit_direction": "CALL",
+            "pattern_score": 57.03,
+            "digit_score": 51.82,
+            "fusion_score": 54.43,
+            "pattern": "UUU",
+            "digit": "5",
+            "optimizer_score": 59.43
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "CALL",
+            "digit_direction": "CALL",
+            "pattern_score": 55.09,
+            "digit_score": 53.67,
+            "fusion_score": 54.38,
+            "pattern": "UUU",
+            "digit": "5",
+            "optimizer_score": 59.38
+        }
+    ],
+    "UUU|6": [
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "CALL",
+            "digit_direction": "CALL",
+            "pattern_score": 57.03,
+            "digit_score": 53.79,
+            "fusion_score": 55.41,
+            "pattern": "UUU",
+            "digit": "6",
+            "optimizer_score": 60.41
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "CALL",
+            "digit_direction": "CALL",
+            "pattern_score": 57.03,
+            "digit_score": 53.48,
+            "fusion_score": 55.26,
+            "pattern": "UUU",
+            "digit": "6",
+            "optimizer_score": 60.26
+        },
+        {
+            "status": "AGREEMENT",
+            "pattern_direction": "CALL",
+            "digit_direction": "CALL",
+            "pattern_score": 57.03,
+            "digit_score": 51.95,
+            "fusion_score": 54.49,
+            "pattern": "UUU",
+            "digit": "6",
+            "optimizer_score": 59.49
+        }
+    ],
+    "UUU|8": [
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "CALL",
+            "digit_direction": "PUT",
+            "pattern_score": 57.03,
+            "digit_score": 52.41,
+            "fusion_score": 54.72,
+            "pattern": "UUU",
+            "digit": "8",
+            "optimizer_score": 54.72
+        },
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "CALL",
+            "digit_direction": "PUT",
+            "pattern_score": 57.03,
+            "digit_score": 52.12,
+            "fusion_score": 54.58,
+            "pattern": "UUU",
+            "digit": "8",
+            "optimizer_score": 54.58
+        },
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "CALL",
+            "digit_direction": "PUT",
+            "pattern_score": 57.03,
+            "digit_score": 51.54,
+            "fusion_score": 54.29,
+            "pattern": "UUU",
+            "digit": "8",
+            "optimizer_score": 54.29
+        }
+    ],
+    "UUU|9": [
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "CALL",
+            "digit_direction": "PUT",
+            "pattern_score": 57.03,
+            "digit_score": 51.82,
+            "fusion_score": 54.43,
+            "pattern": "UUU",
+            "digit": "9",
+            "optimizer_score": 54.43
+        },
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "CALL",
+            "digit_direction": "PUT",
+            "pattern_score": 57.03,
+            "digit_score": 50.86,
+            "fusion_score": 53.95,
+            "pattern": "UUU",
+            "digit": "9",
+            "optimizer_score": 53.95
+        },
+        {
+            "status": "CONFLICT",
+            "pattern_direction": "CALL",
+            "digit_direction": "PUT",
+            "pattern_score": 55.09,
+            "digit_score": 51.82,
+            "fusion_score": 53.46,
+            "pattern": "UUU",
+            "digit": "9",
+            "optimizer_score": 53.46
+        }
+    ]
+}

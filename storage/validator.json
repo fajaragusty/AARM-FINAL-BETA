@@ -1,0 +1,74 @@
+{
+    "generated_at": 1782450692,
+    "collector": {
+        "alive": true,
+        "status": "OFFLINE",
+        "delay": 60524,
+        "tick_count": 10000,
+        "last_tick_time": 1782390168,
+        "last_price": 2553.84
+    },
+    "research": {
+        "alive": false,
+        "status": "OFFLINE",
+        "updated": 38904,
+        "engines": [
+            {
+                "file": "trend_research.json",
+                "status": "OFFLINE",
+                "delay": 38904,
+                "records": 1
+            },
+            {
+                "file": "pattern_research.json",
+                "status": "OFFLINE",
+                "delay": null,
+                "records": 0
+            },
+            {
+                "file": "digit_research.json",
+                "status": "OFFLINE",
+                "delay": null,
+                "records": 0
+            },
+            {
+                "file": "indicator_research.json",
+                "status": "OFFLINE",
+                "delay": null,
+                "records": 0
+            },
+            {
+                "file": "hybrid_research.json",
+                "status": "OFFLINE",
+                "delay": null,
+                "records": 0
+            }
+        ]
+    },
+    "knowledge": {
+        "alive": true,
+        "status": "OFFLINE",
+        "delay": 52822,
+        "records": 8,
+        "optimizer_records": 0
+    },
+    "brain": {
+        "alive": true,
+        "status": "OFFLINE",
+        "delay": 51195,
+        "decision": "WAIT",
+        "confidence": 51.29,
+        "fitness": 55.2,
+        "risk": "HIGH",
+        "consensus": "-",
+        "dna": "-",
+        "reason_count": 4,
+        "quality": "LOW"
+    },
+    "dna": {
+        "alive": true,
+        "status": "OFFLINE",
+        "delay": 50789,
+        "records": 14
+    }
+}

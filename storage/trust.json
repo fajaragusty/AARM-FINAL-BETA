@@ -1,0 +1,42 @@
+{
+    "UUU": {
+        "trust": 52.82,
+        "status": "NEUTRAL",
+        "total": 248
+    },
+    "UUD": {
+        "trust": 49.39,
+        "status": "NEUTRAL",
+        "total": 245
+    },
+    "UDD": {
+        "trust": 58.06,
+        "status": "GOOD",
+        "total": 248
+    },
+    "DDU": {
+        "trust": 52.42,
+        "status": "NEUTRAL",
+        "total": 248
+    },
+    "DUD": {
+        "trust": 54.41,
+        "status": "NEUTRAL",
+        "total": 272
+    },
+    "UDU": {
+        "trust": 47.58,
+        "status": "NEUTRAL",
+        "total": 269
+    },
+    "DDD": {
+        "trust": 49.81,
+        "status": "NEUTRAL",
+        "total": 259
+    },
+    "DUU": {
+        "trust": 46.94,
+        "status": "NEUTRAL",
+        "total": 245
+    }
+}

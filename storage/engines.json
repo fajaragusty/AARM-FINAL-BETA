@@ -1,0 +1,19 @@
+{
+  "direction": {
+    "trust": 50,
+    "wins": 0,
+    "losses": 0
+  },
+
+  "digit": {
+    "trust": 50,
+    "wins": 0,
+    "losses": 0
+  },
+
+  "hybrid": {
+    "trust": 50,
+    "wins": 0,
+    "losses": 0
+  }
+}

@@ -1,0 +1,258 @@
+{
+    "DDD": [
+        {
+            "pattern": "DDD",
+            "direction": "PUT",
+            "duration": 5,
+            "win": 138,
+            "loss": 123,
+            "samples": 261,
+            "wr": 52.87,
+            "optimizer_score": 64.65
+        },
+        {
+            "pattern": "DDD",
+            "direction": "PUT",
+            "duration": 4,
+            "win": 135,
+            "loss": 126,
+            "samples": 261,
+            "wr": 51.72,
+            "optimizer_score": 63.79
+        },
+        {
+            "pattern": "DDD",
+            "direction": "PUT",
+            "duration": 1,
+            "win": 134,
+            "loss": 127,
+            "samples": 261,
+            "wr": 51.34,
+            "optimizer_score": 63.51
+        }
+    ],
+    "DDU": [
+        {
+            "pattern": "DDU",
+            "direction": "PUT",
+            "duration": 1,
+            "win": 135,
+            "loss": 116,
+            "samples": 251,
+            "wr": 53.78,
+            "optimizer_score": 65.34
+        },
+        {
+            "pattern": "DDU",
+            "direction": "PUT",
+            "duration": 4,
+            "win": 133,
+            "loss": 118,
+            "samples": 251,
+            "wr": 52.99,
+            "optimizer_score": 64.74
+        },
+        {
+            "pattern": "DDU",
+            "direction": "PUT",
+            "duration": 3,
+            "win": 132,
+            "loss": 119,
+            "samples": 251,
+            "wr": 52.59,
+            "optimizer_score": 64.44
+        }
+    ],
+    "DUD": [
+        {
+            "pattern": "DUD",
+            "direction": "PUT",
+            "duration": 3,
+            "win": 150,
+            "loss": 126,
+            "samples": 276,
+            "wr": 54.35,
+            "optimizer_score": 65.76
+        },
+        {
+            "pattern": "DUD",
+            "direction": "PUT",
+            "duration": 4,
+            "win": 144,
+            "loss": 132,
+            "samples": 276,
+            "wr": 52.17,
+            "optimizer_score": 64.13
+        },
+        {
+            "pattern": "DUD",
+            "direction": "PUT",
+            "duration": 5,
+            "win": 143,
+            "loss": 133,
+            "samples": 276,
+            "wr": 51.81,
+            "optimizer_score": 63.86
+        }
+    ],
+    "DUU": [
+        {
+            "pattern": "DUU",
+            "direction": "PUT",
+            "duration": 3,
+            "win": 130,
+            "loss": 118,
+            "samples": 248,
+            "wr": 52.42,
+            "optimizer_score": 64.12
+        },
+        {
+            "pattern": "DUU",
+            "direction": "CALL",
+            "duration": 5,
+            "win": 129,
+            "loss": 119,
+            "samples": 248,
+            "wr": 52.02,
+            "optimizer_score": 63.82
+        },
+        {
+            "pattern": "DUU",
+            "direction": "PUT",
+            "duration": 4,
+            "win": 129,
+            "loss": 119,
+            "samples": 248,
+            "wr": 52.02,
+            "optimizer_score": 63.82
+        }
+    ],
+    "UDD": [
+        {
+            "pattern": "UDD",
+            "direction": "PUT",
+            "duration": 3,
+            "win": 147,
+            "loss": 104,
+            "samples": 251,
+            "wr": 58.57,
+            "optimizer_score": 68.93
+        },
+        {
+            "pattern": "UDD",
+            "direction": "PUT",
+            "duration": 2,
+            "win": 133,
+            "loss": 118,
+            "samples": 251,
+            "wr": 52.99,
+            "optimizer_score": 64.74
+        },
+        {
+            "pattern": "UDD",
+            "direction": "PUT",
+            "duration": 4,
+            "win": 130,
+            "loss": 121,
+            "samples": 251,
+            "wr": 51.79,
+            "optimizer_score": 63.84
+        }
+    ],
+    "UDU": [
+        {
+            "pattern": "UDU",
+            "direction": "PUT",
+            "duration": 4,
+            "win": 146,
+            "loss": 128,
+            "samples": 274,
+            "wr": 53.28,
+            "optimizer_score": 64.96
+        },
+        {
+            "pattern": "UDU",
+            "direction": "PUT",
+            "duration": 3,
+            "win": 142,
+            "loss": 132,
+            "samples": 274,
+            "wr": 51.82,
+            "optimizer_score": 63.87
+        },
+        {
+            "pattern": "UDU",
+            "direction": "PUT",
+            "duration": 5,
+            "win": 141,
+            "loss": 133,
+            "samples": 274,
+            "wr": 51.46,
+            "optimizer_score": 63.6
+        }
+    ],
+    "UUD": [
+        {
+            "pattern": "UUD",
+            "direction": "CALL",
+            "duration": 1,
+            "win": 135,
+            "loss": 114,
+            "samples": 249,
+            "wr": 54.22,
+            "optimizer_score": 65.57
+        },
+        {
+            "pattern": "UUD",
+            "direction": "CALL",
+            "duration": 2,
+            "win": 133,
+            "loss": 116,
+            "samples": 249,
+            "wr": 53.41,
+            "optimizer_score": 64.96
+        },
+        {
+            "pattern": "UUD",
+            "direction": "CALL",
+            "duration": 4,
+            "win": 125,
+            "loss": 124,
+            "samples": 249,
+            "wr": 50.2,
+            "optimizer_score": 62.55
+        }
+    ],
+    "UUU": [
+        {
+            "pattern": "UUU",
+            "direction": "CALL",
+            "duration": 4,
+            "win": 139,
+            "loss": 118,
+            "samples": 257,
+            "wr": 54.09,
+            "optimizer_score": 65.57
+        },
+        {
+            "pattern": "UUU",
+            "direction": "CALL",
+            "duration": 3,
+            "win": 136,
+            "loss": 121,
+            "samples": 257,
+            "wr": 52.92,
+            "optimizer_score": 64.69
+        },
+        {
+            "pattern": "UUU",
+            "direction": "CALL",
+            "duration": 1,
+            "win": 135,
+            "loss": 122,
+            "samples": 257,
+            "wr": 52.53,
+            "optimizer_score": 64.4
+        }
+    ]
+}

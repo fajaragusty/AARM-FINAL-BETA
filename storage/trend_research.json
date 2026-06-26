@@ -1,0 +1,22 @@
+[
+    {
+        "pattern": "SIDEWAYS|RANGING|BULLISH|EMA0",
+        "trend": "SIDEWAYS",
+        "market_state": "RANGING",
+        "rsi_zone": "BULLISH",
+        "ema_alignment": false,
+        "brain_support": 0,
+        "feedback_score": 11,
+        "samples": 17,
+        "win": 11,
+        "loss": 6,
+        "wr": 64.71,
+        "trust": 46.32,
+        "confidence": 55.52,
+        "survival": "DISCOVERED",
+        "knowledge": "LEARNING",
+        "research_age": 1,
+        "elite": false,
+        "updated_at": "2026-06-26 01:23:08"
+    }
+]

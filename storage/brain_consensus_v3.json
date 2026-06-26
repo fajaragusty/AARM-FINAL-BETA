@@ -1,0 +1,33 @@
+{
+    "time": "2026-06-25 05:31:18",
+    "decision": "WAIT",
+    "confidence": 51.19,
+    "confidence_level": "LOW",
+    "call_weight": 30.65,
+    "put_weight": 32.14,
+    "delta": 1.49,
+    "winner_side": "PUT",
+    "consensus_reason": "CONFLICT_WAIT",
+    "brains": [
+        {
+            "brain": "PATTERN",
+            "key": "TOP10_AGGREGATED",
+            "vote": "PUT",
+            "score": 53.56,
+            "status": "UNPROVEN",
+            "weight": 0.6,
+            "final": 32.14,
+            "reason": "Pattern knowledge selected"
+        },
+        {
+            "brain": "DIGIT",
+            "key": "TOP10_AGGREGATED",
+            "vote": "CALL",
+            "score": 51.08,
+            "status": "UNPROVEN",
+            "weight": 0.6,
+            "final": 30.65,
+            "reason": "Digit knowledge selected"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "time": "2026-06-25 16:58:17",
+    "dna_id": "4ff1dcf8ea147e1ce0a09b0568935f13",
+    "decision": "WAIT",
+    "status": "WAIT",
+    "direction": "WAIT",
+    "duration": 3,
+    "expected_wr": 51.29,
+    "fitness": 55.2,
+    "confidence": 51.29,
+    "trust": 57.83,
+    "brain_score": 54.16,
+    "dna_quality": "D",
+    "risk": "HIGH",
+    "reason": [
+        "DNA_STATUS",
+        "DNA_WAIT",
+        "LOW_FITNESS",
+        "LOW_CONFIDENCE"
+    ],
+    "scorecard": {
+        "pattern": 58.57,
+        "context": 58.57,
+        "digit": 53.96,
+        "last2": 80.95,
+        "fusion": 56.45,
+        "call_vote": 1,
+        "put_vote": 3
+    },
+    "execution": {
+        "direction": "WAIT",
+        "duration": 3,
+        "expected_wr": 51.29
+    }
+}

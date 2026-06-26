@@ -1,0 +1,65 @@
+{
+    "PATTERN:DDD": {
+        "key": "PATTERN:DDD",
+        "win": 0,
+        "loss": 1,
+        "total": 1,
+        "trust": 0
+    },
+    "PATTERN_DIR:DDD|PUT": {
+        "key": "PATTERN_DIR:DDD|PUT",
+        "win": 0,
+        "loss": 1,
+        "total": 1,
+        "trust": 0
+    },
+    "DIGIT:7": {
+        "key": "DIGIT:7",
+        "win": 0,
+        "loss": 1,
+        "total": 1,
+        "trust": 0
+    },
+    "LAST2:27": {
+        "key": "LAST2:27",
+        "win": 0,
+        "loss": 1,
+        "total": 1,
+        "trust": 0
+    },
+    "TREND:SIDEWAYS": {
+        "key": "TREND:SIDEWAYS",
+        "win": 0,
+        "loss": 1,
+        "total": 1,
+        "trust": 0
+    },
+    "MARKET:RANGING": {
+        "key": "MARKET:RANGING",
+        "win": 0,
+        "loss": 1,
+        "total": 1,
+        "trust": 0
+    },
+    "PATTERN_TREND:DDD|SIDEWAYS": {
+        "key": "PATTERN_TREND:DDD|SIDEWAYS",
+        "win": 0,
+        "loss": 1,
+        "total": 1,
+        "trust": 0
+    },
+    "PATTERN_MARKET:DDD|RANGING": {
+        "key": "PATTERN_MARKET:DDD|RANGING",
+        "win": 0,
+        "loss": 1,
+        "total": 1,
+        "trust": 0
+    },
+    "PATTERN_DIGIT:DDD|7": {
+        "key": "PATTERN_DIGIT:DDD|7",
+        "win": 0,
+        "loss": 1,
+        "total": 1,
+        "trust": 0
+    }
+}

@@ -1,0 +1,90 @@
+[
+    {
+        "time": "2026-06-24 20:33:10",
+        "timestamp": 1782325990,
+        "signal_time": 1782313834,
+        "pattern": "UDU",
+        "direction": "CALL",
+        "digit": "4",
+        "last2": "24",
+        "hour": "17",
+        "rsi": 50,
+        "trend": "SIDEWAYS",
+        "momentum": "FLAT",
+        "market_state": "RANGING",
+        "ema9": 0,
+        "ema21": 0,
+        "confidence": 58.06,
+        "entry_price": 2581.624,
+        "result": "WIN",
+        "brain_decision": "WAIT",
+        "winner_side": "PUT",
+        "brain_confidence": 51.19,
+        "brains": [
+            {
+                "brain": "PATTERN",
+                "key": "TOP10_AGGREGATED",
+                "vote": "PUT",
+                "score": 53.56,
+                "status": "UNPROVEN",
+                "weight": 0.6,
+                "final": 32.14,
+                "reason": "Pattern knowledge selected"
+            },
+            {
+                "brain": "DIGIT",
+                "key": "TOP10_AGGREGATED",
+                "vote": "CALL",
+                "score": 51.08,
+                "status": "UNPROVEN",
+                "weight": 0.6,
+                "final": 30.65,
+                "reason": "Digit knowledge selected"
+            }
+        ]
+    },
+    {
+        "time": "2026-06-25 14:22:39",
+        "timestamp": 1782390159,
+        "signal_time": 1782313834,
+        "pattern": "UDU",
+        "direction": "CALL",
+        "digit": "4",
+        "last2": "24",
+        "hour": "17",
+        "rsi": 50,
+        "trend": "SIDEWAYS",
+        "momentum": "FLAT",
+        "market_state": "RANGING",
+        "ema9": 0,
+        "ema21": 0,
+        "confidence": 58.06,
+        "entry_price": 2581.624,
+        "result": "LOSS",
+        "brain_decision": "WAIT",
+        "winner_side": "PUT",
+        "brain_confidence": 51.19,
+        "brains": [
+            {
+                "brain": "PATTERN",
+                "key": "TOP10_AGGREGATED",
+                "vote": "PUT",
+                "score": 53.56,
+                "status": "UNPROVEN",
+                "weight": 0.6,
+                "final": 32.14,
+                "reason": "Pattern knowledge selected"
+            },
+            {
+                "brain": "DIGIT",
+                "key": "TOP10_AGGREGATED",
+                "vote": "CALL",
+                "score": 51.08,
+                "status": "UNPROVEN",
+                "weight": 0.6,
+                "final": 30.65,
+                "reason": "Digit knowledge selected"
+            }
+        ]
+    }
+]

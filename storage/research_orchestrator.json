@@ -1,0 +1,55 @@
+{
+    "time": "2026-06-26 00:32:54",
+    "version": "RC5",
+    "mode": "RESEARCH",
+    "market": "R_25",
+    "status": "RUNNING",
+    "completed_nodes": 6,
+    "future_nodes": [
+        "TREND",
+        "MARKET",
+        "SESSION",
+        "LAST2",
+        "DIGIT",
+        "HYBRID",
+        "EXECUTION"
+    ],
+    "results": [
+        {
+            "node": "PATTERN",
+            "priority": 100,
+            "status": "OK",
+            "runtime_ms": 273.8
+        },
+        {
+            "node": "EXPERIENCE",
+            "priority": 95,
+            "status": "OK",
+            "runtime_ms": 0.97
+        },
+        {
+            "node": "TRUST",
+            "priority": 90,
+            "status": "BAD",
+            "runtime_ms": 11.66
+        },
+        {
+            "node": "TREND_RESEARCH",
+            "priority": 85,
+            "status": "OK",
+            "runtime_ms": 0.93
+        },
+        {
+            "node": "DIGIT_RESEARCH",
+            "priority": 84,
+            "status": "OK",
+            "runtime_ms": 96.1
+        },
+        {
+            "node": "LAST2_RESEARCH",
+            "priority": 83,
+            "status": "OK",
+            "runtime_ms": 158.01
+        }
+    ]
+}

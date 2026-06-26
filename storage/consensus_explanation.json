@@ -1,0 +1,13 @@
+{
+    "timestamp": "2026-06-23 22:47:32",
+    "decision": "FOLLOW_CALL",
+    "confidence": 63.82,
+    "reasons": [
+        "Pattern: UDD|PUT|3|RSI_40_60|BULLISH|RANGING | Score: 59.1 | Status: ACTIVE",
+        "Digit: DIGIT_6|CALL|4 | WR: 57.21%",
+        "Consensus agreement detected",
+        "Medium confidence"
+    ],
+    "pattern_key": "UDD|PUT|3|RSI_40_60|BULLISH|RANGING",
+    "digit_key": "DIGIT_6|CALL|4"
+}
